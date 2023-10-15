@@ -1,0 +1,1091 @@
+активные роторы	Specific_Term
+активное рыскание	Specific_Term
+активный привод рыскания	Specific_Term
+приводной диск	Specific_Term
+модель диска привода	Specific_Term
+теория приводного диска	Specific_Term
+аэроэластичный	Specific_Term
+аэродинамический	Common_Term
+аэродинамические тормоза	Specific_Term
+аэродинамическое сопротивление	Specific_Term
+аэродинамическая сила	Common_Term
+аэродинамические силы	Common_Term
+аэродинамическая подъемная сила	Specific_Term
+аэродинамическая нагрузка	Specific_Term
+аэродинамические нагрузки	Specific_Term
+аэродинамический срыв	Specific_Term
+аэродинамически	Common_Term
+аэродинамика	Common_Term
+аэроупругий	Specific_Term
+аэроупругая динамика	Specific_Term
+аэродинамический профиль	Specific_Term
+совокупность	OOD_Term
+плотность воздуха	Common_Term
+воздушные нагрузки	Specific_Term
+массовый расход воздуха	Specific_Term
+воздушный поток	Common_Term
+воздушная турбина	Specific_Term
+воздушный поток	Common_Term
+аэродинамический профиль	Specific_Term
+сопротивление аэродинамическому профилю	Specific_Term
+теория аэродинамического профиля	Specific_Term
+аэродинамические профили	Specific_Term
+воздушный винт	Specific_Term
+анемометр	Specific_Term
+угол атаки	Specific_Term
+углы атаки	Specific_Term
+коэффициент угловой индукции	Specific_Term
+коэффициенты угловой индукции	Specific_Term
+угловой момент	Specific_Term
+угловые скорости	Specific_Term
+угловая скорость	Specific_Term
+угловая скорость ветра	Specific_Term
+кольцевой лопастной элемент	Specific_Term
+кольцевой генератор	Specific_Term
+кольцевая секция ротора	Specific_Term
+антропогенный	Specific_Term
+антропогенные выбросы	Specific_Term
+антропогенные выбросы парниковых газов	Specific_Term
+антропогенное загрязнение	Specific_Term
+антропогенные источники	Specific_Term
+среднее арифметическое	OOD_Term
+соотношение сторон	Specific_Term
+соотношение сторон	Specific_Term
+асинхронная машина	Specific_Term
+атмосфера	Common_Term
+автоматическое раскручивание кабеля	Specific_Term
+оси	Common_Term
+осевой	Specific_Term
+осевое направление	Specific_Term
+осевая сила	Specific_Term
+индуцированная осевая скорость	Specific_Term
+коэффициент осевой индукции	Specific_Term
+коэффициенты осевой индукции	Specific_Term
+осевой импульс	Specific_Term
+теория осевого импульса	Specific_Term
+осевая тяга	Specific_Term
+осевые скорости	Specific_Term
+осевая скорость	Specific_Term
+осевой вихрь	Specific_Term
+осевая скорость ветра	Specific_Term
+ось	Common_Term
+наклон оси	Specific_Term
+осесимметричный поток	Specific_Term
+ось	Specific_Term
+азимут	Specific_Term
+азимутальный угол	Specific_Term
+азимутальная система	Specific_Term
+приказывать	Specific_Term
+баланс станции	Specific_Term
+баржа	Specific_Term
+базовый фрейм	Specific_Term
+батареи	Common_Term
+подшипник	Specific_Term
+кольцо подшипника	Specific_Term
+подшипники	Specific_Term
+опорная плита	Specific_Term
+bem	Specific_Term
+теория бэм	Specific_Term
+функция Бернулли	Specific_Term
+постоянная Бернулли	Specific_Term
+уравнение Бернулли	Specific_Term
+лимит бетца	Specific_Term
+турбина Бетца	Specific_Term
+энергия биомассы	Specific_Term
+лезвие	Specific_Term
+угол наклона лезвия	Specific_Term
+углы наклона лопастей	Specific_Term
+сочленение лезвия	Specific_Term
+лопастные оси	Specific_Term
+хорда лезвия	Specific_Term
+длина хорды лезвия	Specific_Term
+длина хорды лезвия	Specific_Term
+распределение длины хорды лопасти	Specific_Term
+линия лопасти	Specific_Term
+конусообразование лезвия	Specific_Term
+отклонение лезвия	Specific_Term
+конструкция лезвия	Specific_Term
+лопастной элемент	Specific_Term
+импульс лопастного элемента	Specific_Term
+теория импульса элемента лопасти	Specific_Term
+теория элементов лезвия	Specific_Term
+элемент лезвия-импульс	Specific_Term
+элемент лопасти-теория импульса	Specific_Term
+элементы лезвия	Specific_Term
+геометрия лезвий	Specific_Term
+геометрия лезвия	Specific_Term
+длина лезвия	Specific_Term
+длина лезвия	Specific_Term
+шаг лопасти	Specific_Term
+угол наклона лопасти	Specific_Term
+системы изменения шага лопастей	Specific_Term
+профиль лезвия	Specific_Term
+радиус лезвия	Specific_Term
+корень лопасти	Specific_Term
+корни лопастей	Specific_Term
+вращение лезвия	Specific_Term
+угол установки лезвия	Specific_Term
+форма лезвия	Specific_Term
+размах лезвия	Specific_Term
+остановка лезвия	Specific_Term
+наконечник лезвия	Specific_Term
+скорость кончика лезвия	Specific_Term
+наконечники лезвий	Specific_Term
+поворот лезвия	Specific_Term
+элемент лезвия	Specific_Term
+импульс элемента лезвия	Specific_Term
+теория импульса лопастного элемента	Specific_Term
+теория элементов лезвия	Specific_Term
+наконечник лезвия	Specific_Term
+лезвия	Specific_Term
+bos	Specific_Term
+ограниченное распространение	Specific_Term
+связанный вихрь	Specific_Term
+связанные вихри	Specific_Term
+связанное завихрение	Specific_Term
+связанная завихренность	Specific_Term
+тормоз	Common_Term
+тормозная система	Common_Term
+тормоза	Common_Term
+торможение	Common_Term
+тормозная система	Common_Term
+тормозные системы	Common_Term
+бриз	Common_Term
+бычье снаряжение	Specific_Term
+кабель	Common_Term
+кабели	Common_Term
+выпуклость	Specific_Term
+линия изгиба	Specific_Term
+консольный	Specific_Term
+углерод	Common_Term
+углеродные кредиты	Specific_Term
+выбросы углекислого газа	Common_Term
+коэффициент выбросов углерода	Specific_Term
+углеродоемкая электроэнергия	Specific_Term
+углеродоемкое производство	Specific_Term
+центробежный воздушный насос	Specific_Term
+центробежная сила	Specific_Term
+центробежные силы	Specific_Term
+аккорд	Specific_Term
+длина хорды	Specific_Term
+распределение длины хорды	Specific_Term
+длина хорды	Specific_Term
+распределение длины хорды	Specific_Term
+распределения длин хорд	Specific_Term
+соотношение длины хорды	Specific_Term
+изменение длины аккорда	Specific_Term
+длины аккордов	Specific_Term
+длина аккорда	Specific_Term
+распределение длины аккорда	Specific_Term
+линия хорды	Specific_Term
+гражданское строительство	Common_Term
+зазор	Specific_Term
+климат	Common_Term
+изменение климата	Common_Term
+co2	Common_Term
+выбросы co2	Common_Term
+коэффициент выбросов co2	Specific_Term
+коэффициенты выбросов co2	Specific_Term
+выбросы co2	Common_Term
+сокращение выбросов co2	Common_Term
+co2e	Specific_Term
+покрытие	Common_Term
+coe	Common_Term
+Колорадо	Specific_Term
+композитные обтекатели	Specific_Term
+концентратор	Specific_Term
+конусообразный ротор	Specific_Term
+сохранение линейного импульса	Specific_Term
+панели управления	Common_Term
+конвертер	Specific_Term
+конвертеры	Specific_Term
+коррозия	Common_Term
+стоимость энергии	Common_Term
+вращение против часовой стрелки	Specific_Term
+лопасти, вращающиеся в противоположных направлениях	Specific_Term
+вращение против часовой стрелки	Specific_Term
+противовес	Specific_Term
+связанные вибрации	Specific_Term
+сцепление	Common_Term
+cp	Specific_Term
+предельная скорость ветра	Specific_Term
+скорость включения	Specific_Term
+снижение скорости ветра	Specific_Term
+скорость отключения	Specific_Term
+предельная скорость ветра	Specific_Term
+циклические нагрузки	Specific_Term
+ротор Дарриуса	Specific_Term
+глубинные заземляющие электроды	Specific_Term
+глубокая остановка	Specific_Term
+дифференциальное уравнение	OOD_Term
+синхронный кольцевой генератор с прямым приводом	Specific_Term
+трансмиссия с прямым приводом	Specific_Term
+дисковый тормоз	Specific_Term
+распределение угла атаки	Specific_Term
+система распределения	Specific_Term
+доминирующие ветры	Specific_Term
+нисходящий поток	Specific_Term
+скорость движения вниз по течению	Specific_Term
+скорость ветра ниже по течению	Specific_Term
+с подветренной стороны	Common_Term
+подветренный ястреб	Specific_Term
+давление с подветренной стороны	Specific_Term
+несущий винт с подветренной стороны	Specific_Term
+роторы с подветренной стороны	Specific_Term
+турбины с подветренной стороны	Specific_Term
+перетаскивание	Specific_Term
+коэффициент лобового сопротивления	Specific_Term
+коэффициенты лобового сопротивления	Specific_Term
+сила сопротивления	Specific_Term
+перетаскивание грузов	Specific_Term
+потери при торможении	Specific_Term
+тип перетаскивания	Specific_Term
+отношение лобового сопротивления к подъемной силе	Specific_Term
+соотношение лобового сопротивления и подъемной силы	Specific_Term
+приводной механизм	Specific_Term
+забивная свая	Specific_Term
+драйвер	Specific_Term
+падение давления	Specific_Term
+динамический	Common_Term
+динамические нагрузки	Specific_Term
+динамические нагрузки на конструкцию	Specific_Term
+динамически	Common_Term
+динамика	Common_Term
+заземленный	Common_Term
+экологический	Common_Term
+эффективный радиус	Specific_Term
+эффективный радиус	Specific_Term
+ОВОС	Specific_Term
+электрический	Common_Term
+электрическая мощность	Specific_Term
+производство электроэнергии	Common_Term
+электроэнергетика	Common_Term
+электрическая сеть	Common_Term
+электроснабжение	Common_Term
+электрический	Common_Term
+электрическая энергия	Common_Term
+производство электроэнергии	Common_Term
+электрический генератор	Common_Term
+электрическая сеть	Common_Term
+электрическая мощность	Specific_Term
+электроэнергия	Common_Term
+электрические сервоприводы	Specific_Term
+электрическая система	Common_Term
+электричество	Common_Term
+распределение электроэнергии	Common_Term
+сети распределения электроэнергии	Common_Term
+производство электроэнергии	Common_Term
+электросеть	Common_Term
+линия электропередачи	Common_Term
+счетчик электроэнергии	Common_Term
+электрическая сеть	Common_Term
+выработка электроэнергии	Common_Term
+производство электроэнергии	Common_Term
+электроснабжение	Common_Term
+электроды	Common_Term
+электромагнитный	Common_Term
+электромагнитное излучение	Common_Term
+электронный	Common_Term
+электронное питание	Common_Term
+электронные преобразователи мощности	Specific_Term
+электронный датчик направления ветра	Specific_Term
+электроника	Common_Term
+электротехнический	Common_Term
+стихийная сила	Specific_Term
+коэффициент элементарной мощности	Specific_Term
+элементарный толчок	Specific_Term
+элементарная сила тяги	Specific_Term
+элементарный крутящий момент	Specific_Term
+элементарное кольцевое пространство	Specific_Term
+выбросы	Common_Term
+коэффициент выбросов	Specific_Term
+коэффициенты выбросов	Specific_Term
+сокращение выбросов	Common_Term
+единицы сокращения выбросов	Specific_Term
+сокращение выбросов	Common_Term
+единицы измерения сокращения выбросов	Specific_Term
+выбросы	Common_Term
+коэффициент выбросов	Specific_Term
+сокращение выбросов	Common_Term
+кредиты на сокращение выбросов	Specific_Term
+выброшенный	Common_Term
+эмпирический	OOD_Term
+инвертор enercon	Specific_Term
+энергия	Common_Term
+производство энергии	Common_Term
+производство энергии	Common_Term
+выход энергии	Specific_Term
+турбина Энфилда-Андрео	Specific_Term
+ветряная турбина с горизонтальной осью типа enfield-andreau	Specific_Term
+инженер	Common_Term
+инженерия	Common_Term
+инженеры	Common_Term
+окружающая среда	Common_Term
+экологический	Common_Term
+воздействие на окружающую среду	Common_Term
+оценка воздействия на окружающую среду	Specific_Term
+воздействие на окружающую среду	Common_Term
+экологически	Common_Term
+эпоксидная смола	Specific_Term
+эквипотенциальная связь	Specific_Term
+акционерный капитал	OOD_Term
+инвесторы в акционерный капитал	OOD_Term
+ers	Common_Term
+eru	Specific_Term
+ЕСВ	Specific_Term
+экстремальные нагрузки	Specific_Term
+дальний след	Specific_Term
+дальний след	Specific_Term
+быстрый вал	Specific_Term
+усталостное повреждение	Specific_Term
+усталостная долговечность	Specific_Term
+усталостные нагрузки	Specific_Term
+льготный тариф	OOD_Term
+фиксированный шаг лезвия	Specific_Term
+фиксированный угол наклона лезвия	Specific_Term
+фиксированная сеть isdn	Specific_Term
+фиксированный шаг	Specific_Term
+ротор с фиксированной скоростью вращения	Specific_Term
+фиксированный вращающийся трехлопастный нож hawt	Specific_Term
+технология с фиксированным дном	Specific_Term
+фиксированный шаг	Specific_Term
+турбина с фиксированной частотой вращения	Specific_Term
+монтируемый на фланце	Specific_Term
+плавучая морская ветряная турбина	Specific_Term
+плавучие морские ветряные турбины	Specific_Term
+плавучая платформа	Specific_Term
+плавучие платформы	Specific_Term
+плавучая турбина	Specific_Term
+плавучие турбины	Specific_Term
+плавучая ветряная турбина	Specific_Term
+плавучие платформы для ветряных турбин	Specific_Term
+плавучие ветряные турбины	Specific_Term
+поток	Specific_Term
+углы потока	Specific_Term
+коэффициент потока	Specific_Term
+поле потока	Specific_Term
+путь потока	Specific_Term
+пути потока	Specific_Term
+схемы потока	Specific_Term
+скорость потока	Specific_Term
+состояние потока	Specific_Term
+состояния потока	Specific_Term
+скорость потока	Specific_Term
+потоки	Specific_Term
+сопротивление жидкости	Specific_Term
+приточная вентиляция	Specific_Term
+ископаемое топливо	Common_Term
+ископаемое топливо	Common_Term
+основание	Common_Term
+заземляющие электроды фундамента	Specific_Term
+основы	Common_Term
+четырехлопастный	Specific_Term
+четырехточечный подшипник	Specific_Term
+свободный поток	Specific_Term
+скорость свободного потока ветра	Specific_Term
+скорость ветра в свободном потоке	Specific_Term
+свободный вихрь	Specific_Term
+свободные вихревые листы	Specific_Term
+свободные вихри	Specific_Term
+свободное рыскание	Specific_Term
+свободный поток	Specific_Term
+скорость свободного потока	Specific_Term
+скорость ветра в свободном потоке	Specific_Term
+сопротивление трению	Specific_Term
+топливо	Common_Term
+виды топлива	Common_Term
+полнопролетное управление шагом	Specific_Term
+механизм сворачивания	Specific_Term
+шторм	Common_Term
+газ	Common_Term
+газы	Common_Term
+передача	Common_Term
+передаточное число	Specific_Term
+коробка передач	Common_Term
+зацепление	Common_Term
+безредукторный	Specific_Term
+шестерни	Common_Term
+общий импульс	Specific_Term
+общая теория импульса	Specific_Term
+генератор	Common_Term
+приводной вал генератора	Specific_Term
+генераторы	Common_Term
+выбросы парниковых газов	Common_Term
+выбросы парниковых газов	Common_Term
+выбросы парниковых газов	Common_Term
+стекловолокно	Common_Term
+пластик, армированный стекловолокном	Specific_Term
+стекловолокно	Common_Term
+пластик, армированный стекловолокном	Specific_Term
+эмпирическая формула Глауэрта	Specific_Term
+эмпирическая зависимость Глауэрта	Specific_Term
+эмпирическая формула Глауэрта	Specific_Term
+коэффициент скольжения	Specific_Term
+коэффициенты скольжения	Specific_Term
+глобальное потепление	Common_Term
+парниковый газ	Common_Term
+выбросы парниковых газов	Common_Term
+выбросы парниковых газов	Common_Term
+парниковые газы	Common_Term
+сетка	Common_Term
+подключение к электросети	Common_Term
+сбой в электросети	Common_Term
+системы, подключенные к сети	Specific_Term
+турбины, подключенные к электросети	Specific_Term
+ветряная турбина, подключенная к сети	Specific_Term
+точильные камни	Common_Term
+врп	Specific_Term
+покрытие из стеклопластика	Specific_Term
+gwh	Common_Term
+hawt	Specific_Term
+аэродинамические профили hawt	Specific_Term
+ястребиный клинок	Specific_Term
+конструкция лезвия hawt	Specific_Term
+лезвия hawt	Specific_Term
+гондола hawt	Specific_Term
+ротор hawt	Specific_Term
+лопасти несущего винта hawt	Specific_Term
+конструкция ротора hawt	Specific_Term
+ступицы ротора hawt	Specific_Term
+роторы hawt	Specific_Term
+башня ястребов	Specific_Term
+ястребы	Specific_Term
+hco2	Specific_Term
+тепловая энергия	Common_Term
+производство тепла	Common_Term
+высокоскоростной вал	Specific_Term
+высоковольтная линия	Common_Term
+сильный ветер	Common_Term
+высокоскоростная воздушная турбина	Specific_Term
+ветряная турбина с горизонтальной осью	Specific_Term
+ветряные турбины с горизонтальной осью	Specific_Term
+горизонтальный вал ротора	Specific_Term
+европейские ветряные мельницы с горизонтальной осью	Specific_Term
+ветряная турбина с горизонтальной осью	Specific_Term
+лопасть ветряной турбины с горизонтальной осью	Specific_Term
+конструкция лопасти ветряной турбины с горизонтальной осью	Specific_Term
+лопасти ветряной турбины с горизонтальной осью	Specific_Term
+ветряные турбины с горизонтальной осью	Specific_Term
+ветряная мельница с горизонтальной осью	Specific_Term
+ветряные мельницы с горизонтальной осью	Specific_Term
+ветряные турбины с горизонтальной осью	Specific_Term
+жилье	Specific_Term
+центр	Specific_Term
+концентраторы	Specific_Term
+гидравлический	Common_Term
+гидравлические тормоза	Specific_Term
+гидравлическое давление	Specific_Term
+гидравлическое давление	Specific_Term
+гидравлическая система	Specific_Term
+гидравлика	Common_Term
+гидродинамический	Specific_Term
+гидродинамически	Specific_Term
+гидродинамика	Specific_Term
+гидроупругий	Specific_Term
+индуцированные угловые скорости	Specific_Term
+индуцированная угловая скорость	Specific_Term
+индуцированная осевая скорость	Specific_Term
+индуцированный поток	Specific_Term
+индуцированные скорости	Specific_Term
+индуцированная скорость	Specific_Term
+фактор индукции	Specific_Term
+коэффициенты индукции	Specific_Term
+промышленность	Common_Term
+приток	Specific_Term
+установленные мощности	Specific_Term
+установленная мощность	Specific_Term
+установленная мощность	Specific_Term
+передача с перебоями	Specific_Term
+внутренняя норма прибыли	OOD_Term
+irr	OOD_Term
+безвихревой	Specific_Term
+изометрический	Specific_Term
+коррекция сжимаемости кармана-цзяня	Specific_Term
+киловатт	Common_Term
+кинематическая вязкость воздуха	Specific_Term
+кинетический	Specific_Term
+кинетическая энергия	Specific_Term
+ktco2	Specific_Term
+кто такой	Specific_Term
+kv	Common_Term
+квт	Common_Term
+кВтч	Common_Term
+наземная ветроэнергетика	Specific_Term
+наземная ветряная турбина	Specific_Term
+наземные ветряные турбины	Specific_Term
+файл	Specific_Term
+передний край	Specific_Term
+метод наименьших квадратов	Specific_Term
+подъём	Specific_Term
+коэффициент подъемной силы	Specific_Term
+коэффициенты подъема	Specific_Term
+подъемная сила	Specific_Term
+подъемные силы	Specific_Term
+коэффициенты подъемной силы	Specific_Term
+молниезащита	Common_Term
+система молниезащиты	Common_Term
+линейный импульс	Specific_Term
+теория линейного импульса	Specific_Term
+загрузка	Specific_Term
+путь загрузки	Specific_Term
+загружен	Specific_Term
+загрузка	Specific_Term
+нагрузки	Specific_Term
+ротор с низкой прочностью	Specific_Term
+число маха	Specific_Term
+машина	Common_Term
+станина машины	Specific_Term
+элементы управления машиной	Specific_Term
+машины	Common_Term
+магнитные поля	Common_Term
+эффект Магнуса	Specific_Term
+основное лезвие	Specific_Term
+главный вал	Specific_Term
+электроснабжение по сети	Common_Term
+сетевой источник питания	Common_Term
+электроснабжение	Common_Term
+момент инерции массы	Specific_Term
+механический	Common_Term
+механический тормоз	Specific_Term
+механический дисковый тормоз	Specific_Term
+механическая мощность	Specific_Term
+механическая трансмиссия	Specific_Term
+механика	Common_Term
+механизм	Common_Term
+механизмы	Common_Term
+мегаватт	Common_Term
+мегаватты	Common_Term
+метеорологический	Common_Term
+метеорологическая мачта	Specific_Term
+методология	OOD_Term
+мельница	Common_Term
+жернова	Common_Term
+импульс	Common_Term
+теории импульса	Specific_Term
+теория импульса	Specific_Term
+монопайл	Specific_Term
+натяжение швартовного троса	Specific_Term
+предположение об уравнениях Морисона	Specific_Term
+двигатель	Common_Term
+мощность двигателя	Common_Term
+двигатели	Common_Term
+многолопастный	Specific_Term
+мегаватт	Common_Term
+МВтч	Common_Term
+mwhe	Specific_Term
+гондола	Specific_Term
+покрытие гондолы	Specific_Term
+гондолы	Specific_Term
+национальная энергосистема	Common_Term
+природный газ	Common_Term
+чистая сила	Specific_Term
+чистая приведенная стоимость	OOD_Term
+чистая зачищенная площадь	Specific_Term
+сеть	Common_Term
+сети	Common_Term
+шумоизоляция	Common_Term
+номинальная электрическая мощность	Specific_Term
+номинальная электрическая мощность	Specific_Term
+номинальная мощность	Specific_Term
+безразмерный радиус лезвия	Specific_Term
+нелинейные нагрузки	Specific_Term
+невращающийся	Common_Term
+нормальная сила	Specific_Term
+npv	OOD_Term
+атомная энергия	Common_Term
+ядерная энергетика	Common_Term
+внеосевые ветры	Specific_Term
+оффшор	Common_Term
+разработка на шельфе	Common_Term
+морские плавучие ветряные турбины	Specific_Term
+морские турбины	Specific_Term
+морской ветер	Common_Term
+морская ветроэнергетика	Common_Term
+технология морской ветроэнергетики	Common_Term
+морская ветроэлектростанция	Common_Term
+морские ветряные электростанции	Common_Term
+морские ветроэнергетические технологии	Specific_Term
+технология морской ветроэнергетики	Common_Term
+морская ветряная турбина	Common_Term
+технологии морских ветряных турбин	Common_Term
+технология морских ветряных турбин	Common_Term
+морские ветряные турбины	Common_Term
+морские ветры	Common_Term
+морские ветряные турбины	Common_Term
+нефть	Common_Term
+береговой	Common_Term
+береговая ветряная турбина	Common_Term
+операционные расходы	Specific_Term
+эксплуатационные расходы	Specific_Term
+оримульсия	Specific_Term
+подвесной двигатель	Specific_Term
+отток	Specific_Term
+производственная мощность	Specific_Term
+перенапряжение	Specific_Term
+управление шагом частичного размаха	Specific_Term
+пассивный привод рыскания	Specific_Term
+pco2	Specific_Term
+максимальная производительность	Common_Term
+пиковая мощность	Specific_Term
+персидская мельница	Specific_Term
+зубчатая передача	Specific_Term
+подача	Specific_Term
+угол наклона	Specific_Term
+управление высотой тона	Specific_Term
+шаговые двигатели	Specific_Term
+механизм изменения высоты тона	Specific_Term
+механизмы изменения высоты тона	Specific_Term
+сменные наконечники	Specific_Term
+поворотная лопасть наконечника	Specific_Term
+плоскость вращения	Specific_Term
+планетарная/цилиндрическая зубчатая система	Specific_Term
+растение	Common_Term
+растения	Common_Term
+пневматически	Specific_Term
+изменяемый полюс	Specific_Term
+асинхронный генератор с возможностью смены полюсов	Specific_Term
+асинхронная машина со сменой полюсов	Specific_Term
+загрязнители	Common_Term
+загрязнение окружающей среды	Common_Term
+сила	Common_Term
+силовые шкафы	Common_Term
+коэффициент мощности	Specific_Term
+коэффициенты мощности	Specific_Term
+управление мощностью	Specific_Term
+кривая мощности	Specific_Term
+силовая электроника	Specific_Term
+силовые электронные преобразователи	Specific_Term
+силовая электроника	Specific_Term
+производство электроэнергии	Common_Term
+энергосистема	Common_Term
+рынок электроэнергии	Common_Term
+измеритель мощности	Common_Term
+энергетическая сеть	Common_Term
+выходная мощность	Specific_Term
+выходная мощность	Specific_Term
+энергетические характеристики	Specific_Term
+прогнозирование энергопотребления	Specific_Term
+электростанция	Common_Term
+электростанции	Common_Term
+прогнозирование мощности	Specific_Term
+производство электроэнергии	Common_Term
+соглашение о покупке электроэнергии	Specific_Term
+электростанция	Common_Term
+электростанции	Common_Term
+источник питания	Common_Term
+силовая установка	Specific_Term
+силовая установка	Specific_Term
+полномочия	Common_Term
+ppa	Specific_Term
+модель Прандтля	Specific_Term
+модель потери наконечника Прандтля	Specific_Term
+поправочный коэффициент подсказки Прандтля	Specific_Term
+распределение давления	Common_Term
+перепад давления	Specific_Term
+градиент давления	Specific_Term
+увеличение давления	Specific_Term
+первичный вал	Specific_Term
+производственная мощность	Specific_Term
+состояние тормоза гребного винта	Specific_Term
+класс защиты ip 54	Specific_Term
+государственно-частное партнерство	OOD_Term
+радиальный	Specific_Term
+радиальный лопастной элемент	Specific_Term
+радиальные центробежные силы	Specific_Term
+радиальная координата	Specific_Term
+радиальное расстояние	Specific_Term
+радиальные расстояния	Specific_Term
+радиальный поток	Specific_Term
+коэффициент радиальной тяги	Specific_Term
+радиальная скорость	Specific_Term
+радиальная скорость ветра	Specific_Term
+радиусы	Specific_Term
+радиус	Specific_Term
+скорость снижения импульса	Specific_Term
+номинальная мощность	Specific_Term
+номинальная скорость ветра	Specific_Term
+распределение Рэлея	OOD_Term
+относительный угол наклона ветра	Specific_Term
+относительные углы наклона ветра	Specific_Term
+относительная скорость ветра	Specific_Term
+удаленный мониторинг данных	Specific_Term
+программное обеспечение для удаленного мониторинга данных	Specific_Term
+удаленная передача данных	Specific_Term
+удаленный мониторинг	Specific_Term
+возобновляемые источники энергии	Common_Term
+возобновляемая электроэнергия	Common_Term
+производство электроэнергии из возобновляемых источников	Common_Term
+возобновляемые источники энергии	Common_Term
+производство энергии из возобновляемых источников	Common_Term
+возобновляемые источники энергии	Common_Term
+возобновляемые источники энергии	Common_Term
+фактор замедления	Specific_Term
+число Рейнольдса	Specific_Term
+числа Рейнольдса	Specific_Term
+прямоугольный зубчатый механизм	Specific_Term
+жесткая ступица	Specific_Term
+рнк	Specific_Term
+роликоподшипники	Specific_Term
+корень	Specific_Term
+корни	Specific_Term
+повернуть	Common_Term
+вращается	Common_Term
+вращающийся	Common_Term
+ротация	Common_Term
+скорость вращения	Common_Term
+ротационный	Common_Term
+энергия вращения	Specific_Term
+вращательный момент	Specific_Term
+скорость вращения	Specific_Term
+коробка передач с высокой скоростью вращения	Specific_Term
+скорости вращения	Specific_Term
+скорость вращения	Specific_Term
+ротор	Common_Term
+ось ротора	Common_Term
+лопасть несущего винта	Specific_Term
+лопасти несущего винта	Specific_Term
+тормоз ротора	Specific_Term
+управление ротором	Specific_Term
+конструкция ротора	Specific_Term
+диаметр ротора	Common_Term
+диаметры роторов	Common_Term
+диск ротора	Specific_Term
+приводная передача ротора	Specific_Term
+геометрия ротора	Specific_Term
+ступица ротора	Specific_Term
+ступицы ротора	Specific_Term
+нагрузки на ротор	Specific_Term
+блокировка ротора	Specific_Term
+сборка гондолы несущего винта	Specific_Term
+масса гондолы несущего винта	Specific_Term
+ориентация ротора	Specific_Term
+производительность ротора	Specific_Term
+плоскость несущего винта	Specific_Term
+мощность ротора	Specific_Term
+коэффициент мощности ротора	Specific_Term
+радиус ротора	Specific_Term
+вращение ротора	Specific_Term
+вал ротора	Specific_Term
+частота вращения ротора	Common_Term
+раскачивание ротора	Specific_Term
+тяга ротора	Specific_Term
+наконечники ротора	Specific_Term
+крутящий момент ротора	Specific_Term
+rotornacelle	Specific_Term
+ось роторной насадки	Specific_Term
+роторы	Common_Term
+обороты в минуту	Common_Term
+парус	Specific_Term
+паруса	Specific_Term
+ротор Савониуса	Specific_Term
+лесопильные заводы	Common_Term
+вторичный вал	Specific_Term
+сервоприводы	Specific_Term
+эффект тени	Specific_Term
+мерцание тени	Specific_Term
+эффект затенения	Specific_Term
+вал	Specific_Term
+валы	Specific_Term
+оболочка	Specific_Term
+однолопастный	Specific_Term
+однолопастной ветряной ротор	Specific_Term
+трение кожи	Specific_Term
+контактные кольца	Specific_Term
+скользящий поток	Specific_Term
+коэффициент прочности	Specific_Term
+звуконепроницаемое стеклопластиковое покрытие	Specific_Term
+поперечные оси	Specific_Term
+сквозной поток	Specific_Term
+лонжерон	Specific_Term
+лонжероны-буи	Specific_Term
+лонжероны	Specific_Term
+остановка	Specific_Term
+угол сваливания	Specific_Term
+управляемая остановка	Specific_Term
+лопасти с управляемым сваливанием	Specific_Term
+роторы с управляемым сваливанием	Specific_Term
+застопорился	Specific_Term
+киоски	Specific_Term
+автономные системы	Specific_Term
+циклы запуска-остановки	Specific_Term
+пусковой момент	Specific_Term
+устойчивое состояние	Specific_Term
+стальная фольга	Specific_Term
+стохастическая нагрузка	Specific_Term
+тормозной момент	Specific_Term
+шторм	Common_Term
+отключение защиты от шторма	Specific_Term
+потоковая трубка	Specific_Term
+оптимизация	Specific_Term
+потоковая трубка	Specific_Term
+потоковые трубки	Specific_Term
+теория полос	Specific_Term
+дозвуковые изолированные аэродинамические поверхности	Specific_Term
+солнечная энергия	Common_Term
+поверхностная скорость	Specific_Term
+устойчивое развитие	Common_Term
+устойчивое электроснабжение	Common_Term
+устойчивое производство электроэнергии	Common_Term
+экологически чистое топливо	Common_Term
+устойчивый источник топлива	Common_Term
+зачищенная область	Specific_Term
+распределительное устройство	Specific_Term
+синхронный генератор	Specific_Term
+системный оператор	Common_Term
+t co2e	Specific_Term
+хвостовая лопасть	Specific_Term
+касательная сила	Specific_Term
+касательные силы	Specific_Term
+tco2	Specific_Term
+tco2e	Specific_Term
+te	Specific_Term
+технический	Common_Term
+технический потенциал ветроэнергетики	Specific_Term
+технически	Common_Term
+технические специалисты	Common_Term
+методы	Common_Term
+технологический	Common_Term
+технологии	Common_Term
+технология	Common_Term
+шарнир качания	Specific_Term
+колебательное движение	Specific_Term
+балансирующий	Specific_Term
+балансирующий узел	Specific_Term
+колеблющийся	Specific_Term
+датчики температуры	Common_Term
+напряжение	Specific_Term
+платформа для натяжных ножек	Specific_Term
+платформы для натяжных ножек	Specific_Term
+теоретический максимальный коэффициент мощности	Specific_Term
+термический	Common_Term
+тепловая энергетика	Common_Term
+производство тепловой энергии	Common_Term
+трехлопастный	Specific_Term
+трехлопастный ястреб	Specific_Term
+трехлопастный ротор hawt	Specific_Term
+трехлопастной ротор	Specific_Term
+трехлопастная турбина	Specific_Term
+трехлопастная ветряная турбина	Specific_Term
+трехлопастные ветряные турбины	Specific_Term
+трехлопастный	Specific_Term
+направленность	Specific_Term
+коэффициент тяги	Specific_Term
+коэффициенты тяги	Specific_Term
+сила тяги	Specific_Term
+осевые нагрузки	Specific_Term
+тяга на единицу площади	Specific_Term
+тиристоры	Specific_Term
+совет	Specific_Term
+наконечник тормоза	Specific_Term
+наконечники кабелей	Specific_Term
+коррекция наконечника	Specific_Term
+потеря чаевых	Specific_Term
+коэффициент потери чаевых	Specific_Term
+потери чаевых	Specific_Term
+радиус наконечника	Specific_Term
+скорость наконечника	Specific_Term
+соотношение скоростей наконечника	Specific_Term
+коэффициенты скорости наконечника	Specific_Term
+скорость наконечника	Specific_Term
+наконечник лопасти	Specific_Term
+наконечник-тормоз	Specific_Term
+ветряные турбины с горизонтальной осью, управляемые наконечником	Specific_Term
+потеря чаевых	Specific_Term
+эффект потери чаевых	Specific_Term
+коэффициент потери чаевых	Specific_Term
+потери на наконечник	Specific_Term
+опрокинутый	Specific_Term
+соотношение чаевых и мочи	Specific_Term
+подсказка-скорость	Specific_Term
+соотношение наконечника и скорости	Specific_Term
+соотношение наконечника и скорости	Specific_Term
+советы	Specific_Term
+скорость подачи	Specific_Term
+коэффициент скорости опрокидывания	Specific_Term
+коэффициенты скорости опрокидывания	Specific_Term
+tlp	Specific_Term
+tne	Specific_Term
+тыс. т	Specific_Term
+тонны эквивалента co2	Specific_Term
+тонны нефтяного эквивалента	Specific_Term
+крутящий момент	Specific_Term
+башня	Specific_Term
+основание башни	Specific_Term
+зазор между башнями	Specific_Term
+тень башни	Specific_Term
+корпус башни	Specific_Term
+башни	Specific_Term
+задняя кромка	Specific_Term
+тянущийся вихрь	Specific_Term
+тянущаяся вихревая система	Specific_Term
+тянущиеся вихри	Specific_Term
+трансформатор	Specific_Term
+трансформаторы	Specific_Term
+передача	Specific_Term
+передача электроэнергии	Specific_Term
+оператор системы передачи данных	Specific_Term
+ферменная конструкция	Specific_Term
+tsr	Specific_Term
+турбина	Specific_Term
+аэродинамические профили турбин	Specific_Term
+лопатки турбины	Specific_Term
+мощность турбины	Specific_Term
+потребляемая мощность турбины	Specific_Term
+выходная мощность турбины	Specific_Term
+ротор турбины	Specific_Term
+роторы турбин	Specific_Term
+вал турбины	Specific_Term
+узел вала турбины	Specific_Term
+турбины	Specific_Term
+турбулентность	Common_Term
+турбулентная нагрузка	Specific_Term
+турбулентный	Common_Term
+турбулентное состояние бодрствования	Specific_Term
+турбулентный ветер	Common_Term
+поворот	Specific_Term
+угол скручивания	Specific_Term
+распределение угла скручивания	Specific_Term
+распределение углов скручивания	Specific_Term
+распределение скручивания	Specific_Term
+распределения скручивания	Specific_Term
+скрученный	Specific_Term
+двухлопастный	Specific_Term
+двулопастный ястреб	Specific_Term
+двухлопастный ротор hawt	Specific_Term
+двухлопастной ротор	Specific_Term
+двухлопастная турбина	Specific_Term
+двухлопастные турбины	Specific_Term
+двухлопастные ветряные турбины	Specific_Term
+двухступенчатая асинхронная машина с возможностью смены полюсов	Specific_Term
+двулопастный	Specific_Term
+двухлопастной ротор	Specific_Term
+несвязанный ротор	Specific_Term
+восходящий поток	Specific_Term
+с подветренной стороны	Common_Term
+давление против ветра	Specific_Term
+несущий винт с наветренной стороны	Specific_Term
+роторы с наветренной стороны	Specific_Term
+турбины с восходящим ветром	Specific_Term
+коммунальная сеть	Common_Term
+v	Common_Term
+лопасть	Common_Term
+переменное управление шагом одиночного лезвия	Specific_Term
+vawt	Specific_Term
+скорости	Common_Term
+скорость	Common_Term
+скорость ветра	Specific_Term
+персидские ветряные мельницы с вертикальной осью	Specific_Term
+турбина с вертикальной осью	Specific_Term
+ветряная турбина с вертикальной осью	Specific_Term
+ветряные турбины с вертикальной осью	Specific_Term
+ветряная мельница с вертикальной осью	Specific_Term
+ветряные мельницы с вертикальной осью	Specific_Term
+виброгасители	Specific_Term
+виброизоляция	Specific_Term
+вязкость	Common_Term
+напряжение	Common_Term
+вольт	Common_Term
+вихрь	Specific_Term
+вихревая линия	Specific_Term
+вихревая линия силы	Specific_Term
+вихревые линии	Specific_Term
+состояние вихревого кольца	Specific_Term
+вихревые кольца	Specific_Term
+вихревой лист	Specific_Term
+вихревые листы	Specific_Term
+вихревая система	Specific_Term
+вихревые системы	Specific_Term
+теория вихрей	Specific_Term
+метод вихревого следа	Specific_Term
+вихри	Specific_Term
+вихревость	Specific_Term
+завихренность	Specific_Term
+пробуждение	Specific_Term
+вращение после пробуждения	Specific_Term
+скорости следования	Specific_Term
+ватт	Common_Term
+волновая нагрузка	Specific_Term
+волновые нагрузки	Specific_Term
+сварные соединения	Specific_Term
+ветер	Common_Term
+угол наклона ветра	Specific_Term
+углы наклона ветра	Specific_Term
+направление ветра	Common_Term
+датчик направления ветра	Specific_Term
+энергия ветра	Common_Term
+преобразование энергии ветра	Specific_Term
+преобразователи энергии ветра	Specific_Term
+ветроэнергетические парки	Common_Term
+потенциал ветроэнергетики	Specific_Term
+ветроэнергетика	Specific_Term
+ветроэлектростанция	Common_Term
+ветряные электростанции	Common_Term
+поле ветра	Specific_Term
+ветровой поток	Specific_Term
+сила ветра	Common_Term
+силы ветра	Common_Term
+ветроэнергетика	Specific_Term
+ветрогенераторы	Specific_Term
+ветроэнергетика	Common_Term
+ветровая нагрузка	Specific_Term
+ветряная машина	Common_Term
+ветропарк	Common_Term
+ветряные парки	Common_Term
+энергия ветра	Common_Term
+энергия ветра, электричество	Common_Term
+производство энергии ветра	Common_Term
+ветроэнергетические парки	Common_Term
+ветроэлектростанция	Common_Term
+ветроэнергетические установки	Common_Term
+ветроэлектростанция	Common_Term
+парк ветроэлектростанций	Common_Term
+ветроэлектростанции	Common_Term
+парк ветроэлектростанций	Common_Term
+технология ветроэнергетики	Common_Term
+ветроэлектростанция	Common_Term
+парк ветроэлектростанций	Common_Term
+ветроэлектростанции	Common_Term
+ветряной ротор	Specific_Term
+сдвиг ветра	Specific_Term
+скорость ветра	Common_Term
+скорость ветра	Common_Term
+поток ветра	Specific_Term
+ветровые тяговые нагрузки	Specific_Term
+аэродинамические трубы	Common_Term
+ветряная турбина	Common_Term
+аэродинамический профиль ветряной турбины	Specific_Term
+лопасть ветряной турбины	Specific_Term
+лопасти ветряной турбины	Specific_Term
+ветрогенератор	Common_Term
+ветрогенераторы	Common_Term
+корпус ветряной турбины	Specific_Term
+производство энергии ветряными турбинами	Specific_Term
+ротор ветряной турбины	Common_Term
+роторы ветряных турбин	Common_Term
+технология ветряных турбин	Common_Term
+башня ветряной турбины	Specific_Term
+ветряные турбины	Common_Term
+флюгер	Common_Term
+скорости ветра	Specific_Term
+скорость ветра	Specific_Term
+направление ветра	Common_Term
+датчик направления ветра	Specific_Term
+аэродинамическая труба	Specific_Term
+ветряная электростанция	Common_Term
+обмотки	Specific_Term
+ветряная мельница	Common_Term
+состояние ветряной мельницы	Specific_Term
+ветряные мельницы	Common_Term
+ветры	Common_Term
+ветряные турбины	Common_Term
+рабочий диапазон	Specific_Term
+wps	Common_Term
+рыскание	Specific_Term
+привод рыскания	Specific_Term
+ориентация по рысканию	Specific_Term
+поворотные роторы	Specific_Term
+система рыскания	Specific_Term
+отклоняющийся	Specific_Term
+отклоняющийся поток	Specific_Term
+рыскание	Specific_Term
+фрамбезия	Specific_Term

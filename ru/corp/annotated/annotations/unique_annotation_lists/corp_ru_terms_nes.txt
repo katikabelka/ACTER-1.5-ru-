@@ -1,0 +1,1173 @@
+abb	OOD_Term
+подстрекательство	Common_Term
+про	OOD_Term
+злоупотребление	Common_Term
+злоупотребление должностными полномочиями	Specific_Term
+злоупотребление служебным положением	Common_Term
+злоупотребление властью	Common_Term
+аксессуары	Common_Term
+аксессуар	Common_Term
+сообщники	Common_Term
+подотчетность	Common_Term
+подотчетный	Common_Term
+бухгалтеры	Common_Term
+бухгалтерский учет	Common_Term
+нарушения в бухгалтерском учете	Common_Term
+бухгалтерские правонарушения	Common_Term
+стандарты бухгалтерского учета	Specific_Term
+бухгалтерский учет	Common_Term
+acp	Named_Entity
+соглашение о партнерстве между АКТ и ЕС	Named_Entity
+законодательство	Specific_Term
+акт коррупции	Common_Term
+гранты на действия	Specific_Term
+план действий	Specific_Term
+заявление о действиях	Named_Entity
+активная коррупция	Specific_Term
+составление бюджета на основе мероприятий	OOD_Term
+управление, основанное на действиях	OOD_Term
+акты взяточничества	Common_Term
+коррупционные деяния	Common_Term
+специальный комитет по переговорам по конвенции Организации Объединенных Наций против коррупции	Named_Entity
+специальный комитет	Named_Entity
+дополнительные десятые доли	Specific_Term
+вынесение судебного решения	Common_Term
+вынесение судебного решения	Common_Term
+администрирование	Common_Term
+администрации	Common_Term
+административный	Common_Term
+административный контрольный совет	Specific_Term
+административный потенциал	Specific_Term
+расследования административного мошенничества	Specific_Term
+административные расследования	Common_Term
+административно-уголовное законодательство	Common_Term
+преимущество	Common_Term
+преимущества	Common_Term
+консультативный комитет	Specific_Term
+консультативный комитет по вопросам поведения членов	Specific_Term
+Африка	Named_Entity
+отягчающие обстоятельства	Specific_Term
+agis	Named_Entity
+соглашение о государственных закупках	Named_Entity
+помощь	Common_Term
+Албания	Named_Entity
+алеманно	Named_Entity
+Алжир	Named_Entity
+обвинения	Common_Term
+Эллиот-Мари	Named_Entity
+Америка	Named_Entity
+американский	Named_Entity
+Амстердам	Named_Entity
+Амстердамский договор	Named_Entity
+годовые отчеты	Specific_Term
+борьба со взяточничеством	Common_Term
+конвенция о борьбе со взяточничеством	Specific_Term
+законы о борьбе со взяточничеством	Common_Term
+борьба с коррупцией	Common_Term
+антикоррупционные агентства	Common_Term
+органы по борьбе с коррупцией	Common_Term
+антикоррупционная культура	Common_Term
+инструменты борьбы с коррупцией	Specific_Term
+антикоррупционные законы	Common_Term
+правовая база по борьбе с коррупцией	Specific_Term
+антикоррупционное законодательство	Common_Term
+меры по борьбе с коррупцией	Common_Term
+антикоррупционная сеть	Specific_Term
+антикоррупционная политика	Common_Term
+антикоррупционная политика	Common_Term
+антикоррупционные реформы	Common_Term
+отчет о борьбе с коррупцией	Specific_Term
+отчеты о борьбе с коррупцией	Specific_Term
+антикоррупционные услуги	Common_Term
+антикоррупционные стандарты	Common_Term
+стратегия борьбы с коррупцией	Common_Term
+борьба с мошенничеством	Common_Term
+система борьбы с мошенничеством	Specific_Term
+политика борьбы с мошенничеством	Common_Term
+стратегия борьбы с мошенничеством	Common_Term
+системы борьбы с отмыванием денег	Common_Term
+апелляция	Common_Term
+процедуры обжалования	Common_Term
+ассигнования	Specific_Term
+арест	Common_Term
+ордер на арест	Common_Term
+механизм оценки	Common_Term
+актив	Specific_Term
+возвращение активов	Specific_Term
+активы	Specific_Term
+аудит	Specific_Term
+комитет по аудиту	Specific_Term
+мандат комитета по аудиту	Specific_Term
+схемы аудита	Specific_Term
+аудит	Specific_Term
+стандарты аудита	Specific_Term
+аудитор	Specific_Term
+аудиторы	Specific_Term
+аудиты	Specific_Term
+Австрия	Named_Entity
+правило aut dedere aut judicare	Specific_Term
+органы власти	Common_Term
+полномочия	Common_Term
+балканский	Named_Entity
+балканы	Named_Entity
+банк	Common_Term
+законы о банковской тайне	Specific_Term
+банковское дело	Common_Term
+банки	Common_Term
+основы исчисления налогов	Specific_Term
+беларусь	Named_Entity
+уголовный кодекс Бельгии	Specific_Term
+Бельгия	Named_Entity
+торги	Specific_Term
+черные списки	Common_Term
+черный список	Common_Term
+занесен в черный список	Common_Term
+черные списки	Common_Term
+шантаж	Common_Term
+совет директоров	Common_Term
+генеральная прокуратура	Named_Entity
+корпоративные органы	Specific_Term
+добросовестная	Specific_Term
+добросовестные третьи стороны	Specific_Term
+нарушение	Common_Term
+нарушение установленных законом обязанностей	Specific_Term
+нарушение служебных обязанностей	Specific_Term
+нарушен	Common_Term
+нарушения	Common_Term
+взятка	Common_Term
+дача взятки	Common_Term
+индекс взяточников	Named_Entity
+получение взятки	Common_Term
+дача взятки	Common_Term
+подкуплен	Common_Term
+получатель взятки	Common_Term
+взяточник	Common_Term
+взяточничество	Common_Term
+дела о взяточничестве	Common_Term
+взятки	Common_Term
+подкуп	Common_Term
+Брюссель	Named_Entity
+Будапешт	Named_Entity
+бюджет	Common_Term
+бюджетные статьи	Specific_Term
+бюджетный	Common_Term
+составление бюджета	Common_Term
+Болгария	Named_Entity
+bundesgesetzblatt	Named_Entity
+бремя доказывания	Common_Term
+бюро официальной этики и надлежащей практики	Named_Entity
+бюрократизация	Common_Term
+бизнес	Common_Term
+деловое сообщество	Common_Term
+деловые контакты	Common_Term
+деловые интересы	Common_Term
+деловая практика	Common_Term
+деловые отношения	Common_Term
+коммерческая тайна	Common_Term
+деловые операции	Common_Term
+деловой мир	Common_Term
+предприятия	Common_Term
+кадры для авто-оценка общественных функций	Named_Entity
+кафе	Named_Entity
+рынок капитала	Specific_Term
+карточки	Named_Entity
+прецедентное право	Specific_Term
+случаи коррупции	Common_Term
+центральный департамент по борьбе с коррупцией	Named_Entity
+центральное управление по борьбе с коррупцией	Named_Entity
+cepol	Named_Entity
+торговая палата	Named_Entity
+гражданский	Common_Term
+гражданское право	Common_Term
+гражданско-правовая конвенция о борьбе с коррупцией	Named_Entity
+государственные служащие	Common_Term
+государственная служба	Common_Term
+гражданское общество	Common_Term
+требования о возмещении ущерба	Common_Term
+чистый бизнес - это хороший бизнес	Named_Entity
+закрыто, дальнейших действий не предпринято	Specific_Term
+совместное финансирование	Common_Term
+кодекс поведения	Common_Term
+кодекс этики	Common_Term
+кодекс надлежащего административного поведения	Common_Term
+кодексы поведения	Common_Term
+политика сплочения	Specific_Term
+сбор доказательств	Specific_Term
+сговор	Specific_Term
+сговор	Specific_Term
+кельн	Named_Entity
+борьба с коррупцией	Common_Term
+борьба с коррупцией	Common_Term
+коммерция	Common_Term
+коммерческий	Common_Term
+коммерческий спор	Specific_Term
+комиссия	Named_Entity
+комиссия европейских сообществ	Named_Entity
+комиссионные	Named_Entity
+комитет независимых экспертов	Named_Entity
+комитет министров	Named_Entity
+комитет регионов	Named_Entity
+комитет по конституционным вопросам	Named_Entity
+комитет по правовым вопросам	Named_Entity
+общая система оценки	Named_Entity
+общий рынок	Specific_Term
+коммуникация по вопросам расширения Европы - соседства	Named_Entity
+компании	Common_Term
+компания	Common_Term
+компенсация за ущерб	Common_Term
+возмещение ущерба	Specific_Term
+конкуренция	Common_Term
+соответствие требованиям	Common_Term
+отчеты о соблюдении	Specific_Term
+компромисс	Common_Term
+концессии	Common_Term
+условия найма	Specific_Term
+конфиденциально	Common_Term
+конфиденциальность	Common_Term
+конфисковать	Common_Term
+конфискация	Common_Term
+конфискация доходов от коррупции	Common_Term
+конфискация преступных активов	Specific_Term
+конфискация доходов от преступной деятельности	Specific_Term
+конфискации	Common_Term
+конфликт интересов	Common_Term
+конфликт интересов	Common_Term
+конфликт интересов	Common_Term
+консолидированная отчетность	Specific_Term
+заговор	Common_Term
+конституционный	Common_Term
+конституционные нормы	Common_Term
+контракт	Common_Term
+заключение контракта	Common_Term
+органы-заказчики	Specific_Term
+организация-заказчик	Specific_Term
+подрядчик	Common_Term
+подрядчики	Common_Term
+контракты	Common_Term
+конвенция против коррупции с участием должностных лиц	Named_Entity
+конвенция о защите финансовых интересов европейских сообществ	Named_Entity
+осужденный	Common_Term
+осужден	Common_Term
+убеждение	Common_Term
+обвинительные приговоры	Common_Term
+механизм сотрудничества и проверки	Specific_Term
+Копенгаген	Named_Entity
+корпоративный	Common_Term
+корпоративное управление	Named_Entity
+корпоративная ответственность	Specific_Term
+корпоративный налогоплательщик	Specific_Term
+коррупция	Common_Term
+поврежден	Common_Term
+коррупционная деятельность	Common_Term
+коррупционные деяния	Common_Term
+коррупционное поведение	Common_Term
+коррупционная деловая практика	Common_Term
+коррупционная практика	Common_Term
+коррупция	Common_Term
+дело о коррупции	Common_Term
+дела о коррупции	Common_Term
+коррупционные правонарушения	Common_Term
+индекс восприятия коррупции	Specific_Term
+протокол о коррупции	Specific_Term
+коррупционные риски	Common_Term
+коррупционные скандалы	Common_Term
+стоимость	Common_Term
+затраты	Common_Term
+стоимость транзакций	Common_Term
+котону	Named_Entity
+соглашение Котону	Named_Entity
+совет	Named_Entity
+Совет Европы	Named_Entity
+совет Европейского союза	Named_Entity
+количество случаев коррупции	Specific_Term
+суд	Common_Term
+счетная палата	Named_Entity
+суд первой инстанции	Specific_Term
+суд справедливости	Specific_Term
+суд Европейского союза	Named_Entity
+суды	Common_Term
+индекс потребительских цен	Specific_Term
+вычтите что-нибудь из платежей	Common_Term
+кредитное учреждение	Common_Term
+кредитные учреждения	Common_Term
+преступление	Common_Term
+криминальные хроники	Common_Term
+преступления	Common_Term
+уголовное дело	Common_Term
+преступные злоупотребления	Common_Term
+преступное деяние	Common_Term
+преступные деяния	Common_Term
+преступные активы	Specific_Term
+преступное поведение	Common_Term
+уголовный кодекс	Common_Term
+преступный сговор	Specific_Term
+уголовные расследования	Common_Term
+криминалистическая экспертиза	Common_Term
+группа криминалистической экспертизы и связи	Specific_Term
+уголовные финансовые расследования	Common_Term
+уголовные расследования	Common_Term
+уголовное правосудие	Common_Term
+уголовное право	Common_Term
+конвенция об уголовной ответственности за коррупцию	Named_Entity
+правоохранительная деятельность в области уголовного права	Common_Term
+основы уголовного права	Specific_Term
+уголовно-правовое законодательство	Common_Term
+уголовная ответственность	Common_Term
+уголовное преступление	Common_Term
+уголовные преступления	Common_Term
+преступная организация	Common_Term
+уголовные наказания	Common_Term
+уголовное производство	Specific_Term
+уголовное преследование	Common_Term
+уголовные санкции	Common_Term
+криминализация	Common_Term
+криминализировать	Common_Term
+устанавливает уголовную ответственность	Common_Term
+криминализация	Common_Term
+преступность	Common_Term
+уголовно наказуемо	Common_Term
+активы, приобретенные преступным путем	Specific_Term
+уголовная ответственность	Common_Term
+активы, запятнанные преступным путем	Specific_Term
+преступники	Common_Term
+Хорватия	Named_Entity
+сквозные элементы	Specific_Term
+преступное поведение	Common_Term
+культура коррупции	Common_Term
+наказание в виде лишения свободы	Common_Term
+приговоры к лишению свободы	Common_Term
+таможня	Common_Term
+таможенная пошлина	Common_Term
+cvm	Specific_Term
+Кипр	Named_Entity
+Чешская республика	Named_Entity
+защита данных	Common_Term
+защита данных	Common_Term
+решение	Specific_Term
+решения	Specific_Term
+декларация о финансовых интересах	Specific_Term
+вычтено	Common_Term
+возможность вычета	Common_Term
+окончательное решение	Specific_Term
+Дания	Named_Entity
+деонтология	Specific_Term
+правительственные департаменты	Common_Term
+лишение свободы	Common_Term
+увольнение	Common_Term
+помощь в целях развития	Common_Term
+dg	Named_Entity
+Дейсселблум	Named_Entity
+прямое взыскание активов	Specific_Term
+прямое всеобщее избирательное право	Specific_Term
+директива	Specific_Term
+директивы	Specific_Term
+управление по борьбе с экономическими и финансовыми преступлениями	Named_Entity
+выплаты	Common_Term
+дисциплинарные органы	Common_Term
+дисциплинарные правила	Common_Term
+дисциплинарные взыскания	Common_Term
+незаинтересованность	Specific_Term
+спор	Common_Term
+споры	Common_Term
+искажение конкуренции	Specific_Term
+диверсия	Common_Term
+Доха	Named_Entity
+4-я министерская конференция ВТО в Дохе	Named_Entity
+двойное преступление	Specific_Term
+двойная проверка	Specific_Term
+проект бюджета	Specific_Term
+драги	Named_Entity
+обязанности	Common_Term
+обязанность	Common_Term
+долг верности	Specific_Term
+eacn	Named_Entity
+ec	Named_Entity
+ецб	Named_Entity
+Европейский суд	Named_Entity
+экономический	Common_Term
+экономическое преступление	Common_Term
+экономические преступления	Common_Term
+экономический ущерб	Common_Term
+экономика	Common_Term
+экономика	Common_Term
+ЕАСТ	Named_Entity
+расходы на выборы	Common_Term
+выборы	Common_Term
+избирательные кампании	Common_Term
+растрата	Common_Term
+растрата	Specific_Term
+организация работодателей	Common_Term
+правоприменение	Common_Term
+предприятия	Common_Term
+epac	Named_Entity
+справедливый	Common_Term
+escb	Named_Entity
+Эстония	Named_Entity
+этические нормы	Common_Term
+этичное поведение	Common_Term
+этичное предпринимательство	Specific_Term
+этично	Common_Term
+этика	Common_Term
+комитет по этике	Specific_Term
+ес	Named_Entity
+агентство ЕС по основным правам	Named_Entity
+отчет ЕС по борьбе с коррупцией	Named_Entity
+отчеты ЕС по борьбе с коррупцией	Named_Entity
+совет ЕС	Named_Entity
+ес-27	Named_Entity
+eu15	Named_Entity
+eu27	Named_Entity
+Евратом	Named_Entity
+евробарометр	Named_Entity
+евроюст	Named_Entity
+Европа	Named_Entity
+европейская антикоррупционная сеть	Named_Entity
+европейское управление по борьбе с мошенничеством	Named_Entity
+европейский ордер на арест	Specific_Term
+европейская аудиовизуальная обсерватория	Named_Entity
+европейский центральный банк	Named_Entity
+европейская комиссия	Named_Entity
+европейские сообщества	Named_Entity
+европейское сообщество	Named_Entity
+Европейский совет	Named_Entity
+Европейский суд	Named_Entity
+европейский экономический и социальный комитет	Named_Entity
+Европейская ассоциация свободной торговли	Named_Entity
+европейский парламент	Named_Entity
+европейские партнеры против коррупции	Named_Entity
+европейская фармакопейная конвенция	Named_Entity
+европейский полицейский колледж	Named_Entity
+европейский социальный фонд	Named_Entity
+европейская система центральных банков	Named_Entity
+серия европейских договоров	Named_Entity
+европейский союз	Named_Entity
+европол	Named_Entity
+евросистема	Named_Entity
+механизмы оценки	Common_Term
+оценка деятельности европейского бюро по борьбе с мошенничеством	Named_Entity
+доказательства	Common_Term
+доказательственная ценность	Common_Term
+по должности	OOD_Term
+основания для исключения	Specific_Term
+исполнительный совет	Specific_Term
+расходы	Common_Term
+статья(ы) бюджета расходов	Specific_Term
+статьи бюджета расходов	Specific_Term
+расходы	Common_Term
+расходы	Common_Term
+эксплуатация	Common_Term
+эксплуатируемый	Common_Term
+экспортные кредиты	Specific_Term
+внешний финансовый контроль	Common_Term
+внешняя гарантия качества	Specific_Term
+вымогательство	Common_Term
+экстрадиция	Common_Term
+честная конкуренция	Specific_Term
+фаворитизм	Common_Term
+фаворитизм	Common_Term
+февраль	Named_Entity
+федеральная гражданская служба	Specific_Term
+федеральная полиция по уголовным расследованиям	Specific_Term
+федеральный департамент	Specific_Term
+федеральный департамент финансов	Named_Entity
+федеральный департамент бюджета	Named_Entity
+департамент федерального правительства	Specific_Term
+министерство юстиции федерального правительства	Named_Entity
+департамент бюджета и управленческого контроля федерального правительства	Named_Entity
+департаменты федерального правительства	Specific_Term
+федеральный официальный журнал	Named_Entity
+федеральная полиция	Named_Entity
+федеративная республика Германия	Named_Entity
+федерация предприятий Бельгии	Named_Entity
+борьба с коррупцией	Common_Term
+борьба с мошенничеством	Common_Term
+борьба с коррупцией	Common_Term
+борьба с коррупцией	Common_Term
+борьба с коррупцией	Common_Term
+финансы	Common_Term
+финансируется	Common_Term
+финансы	Common_Term
+финансовый	Common_Term
+финансовая выгода	Common_Term
+финансовые затраты	Common_Term
+финансовые преступления	Common_Term
+финансовые преступления	Common_Term
+финансовый кризис	Common_Term
+финансовые рамки	Specific_Term
+финансовые учреждения	Common_Term
+финансовая разведка	Specific_Term
+подразделение финансовой разведки	Specific_Term
+подразделения финансовой разведки	Specific_Term
+финансовые интересы	Common_Term
+финансовые расследования	Common_Term
+финансовые нарушения	Common_Term
+финансовый менеджмент	Common_Term
+финансовые правонарушения	Common_Term
+финансовая политика	Common_Term
+финансовый прокурор	Specific_Term
+финансовая отчетность	Specific_Term
+план действий в области финансовых услуг	Named_Entity
+финансовая отчетность	Common_Term
+финансовая система	Specific_Term
+финансовые операции	Common_Term
+финансирование	Common_Term
+финансирование избирательных кампаний	Common_Term
+финансирование политических партий	Common_Term
+нормально	Common_Term
+штрафы	Common_Term
+Финляндия	Named_Entity
+финансовый	Common_Term
+налоговое исключение	Specific_Term
+пфр	Named_Entity
+механизм последующих действий	Common_Term
+закон о коррупции за рубежом	Named_Entity
+валютные рынки	Specific_Term
+рамочное решение	Specific_Term
+рамочные решения	Specific_Term
+основы надлежащей практики	Specific_Term
+рамки правовой ссылки	Specific_Term
+рамочный регламент	Specific_Term
+Франция	Named_Entity
+Франкфурт	Named_Entity
+Франкфурт-на-Майне	Named_Entity
+мошенничество	Common_Term
+конвенция о мошенничестве	Named_Entity
+расследования мошенничества	Common_Term
+лица, совершившие мошенничество	Common_Term
+мошеннический	Common_Term
+мошеннический акт	Common_Term
+мошеннические действия	Common_Term
+мошеннические действия	Common_Term
+свободная торговля	Common_Term
+соглашения о свободной торговле	Specific_Term
+свобода проведения торгов	Specific_Term
+замораживание	Specific_Term
+фундаментальные этические обязательства	Specific_Term
+финансирование	Common_Term
+денежные средства	Common_Term
+g-20	Specific_Term
+г. Алеманно	Named_Entity
+усиление	Common_Term
+прибыль	Common_Term
+ввп	Common_Term
+генеральная ассамблея	Common_Term
+генеральный совет	Specific_Term
+общие советы	Specific_Term
+обобщенная система предпочтений	Specific_Term
+обобщенная система предпочтений	Specific_Term
+Германия	Named_Entity
+Гибралтар	Named_Entity
+подарки	Common_Term
+глобальная программа борьбы с коррупцией	Named_Entity
+благое управление	Specific_Term
+благое управление	Specific_Term
+товары	Common_Term
+управление	Common_Term
+совет управляющих	Specific_Term
+правительство	Common_Term
+государственные контракты	Common_Term
+государственные закупки	Common_Term
+правительства	Common_Term
+средний балл	Named_Entity
+грант	Common_Term
+чаевые	Specific_Term
+греко	Named_Entity
+зеленая бумага	Specific_Term
+серые области	Common_Term
+государственная группа по борьбе с коррупцией	Named_Entity
+группа государств по борьбе с коррупцией	Named_Entity
+Гаага	Named_Entity
+гаагская программа	Named_Entity
+соглашение о штаб-квартире	Specific_Term
+скрыто	Common_Term
+внутренние дела	Common_Term
+Хусейн	Named_Entity
+МСФО	Specific_Term
+icc	Named_Entity
+icc Бельгия	Named_Entity
+idoc	Named_Entity
+незаконный	Common_Term
+незаконная деятельность	Common_Term
+незаконная деятельность	Common_Term
+незаконнорожденный	Common_Term
+незаконный	Common_Term
+незаконное обогащение	Specific_Term
+незаконное финансирование	Common_Term
+незаконные доходы	Common_Term
+незаконно	Common_Term
+недвижимый	Specific_Term
+недвижимое имущество	Common_Term
+иммунитеты	Common_Term
+иммунитет	Common_Term
+беспристрастность	Common_Term
+беспристрастно	Common_Term
+тюремное заключение	Common_Term
+ненадлежащее влияние	Specific_Term
+внутренняя коррупция	Specific_Term
+доход	Common_Term
+закон о подоходном налоге	Specific_Term
+компрометирующий	Common_Term
+обвинения	Common_Term
+независимость судебной власти	Specific_Term
+косвенная финансовая выгода	Common_Term
+нарушение авторских прав	Common_Term
+подстрекательство	Common_Term
+подстрекательство	Common_Term
+подстрекатель	Specific_Term
+подстрекатели	Common_Term
+инструменты	Specific_Term
+целое число	Common_Term
+целостность	Common_Term
+политика добросовестности	Specific_Term
+стандарты целостности	Common_Term
+системы обеспечения целостности	Specific_Term
+межправительственный	Common_Term
+посредники	Common_Term
+посредник	Common_Term
+внутренние процедуры обжалования	Common_Term
+внутренний аудит	Specific_Term
+внутреннее расследование	Specific_Term
+внутренние расследования	Specific_Term
+внутренний рынок	Specific_Term
+международные стандарты бухгалтерского учета	Specific_Term
+международная торговая палата	Named_Entity
+международные стандарты финансовой отчетности	Specific_Term
+международное мошенничество	Common_Term
+международный рынок	Common_Term
+международные стандарты аудита	Specific_Term
+интернет-портал	Named_Entity
+юрисдикция для толкования	Specific_Term
+инвестировано	Common_Term
+следственный и дисциплинарный отдел	Named_Entity
+полномочия по расследованию	Common_Term
+тайна следствия	Common_Term
+инвестирование	Common_Term
+инвестиции	Common_Term
+уровни инвестиций	Specific_Term
+неприкосновенность	Common_Term
+Ирак	Named_Entity
+Ирландия	Named_Entity
+нарушения	Common_Term
+isa	Specific_Term
+Италия	Named_Entity
+j.r.v.a. Дейсселблум	Named_Entity
+совместные действия	Specific_Term
+совместные наблюдательные группы	Specific_Term
+совместное предприятие	OOD_Term
+судья	Common_Term
+судебное решение	Common_Term
+судьи	Common_Term
+судебный	Common_Term
+судебная помощь	Specific_Term
+судебные органы	Common_Term
+судебная власть	Common_Term
+судебный контроль	Specific_Term
+судебное разбирательство	Common_Term
+судебное средство правовой защиты	Common_Term
+судебный надзор	Specific_Term
+судебный приказ о ликвидации	Specific_Term
+судебная система	Common_Term
+юрисдикция	Common_Term
+правила юрисдикции	Specific_Term
+юрисдикции	Common_Term
+правосудие	Common_Term
+королевство Дания	Named_Entity
+Латвия	Named_Entity
+отмывание денег	Common_Term
+отмывание доходов	Common_Term
+отмывание доходов, полученных преступным путем	Common_Term
+закон	Common_Term
+правоохранительные органы	Common_Term
+сотрудники правоохранительных органов	Common_Term
+принципы права	Common_Term
+законопослушное общество	Common_Term
+законный	Common_Term
+законно	Common_Term
+законно предоставляемые услуги	Specific_Term
+законы	Common_Term
+юристы	Common_Term
+Ливан	Named_Entity
+юридический	Common_Term
+судебный иск	Common_Term
+правовые акты	Specific_Term
+правовая сфера	Common_Term
+юридическая помощь	Common_Term
+правовые основы	Specific_Term
+правовая основа	Specific_Term
+юридические компетенции	Common_Term
+правовой контекст	Common_Term
+юридическое определение	Common_Term
+юридическая сила	Common_Term
+правовая база	Common_Term
+правовой документ	Specific_Term
+правовые документы	Specific_Term
+юридические обязательства	Common_Term
+юридическое лицо	Specific_Term
+юридические лица	Specific_Term
+юридическая привилегия	Specific_Term
+судебное разбирательство	Common_Term
+правовой статус	Common_Term
+юридически	Common_Term
+законодательство	Common_Term
+законодательство о коррупции	Common_Term
+законодательный	Common_Term
+законодательная финансовая база	Specific_Term
+законодательное предложение	Common_Term
+законодатель	Common_Term
+легитимность	Common_Term
+законная экономика	Specific_Term
+законно	Common_Term
+взимается	Common_Term
+ответственность	Common_Term
+ответственный	Common_Term
+лицензирование	Common_Term
+законный	Common_Term
+законная экономика	Specific_Term
+Лиссабон	Named_Entity
+Лиссабонский договор	Named_Entity
+лоббирование	Specific_Term
+Люксембург	Named_Entity
+м. Аллио-Мари	Named_Entity
+Мадрид	Named_Entity
+магистратура	Common_Term
+магистраты	Common_Term
+злоупотребления служебным положением	Common_Term
+мандат	Common_Term
+обязательный	Common_Term
+мандаты	Common_Term
+Марио	Named_Entity
+Марио Драги	Named_Entity
+рынок	Common_Term
+рыночные условия	Common_Term
+рыночные процедуры	Specific_Term
+рынки сбыта	Common_Term
+договорные матчи	Common_Term
+посредническая группа	Specific_Term
+меморандум о взаимопонимании	Specific_Term
+Мерида	Named_Entity
+конвенция в Мериде	Named_Entity
+Мексика	Named_Entity
+стратегия тысячелетия	Named_Entity
+незаконное присвоение	Common_Term
+неправомерное поведение	Common_Term
+мелкое правонарушение	Common_Term
+мелкие правонарушения	Common_Term
+бесхозяйственность	Common_Term
+способ действия	Specific_Term
+Молдова	Named_Entity
+решения по денежно-кредитной политике	Specific_Term
+деньги	Common_Term
+отмывание денег	Common_Term
+отмывание денег	Common_Term
+бельгийский монитор	Named_Entity
+механизм мониторинга	Common_Term
+механизмы мониторинга	Common_Term
+стандарты мониторинга	Common_Term
+монополии	Common_Term
+Черногория	Named_Entity
+подвижный	Specific_Term
+взаимная помощь	Specific_Term
+взаимная судебная помощь	Specific_Term
+взаимная правовая помощь	Specific_Term
+план национальной безопасности на 2008-2011 годы	Named_Entity
+физическое лицо	Specific_Term
+физические лица	Specific_Term
+нет бис в правиле idem	Specific_Term
+политика соседства	Specific_Term
+Нидерланды	Named_Entity
+сеть экспертов по вопросам коррупции	Named_Entity
+сеть экспертов по экономическим, финансовым и фискальным преступлениям	Named_Entity
+неправительственная организация	Common_Term
+НПО	Common_Term
+шекель	Named_Entity
+неправительственные организации	Common_Term
+внедоговорная ответственность	Specific_Term
+неуголовные штрафы	Specific_Term
+неправительственная организация	Common_Term
+непрозрачный	Specific_Term
+Северная Африка	Named_Entity
+нотариусы	Common_Term
+объективно	Common_Term
+воспрепятствование отправлению правосудия	Specific_Term
+ОЭСР	Named_Entity
+конвенция ОЭСР о борьбе с подкупом иностранных государственных должностных лиц при осуществлении международных коммерческих операций	Named_Entity
+рабочая группа ОЭСР по борьбе со взяточничеством	Named_Entity
+конвенция ОЭСР о борьбе с подкупом иностранных должностных лиц при осуществлении международных деловых операций	Named_Entity
+рабочая группа ОЭСР по борьбе со взяточничеством	Named_Entity
+неофициально	Specific_Term
+внебюджетный учет	Specific_Term
+правонарушение	Common_Term
+правонарушения	Common_Term
+коррупционные правонарушения	Common_Term
+нарушитель	Common_Term
+нарушители	Common_Term
+управление административной этики и деонтологии	Named_Entity
+должностные лица	Common_Term
+официальный	Common_Term
+официальный журнал	Named_Entity
+официальные лица	Common_Term
+oj	Named_Entity
+oj l 287	Named_Entity
+Олаф	Named_Entity
+инспекционные группы на местах	Specific_Term
+непрозрачность	Common_Term
+открытые рынки	Common_Term
+организация экономического сотрудничества и развития	Named_Entity
+организованная и трансграничная коррупция	Specific_Term
+организованная преступность	Common_Term
+организованные преступные группировки	Common_Term
+организованная финансовая преступность	Common_Term
+организованное мошенничество	Common_Term
+организованное международное мошенничество	Common_Term
+организованная преступность	Common_Term
+пакт молчания	Common_Term
+оплачено	Common_Term
+парламент	Named_Entity
+парламентская ассамблея	Named_Entity
+финансирование партий	Common_Term
+пассивный подкуп	Specific_Term
+пассивная коррупция	Specific_Term
+пассивная трансграничная коррупция	Specific_Term
+оплатить	Common_Term
+оплата	Common_Term
+оплата	Common_Term
+платежи	Common_Term
+уголовный кодекс	Common_Term
+уголовное законодательство	Common_Term
+наложение штрафа	Common_Term
+наказывает	Common_Term
+штрафные санкции	Common_Term
+штраф	Common_Term
+наказание в виде тюремного заключения	Common_Term
+преступники	Common_Term
+личный интерес	Common_Term
+персональная юридическая помощь	Common_Term
+мелкая коррупция	Specific_Term
+phare	Named_Entity
+pif-конвенция	Named_Entity
+полиция	Common_Term
+сотрудники полиции	Common_Term
+полиция в Интернете	Named_Entity
+политика	Common_Term
+политика	Common_Term
+политика борьбы с коррупцией	Common_Term
+область политики	Common_Term
+области политики	Common_Term
+политический	Common_Term
+политическое соглашение	Common_Term
+политическая коррупция	Common_Term
+политические коррупционные скандалы	Common_Term
+политические партии	Common_Term
+политическая партия	Common_Term
+финансирование политических партий	Common_Term
+политические скандалы	Common_Term
+политики	Common_Term
+Португалия	Named_Entity
+основные правонарушения	Specific_Term
+предварительные решения	Specific_Term
+цена	Common_Term
+примат верховенства закона	Specific_Term
+главный	Specific_Term
+принципы поведения	Common_Term
+частный	Common_Term
+частный подкуп	Specific_Term
+коррупция в частном секторе	Specific_Term
+личная выгода	Common_Term
+частные выгоды	Common_Term
+частная собственность	Common_Term
+частный сектор	Common_Term
+коррупция в частном секторе	Specific_Term
+частный сектор	Common_Term
+частно-общественный диалог	Specific_Term
+частный сектор	Common_Term
+коррупция между частными лицами	Specific_Term
+приватизация	Common_Term
+процедурные гарантии	Specific_Term
+поступления	Common_Term
+доходы от преступной деятельности	Common_Term
+закупки	Common_Term
+процедуры закупок	Common_Term
+профессиональное поведение	Common_Term
+профессиональная этика	Common_Term
+профессиональная честность	Common_Term
+профессиональный проступок	Common_Term
+профессиональная тайна	Common_Term
+запрет	Common_Term
+доказательство	Common_Term
+преследовать в судебном порядке	Common_Term
+возбуждено уголовное дело	Common_Term
+судебное преследование	Common_Term
+органы прокуратуры	Common_Term
+судебное преследование	Common_Term
+судебные преследования	Common_Term
+прокурор	Common_Term
+прокуроры	Common_Term
+защита в соответствии с уголовным законодательством	Common_Term
+пруденциальный надзор	Specific_Term
+публичный	Common_Term
+система государственного учета	Common_Term
+государственное управление	Common_Term
+государственное управление	Common_Term
+связи с общественностью	Common_Term
+государственные агенты	Common_Term
+государственные органы	Common_Term
+общественные блага	Common_Term
+государственные органы	Common_Term
+государственный подкуп	Specific_Term
+государственные контракты	Common_Term
+государственные расходы	Common_Term
+государственные финансы	Common_Term
+государственное учреждение	Common_Term
+государственные учреждения	Common_Term
+общественный интерес	Common_Term
+публичные приглашения к участию в тендере	Common_Term
+государственные деньги	Common_Term
+государственная должность	Common_Term
+государственный служащий	Common_Term
+государственные служащие	Common_Term
+государственная политика	Common_Term
+государственные закупки	Common_Term
+контракты на государственные закупки	Common_Term
+рынок государственных закупок	Common_Term
+политика государственных закупок	Common_Term
+процедуры государственных закупок	Common_Term
+общественная собственность	Common_Term
+государственный обвинитель	Common_Term
+государственная прокуратура	Common_Term
+публичная отчетность	Common_Term
+государственный сектор	Common_Term
+государственный сектор	Common_Term
+государственные служащие	Common_Term
+государственная служба	Common_Term
+поставщик государственных услуг	Common_Term
+государственные услуги	Common_Term
+публичный тендер	Common_Term
+общественные работы	Common_Term
+государственный сектор	Common_Term
+органы государственного сектора	Common_Term
+государственная служба	Common_Term
+наказуемо	Common_Term
+наказуемое правонарушение	Common_Term
+наказан	Common_Term
+наказывает	Common_Term
+наказание	Common_Term
+наказание	Common_Term
+карательный	Common_Term
+директор по закупкам	Common_Term
+докладчик	Specific_Term
+вернуть	Common_Term
+распознавания	Common_Term
+возвращение активов, приобретенных преступным путем	Specific_Term
+регистрация для передачи права собственности	Specific_Term
+регулирование	Specific_Term
+правила	Common_Term
+нормативная база	Common_Term
+возмещение расходов	Common_Term
+меры по удалению	Specific_Term
+извлечение инструментов	Specific_Term
+изъятие инструментов и выручки	Specific_Term
+оплаченный	Common_Term
+вознаграждение	Common_Term
+возмещение ущерба	Specific_Term
+отменить	Specific_Term
+отменено	Specific_Term
+отмена	Specific_Term
+отчет	Common_Term
+сообщается	Common_Term
+отчетность	Common_Term
+механизм отчетности	Common_Term
+механизм отчетности	Common_Term
+репрессии	Common_Term
+разрешение	Specific_Term
+реституция	Specific_Term
+возмещение неправомерного обогащения	Specific_Term
+возмездие	Common_Term
+возврат активов	Specific_Term
+выручка	Common_Term
+механизм обзора	Common_Term
+награда	Common_Term
+правильно	Common_Term
+право хранить молчание	Common_Term
+право голоса	Common_Term
+права	Common_Term
+Румыния	Named_Entity
+Рим	Named_Entity
+королевский указ	Specific_Term
+королевские указы	Specific_Term
+правило	Common_Term
+верховенство закона	Common_Term
+правила	Common_Term
+правила поведения	Common_Term
+правила процедуры	Specific_Term
+правила процедуры	Specific_Term
+постановления	Common_Term
+россия	Named_Entity
+Саддам	Named_Entity
+Саддам Хусейн	Named_Entity
+зарплата	Common_Term
+Сан-Франциско	Named_Entity
+введение санкций	Common_Term
+санкции	Common_Term
+шенген	Named_Entity
+шенгенская конвенция об осуществлении	Named_Entity
+захват	Common_Term
+изъятие	Common_Term
+судороги	Common_Term
+самоочищающийся	Specific_Term
+режимы саморегулирования	Specific_Term
+предложение	Common_Term
+приговорен	Common_Term
+предложения	Common_Term
+Сеул	Named_Entity
+сеульский саммит	Named_Entity
+серьезные правонарушения	Common_Term
+служба уголовной политики	Named_Entity
+значительный контролируемый	Specific_Term
+единый рынок	Specific_Term
+единый надзорный механизм	Specific_Term
+Словения	Named_Entity
+слякотные деньги	Common_Term
+малые и средние предприятия	Common_Term
+малый и средний бизнес	Common_Term
+малые и средние предприятия	Common_Term
+социальная ответственность	Common_Term
+общества	Common_Term
+общество	Common_Term
+юго-восточная Европа	Named_Entity
+Испания	Named_Entity
+расходы	Common_Term
+ssm	Specific_Term
+положения о персонале	Specific_Term
+правила о персонале	Specific_Term
+стандарты поведения	Common_Term
+стандарты бухгалтерского учета	Specific_Term
+государственный орган	Common_Term
+государственные контракты	Common_Term
+устав	Specific_Term
+установленный законом	Specific_Term
+обязательный аудит	Specific_Term
+обязательный аудитор	Specific_Term
+обязательные аудиторы	Specific_Term
+обязательный аудит	Specific_Term
+уставной комитет	Specific_Term
+законодательное разрешение	Specific_Term
+фондовые биржи	Common_Term
+фондовые рынки	Common_Term
+Стокгольм	Named_Entity
+стокгольмская программа	Named_Entity
+Страсбург	Named_Entity
+субподряды	Common_Term
+субсидии	Common_Term
+субсидия	Common_Term
+законы о субсидиях	Common_Term
+расходы на проживание	Common_Term
+избирательное право	Common_Term
+правила надзора	Common_Term
+наблюдательный совет	Specific_Term
+бестактно	Specific_Term
+Тампере	Named_Entity
+налог	Common_Term
+налоговое администрирование	Common_Term
+налоговые консультанты	Common_Term
+возможность вычета налогов	Common_Term
+налоговое законодательство	Common_Term
+налоговые правонарушения	Common_Term
+налоговые платежи	Common_Term
+налоги	Common_Term
+налогоплательщик	Common_Term
+налогоплательщики	Common_Term
+tec	Named_Entity
+тендер	Common_Term
+участник тендера	Specific_Term
+участники тендера	Specific_Term
+термин	Common_Term
+срок полномочий	Common_Term
+расторжение контракта	Common_Term
+финансирование терроризма	Specific_Term
+teu	Named_Entity
+tfeu	Named_Entity
+третьи лица	Common_Term
+третья сторона	Common_Term
+сторонний	Common_Term
+торговля	Common_Term
+торговые ассоциации	Common_Term
+торговая организация	Common_Term
+торговая политика	Common_Term
+торговые отношения	Common_Term
+профсоюз	Common_Term
+торговля	Common_Term
+торговля влиянием	Specific_Term
+транзакции	Common_Term
+трансграничная коррупция	Specific_Term
+дела о трансграничной коррупции	Specific_Term
+передача производства	Specific_Term
+транснациональное организованное мошенничество	Specific_Term
+прозрачность	Common_Term
+transparency international	Named_Entity
+transparency international, Бельгия	Named_Entity
+прозрачный	Common_Term
+транспонировать	Specific_Term
+транспонированный	Specific_Term
+транспозиция	Specific_Term
+договор об учреждении Европейского сообщества	Named_Entity
+Амстердамский мирный договор	Named_Entity
+Лиссабонский мирный договор	Named_Entity
+договор о Европейском союзе	Named_Entity
+договор о Европейском союзе	Named_Entity
+договор о функционировании Европейского союза	Named_Entity
+турция	Named_Entity
+Калифорнийский университет в Лос-Анджелесе	Named_Entity
+Великобритания	Named_Entity
+украина	Named_Entity
+оон	Named_Entity
+конвенция ООН против коррупции	Named_Entity
+коррупция в ООН	Named_Entity
+глобальный договор ООН	Named_Entity
+управление ООН по наркотикам и преступности	Named_Entity
+uncac	Named_Entity
+незадекларированные пожертвования	Specific_Term
+неправомерное преимущество	Specific_Term
+неоправданные преимущества	Specific_Term
+подразделение по координации мер по предотвращению мошенничества	Named_Entity
+Организация Объединенных Наций	Named_Entity
+конвенция Организации Объединенных Наций против коррупции	Named_Entity
+глобальный договор Организации Объединенных Наций	Named_Entity
+Соединенные Штаты Америки	Named_Entity
+Соединенные Штаты Америки	Named_Entity
+УНП ООН	Named_Entity
+неоплачиваемый	Common_Term
+сша	Named_Entity
+США	Named_Entity
+узуфрукт	Specific_Term
+Венеция	Named_Entity
+Венецианская комиссия	Named_Entity
+жертва	Common_Term
+жертвы	Common_Term
+Вена	Named_Entity
+голосовать	Common_Term
+права голоса	Common_Term
+голосование	Common_Term
+свобода голосования	Specific_Term
+право голоса	Common_Term
+уязвимость к мошенничеству	Common_Term
+отказ от ответственности	Specific_Term
+отказ от применимого иммунитета	Specific_Term
+отказ от иммунитета	Specific_Term
+ордер	Common_Term
+Западная Европа	Named_Entity
+западная ниш	Named_Entity
+подача сигнала в свисток	Common_Term
+информаторы	Common_Term
+информирование общественности	Common_Term
+белые списки	Common_Term
+белая бумага	Specific_Term
+завершение работы	Specific_Term
+свидетель	Common_Term
+свидетели	Common_Term
+Всемирный банк	Named_Entity
+Всемирный экономический форум	Named_Entity
+мировая экономика	Common_Term
+Всемирная торговая организация	Named_Entity
+правонарушения	Common_Term
+неправомерное удержание	Specific_Term
+ВТО	Named_Entity

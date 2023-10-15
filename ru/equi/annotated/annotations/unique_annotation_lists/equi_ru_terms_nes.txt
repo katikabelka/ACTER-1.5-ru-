@@ -1,0 +1,1575 @@
+10-метровый круг	Specific_Term
+10-метровые круги	Specific_Term
+12-метровый круг	Specific_Term
+15-метровый круг	Specific_Term
+15-метровые круги	Specific_Term
+18-метровый круг	Specific_Term
+20-метровый круг	Specific_Term
+20-метровые круги	Specific_Term
+4-битный	Specific_Term
+a	Specific_Term
+брюшная полость	Common_Term
+мышцы брюшного пресса	Common_Term
+принятие бита	Specific_Term
+активировать	Specific_Term
+активный	Specific_Term
+активная помощь	Specific_Term
+активно	Specific_Term
+деятельность	Specific_Term
+Эдди-кроу	Named_Entity
+adequan®	Named_Entity
+Эдриенн	Named_Entity
+Эдриенн Бесси	Named_Entity
+aerc	Named_Entity
+Афганистан	Named_Entity
+Африка	Named_Entity
+ahsa	Named_Entity
+помощь	Specific_Term
+спид	Specific_Term
+воздух	Specific_Term
+показуха	Specific_Term
+воздух над землей	Specific_Term
+воздух над землей	Specific_Term
+ахалтекинец	Specific_Term
+Александрия	Named_Entity
+Александрия Белтон	Named_Entity
+Алоис	Named_Entity
+Алоис Подгайский	Named_Entity
+гонщик-любитель	Common_Term
+неторопливый	Specific_Term
+неторопливая походка	Specific_Term
+Америка	Named_Entity
+американская конференция по гонкам на выносливость	Named_Entity
+американская ассоциация конных выставок	Named_Entity
+американская краска	Specific_Term
+американская ассоциация верховой езды	Named_Entity
+скачки в американском квартале	OOD_Term
+американская верховая порода	Specific_Term
+американский запад	OOD_Term
+Северная и Южная Америка	Named_Entity
+андалузский	Specific_Term
+ангел	Named_Entity
+Анжела	Named_Entity
+Анджела Кук	Named_Entity
+анлехнунг	Specific_Term
+Анна	Named_Entity
+Анна Вуд	Named_Entity
+Аннемари	Named_Entity
+поле Аннемари	Named_Entity
+ежегодный национальный чемпионат пони-клуба	Named_Entity
+Антуан	Named_Entity
+Антуан Картье д'Ор	Named_Entity
+Антуан де Плювинель	Named_Entity
+аппалузы	Specific_Term
+арабский	Specific_Term
+арабы	Specific_Term
+арена	Specific_Term
+письма с арены	Specific_Term
+арены	Specific_Term
+Аргентина	Named_Entity
+аристо	Named_Entity
+arm	Common_Term
+оружие	Common_Term
+арнд	Named_Entity
+Арнд Бронкхорст	Named_Entity
+Эшли	Named_Entity
+Эшли Форнелл	Named_Entity
+Эшлин	Named_Entity
+Эшлин дегрут	Named_Entity
+Азия	Named_Entity
+astm/sei	Named_Entity
+в обхвате	Specific_Term
+Атланта	Named_Entity
+Австралия	Named_Entity
+Австрия	Named_Entity
+автоматическое снятие стремени	Specific_Term
+айша	Named_Entity
+ангелы айши	Named_Entity
+b	Specific_Term
+Б.ф. Скиннер	Named_Entity
+назад	Common_Term
+прошлые проблемы	Common_Term
+задние ноги	Common_Term
+мышцы спины	Common_Term
+поддержанный	Specific_Term
+поддержка	Specific_Term
+баланс	Common_Term
+сбалансированный	Common_Term
+сбалансирован с боков	Specific_Term
+балансы	Common_Term
+балансирование	Common_Term
+голосование	Specific_Term
+бинты	Specific_Term
+Барселона	Named_Entity
+без седла	Specific_Term
+баркер	Named_Entity
+барокко	Specific_Term
+лошадь в стиле барокко	Specific_Term
+породы лошадей в стиле барокко	Specific_Term
+ствол	Specific_Term
+гонка на бочках	OOD_Term
+гонки на бочках	OOD_Term
+заколка	Specific_Term
+bascule	OOD_Term
+баттиста Пиньятелли	Named_Entity
+Баучер	Named_Entity
+Баумерт	Named_Entity
+бить	Common_Term
+удары	Common_Term
+количество ударов в минуту	Specific_Term
+за обхватом	Specific_Term
+за ногу	Specific_Term
+Пекин	Named_Entity
+беласик	Named_Entity
+Белинда	Named_Entity
+Белинда Нэрн-Вертман	Named_Entity
+сапоги-колокола	Specific_Term
+Белтон	Named_Entity
+изгиб	Specific_Term
+изгиб	Specific_Term
+вспомогательные средства для гибки	Specific_Term
+изгибы	Specific_Term
+изогнутый	Specific_Term
+бент брандеруп	Named_Entity
+Бесси	Named_Entity
+Бет	Named_Entity
+Бет Баумерт	Named_Entity
+большой тур	Specific_Term
+заготовки	Specific_Term
+бит	Specific_Term
+биты	Specific_Term
+кусание	Specific_Term
+средства защиты тела	Specific_Term
+жирный шрифт	Named_Entity
+загрузка	Common_Term
+ботинки	Common_Term
+связанный	Common_Term
+бокс-стойло	Specific_Term
+бокс-стойла	Specific_Term
+bpm	Specific_Term
+брэдун	Specific_Term
+branderup	Named_Entity
+отрывная привязка	OOD_Term
+выведенный	Common_Term
+бредал бейкер	Named_Entity
+Бредаль-бейкер	Named_Entity
+бриджи	Specific_Term
+порода	Common_Term
+разведение	Common_Term
+породы	Common_Term
+уздечка	Specific_Term
+путь уздечки	Specific_Term
+уздечки	Specific_Term
+британская выездка	Named_Entity
+бронкс	Specific_Term
+Бронкхорст	Named_Entity
+повязка на брови	Specific_Term
+взбрыкивание	Common_Term
+пряжки	Common_Term
+бургграф	Named_Entity
+приклад	Common_Term
+стыковая веревка	Specific_Term
+ягодицы	Common_Term
+бузкаши	OOD_Term
+c	Specific_Term
+c7	OOD_Term
+позвонок c7	OOD_Term
+ритм	Specific_Term
+ритмичный	Specific_Term
+ритмичная рысь	Specific_Term
+кадры нуар	Named_Entity
+теленок	Common_Term
+Калифорния	Named_Entity
+калифорнийское общество выездки	Named_Entity
+каллум	Named_Entity
+Каллум Баркер	Named_Entity
+организация лагеря	OOD_Term
+Канада	Named_Entity
+канадская теплокровная	Specific_Term
+пушечная кость	Specific_Term
+галоп	Specific_Term
+левый поводок галопа	Specific_Term
+пируэт галопом	Specific_Term
+пируэты галопом	Specific_Term
+ритм галопа	Specific_Term
+галоп справа впереди	Specific_Term
+легкий шаг	Specific_Term
+переходы с галопа на рысь	Specific_Term
+кантеры	Specific_Term
+переходы с галопа на рысь и обратно легким галопом	Specific_Term
+переходы от галопа к ходьбе галопом	Specific_Term
+кантл	Specific_Term
+шапка	Specific_Term
+каприоль	Specific_Term
+Карл	Named_Entity
+Карл Хестер	Named_Entity
+Карлсбад	Named_Entity
+управление экипажем	OOD_Term
+cartier d'aure	Named_Entity
+Кавалетти	Specific_Term
+Каваллетти	Specific_Term
+кавалерия	Common_Term
+Кавендиш	Named_Entity
+пещера	Specific_Term
+пещеры	Specific_Term
+cdi	Named_Entity
+cdi-w	Named_Entity
+cdis	Named_Entity
+компакт-диски	Named_Entity
+центральная линия	Specific_Term
+центральная линия	Specific_Term
+осевые линии	Specific_Term
+центральная Азия	Named_Entity
+шейный сегмент	OOD_Term
+изменение	Specific_Term
+смена ведущего	Specific_Term
+сменить поводья	Specific_Term
+смените поводья по диагонали	Specific_Term
+изменение по диагонали	Specific_Term
+изменения	Specific_Term
+изменения приводят	Specific_Term
+изменение	Specific_Term
+парни	Specific_Term
+Карл ii	Named_Entity
+Шарлотта	Named_Entity
+Шарлотта Бредаль-бейкер	Named_Entity
+Шарлотта-бредаль бейкер	Named_Entity
+чарреада	OOD_Term
+грудь	Common_Term
+сундуки	Common_Term
+подбородок	Common_Term
+подбородки	Common_Term
+Кристина	Named_Entity
+Кристин Трауриг	Named_Entity
+Синди	Named_Entity
+Синди Ишой	Named_Entity
+Синди Сиднор	Named_Entity
+чиотти Галло	Named_Entity
+круг	Specific_Term
+круги	Specific_Term
+классическая езда верхом	Specific_Term
+классическая выездка	Specific_Term
+классические движения в выездке	Specific_Term
+всадники классической выездки	Specific_Term
+тренеры по классической выездке	Specific_Term
+классическая позиция	Specific_Term
+классические райдеры	Specific_Term
+классическая езда верхом	Specific_Term
+классически подготовленный	Specific_Term
+закройте рамку	Specific_Term
+замкнутый круг	Specific_Term
+кудахтанье	Common_Term
+тренер	Common_Term
+тренированный	Common_Term
+пальто	Common_Term
+извивание поясницы	Specific_Term
+ключицы	Common_Term
+собирать	Specific_Term
+собранный	Specific_Term
+собранный галоп	Specific_Term
+собранная походка	Specific_Term
+собранные походки	Specific_Term
+собранные перемещения	Specific_Term
+собранная рысь	Specific_Term
+собранная прогулка	Specific_Term
+сбор	Specific_Term
+коллекция	Specific_Term
+собирает	Specific_Term
+Коллинз	Named_Entity
+Колумб	Named_Entity
+комбинация	Specific_Term
+комбинации	Specific_Term
+комбинированное вождение	OOD_Term
+комбинированное обучение	Specific_Term
+конкуренция	Common_Term
+соревнования	Common_Term
+соревновательная выездка	Specific_Term
+конформация	Specific_Term
+классы конформации	Specific_Term
+подключение	Specific_Term
+связанный	Specific_Term
+подключение	Specific_Term
+связь	Specific_Term
+соединяет	Specific_Term
+контакт	Specific_Term
+содержащие спид	Specific_Term
+готовить	Named_Entity
+остыть	Common_Term
+остыть	Common_Term
+охлаждение	Common_Term
+coqui	Named_Entity
+ядро	Common_Term
+Коринн	Named_Entity
+Коринн Фоксли	Named_Entity
+штопоры	Specific_Term
+угловой	Specific_Term
+углы	Specific_Term
+правильная диагональ	Specific_Term
+встречное сгибание	Specific_Term
+встречный галоп	Specific_Term
+встречная смена руки	Specific_Term
+курбет	Specific_Term
+Крейг	Named_Entity
+Крейг Стэнли	Named_Entity
+Крессман	Named_Entity
+изогнутый	Specific_Term
+кривизна	Specific_Term
+пересекать	Specific_Term
+прыжки по пересеченной местности	Specific_Term
+пересечение	Specific_Term
+круп	Specific_Term
+крупа	Specific_Term
+обуздать	Specific_Term
+бордюрный камень	Specific_Term
+бордюрная цепь	Specific_Term
+сокращение	OOD_Term
+d	Specific_Term
+сын Даффи Шайн	Named_Entity
+резак для маргариток	OOD_Term
+Далина генеральный директор	Named_Entity
+плотина	Common_Term
+рассвет	Named_Entity
+дон Уайт-о'Коннор	Named_Entity
+де ла Броу	Named_Entity
+де ла Гериньер	Named_Entity
+де Плювинель	Named_Entity
+Дебби	Named_Entity
+Дебби Родригес	Named_Entity
+глубокое сиденье	Specific_Term
+удалить корень	Named_Entity
+дель Мар	Named_Entity
+Дания	Named_Entity
+отойти	Specific_Term
+дерби	Specific_Term
+диагональ	Specific_Term
+диагональная походка	Specific_Term
+диагональная линия	Specific_Term
+диагональный ритм	Specific_Term
+диагонали	Specific_Term
+Диана	Named_Entity
+Диана Феллоуз	Named_Entity
+направление движения	Common_Term
+направление движения	Common_Term
+река Днепр	Named_Entity
+док-станция	Specific_Term
+doma menorquina	Named_Entity
+река Дон	Named_Entity
+Донателло 107	Named_Entity
+Дори	Named_Entity
+Дори Эдди-кроу	Named_Entity
+двойная уздечка	Specific_Term
+пируэты двойным галопом	Specific_Term
+двойное соединение	Specific_Term
+нисходящий	Common_Term
+нисходящие переходы	Specific_Term
+демонстрация тягловой лошади	OOD_Term
+черновик-перекрестный	Specific_Term
+парадные сапоги	Specific_Term
+выездка	Common_Term
+арена для выездки	Specific_Term
+выездка в Австралии	Named_Entity
+пальто для выездки	Specific_Term
+соревнования по выездке	Common_Term
+соревнования по выездке	Common_Term
+финал выездки	Named_Entity
+выездка вольным стилем	Specific_Term
+выездковая лошадь	Common_Term
+лошади для выездки	Common_Term
+судья по выездке	Specific_Term
+выездковая кобыла	Common_Term
+мастера выездки	Specific_Term
+выездковое движение	Specific_Term
+движения в выездке	Specific_Term
+всадник по выездке	Common_Term
+всадники по выездке	Common_Term
+выездковая езда	Common_Term
+седло для выездки	Specific_Term
+седла для выездки	Specific_Term
+тест на выездку	Specific_Term
+выездковые тесты	Specific_Term
+выездка сегодня	Named_Entity
+обучение выездке	Common_Term
+чемпионат мира по выездке	Named_Entity
+привод	Specific_Term
+управляемый	Specific_Term
+драйверы	OOD_Term
+приводы	Specific_Term
+вождение	Specific_Term
+вспомогательные средства для вождения	Specific_Term
+ведущая нога	Specific_Term
+вспомогательные средства для ног при вождении	Specific_Term
+движущая сила	Specific_Term
+опускающаяся носовая повязка	Specific_Term
+отбросьте носовые повязки	Specific_Term
+дуэк	Named_Entity
+dupont	Named_Entity
+Дюпюи	Named_Entity
+durchl?ssigkeit	Specific_Term
+голландская теплокровная	Specific_Term
+e	Specific_Term
+eadweard	Named_Entity
+Эдвард Мейбридж	Named_Entity
+ухо	Common_Term
+уши	Common_Term
+Эгон	Named_Entity
+Эгон фон Нейндорф	Named_Entity
+Эрлих	Named_Entity
+Айзенберг	Named_Entity
+локти	Common_Term
+повышенный	Specific_Term
+повышенная рысь	Specific_Term
+возвышает	Specific_Term
+высота	Specific_Term
+увеличение шага	Specific_Term
+школа Эммануэля	Named_Entity
+выносливость	OOD_Term
+вовлекать	Specific_Term
+вовлеченный	Specific_Term
+взаимодействие	Specific_Term
+Англия	Named_Entity
+английская верховая езда	Specific_Term
+английский для верховой езды	Named_Entity
+английские седла	Specific_Term
+английская веймутская уздечка	Specific_Term
+лошадь в английском стиле	Specific_Term
+седло в английском стиле	Specific_Term
+верховая езда английского типа	Specific_Term
+седло английского типа	Specific_Term
+конный спорт	Common_Term
+шлем для верховой езды	Specific_Term
+ассоциация медицинской безопасности конного спорта	Named_Entity
+конный спорт	Specific_Term
+наездники	Common_Term
+равноценные	Specific_Term
+равносторонняя передняя нога	Specific_Term
+лошадиный	Common_Term
+обучение верховой езде	Specific_Term
+лошади	Specific_Term
+эквитация	Specific_Term
+всадники на лошадях	Specific_Term
+Эрнст	Named_Entity
+Эрнст Ойос	Named_Entity
+португальская школа искусств equestre	Named_Entity
+Этьен	Named_Entity
+Европа	Named_Entity
+мероприятие	Specific_Term
+выездка на соревнованиях	Specific_Term
+упражнение	Common_Term
+упражнения	Common_Term
+расширенный	Specific_Term
+удлиненная походка	Specific_Term
+протяженная рысь	Specific_Term
+продолжительная прогулка	Specific_Term
+глаз	Common_Term
+глаза	Common_Term
+f	Specific_Term
+попасть в	Specific_Term
+падение внутрь	Specific_Term
+выпадать	Specific_Term
+выпасть наружу	Specific_Term
+попадание в	Specific_Term
+выпадение	Specific_Term
+выпадает	Specific_Term
+международная федерация конного спорта	Named_Entity
+Федерико	Named_Entity
+Федерико Гризоне	Named_Entity
+ноги	Common_Term
+fei	Named_Entity
+руководство fei по выездке	Named_Entity
+чемпионат мира по футболу fei	Named_Entity
+фелиситас	Named_Entity
+Фелиситас фон Нейман-Козел	Named_Entity
+стипендиаты	Named_Entity
+fetlocks	Specific_Term
+поле	Named_Entity
+полевые ботинки	Specific_Term
+рисунок	Specific_Term
+цифра восемь	Specific_Term
+цифры	Specific_Term
+филлис	Named_Entity
+кобылка	Specific_Term
+тонкая обвязка	OOD_Term
+пальцы	Common_Term
+первый уровень	Specific_Term
+фристайл первого уровня	Specific_Term
+первый трек	Specific_Term
+кулак	Common_Term
+фланг	Common_Term
+флэш-носовая повязка	Specific_Term
+плоские гонки	OOD_Term
+обувь на плоской подошве	Specific_Term
+гибкий	Specific_Term
+согнутый	Specific_Term
+сгибание	Specific_Term
+изменение полета	Specific_Term
+изменения в полете	Specific_Term
+полет меняется в последовательности	Specific_Term
+жеребенок	Common_Term
+жеребята	Common_Term
+пена	Specific_Term
+следуйте	Specific_Term
+следующий	Specific_Term
+после прогулки	Specific_Term
+следует	Specific_Term
+нога	Common_Term
+нога падает	Specific_Term
+падение ноги	Specific_Term
+звук шагов	Specific_Term
+шаги	Specific_Term
+передние ноги	Common_Term
+предплечье	Common_Term
+предплечья	Common_Term
+удар справа	Specific_Term
+удар справа	Specific_Term
+передняя лапа	Common_Term
+передние конечности	Common_Term
+передние конечности	Common_Term
+чуб	Specific_Term
+формальное вождение	OOD_Term
+Форнелл	Named_Entity
+прямой	Common_Term
+движение вперед	Common_Term
+движение вперед	Common_Term
+поступательная тенденция	Specific_Term
+толчок вперед	Specific_Term
+вперед-вбок	Specific_Term
+ведущая нога вперед-вбок	Specific_Term
+вперед/вбок	Specific_Term
+прямолинейность	Specific_Term
+четырехтактный	Specific_Term
+серпантины с четырьмя петлями	Specific_Term
+четвертый уровень	Specific_Term
+фокстрот	Specific_Term
+Фоксли	Named_Entity
+фрейм	Specific_Term
+Франция	Named_Entity
+Францискус	Named_Entity
+Франсуа	Named_Entity
+Франсуа Баучер	Named_Entity
+Франсуа Робишон де ла Гериньер	Named_Entity
+свободная прогулка	Specific_Term
+свободный прыжок	Specific_Term
+фристайл	Specific_Term
+фристайл под музыку	Specific_Term
+фристайл	Specific_Term
+фризский	Specific_Term
+интерфейс	Specific_Term
+передние лапы	Common_Term
+переднее копыто	Common_Term
+передняя нога	Common_Term
+передние ноги	Common_Term
+полные остановки	Specific_Term
+полный пируэт	Specific_Term
+полные пируэты	Specific_Term
+международная федерация эквестров	Named_Entity
+g	Specific_Term
+Габор	Named_Entity
+Габриэла	Named_Entity
+Габриэла Глумак	Named_Entity
+фрагменты кляпа	Specific_Term
+походка	Specific_Term
+походка	Specific_Term
+походка	Specific_Term
+галоп	Common_Term
+скачущий галопом	Common_Term
+азартная игра	Named_Entity
+мерин	Specific_Term
+Джордж	Named_Entity
+geraderichtung	Specific_Term
+немецкий национальный фонд конного спорта	Named_Entity
+национальный тренер Германии	Named_Entity
+Германия	Named_Entity
+Джованни	Named_Entity
+Джованни баттиста Пиньятелли	Named_Entity
+обхват	Specific_Term
+глоссарий судейских терминов	Named_Entity
+перчатка	Common_Term
+перчатки	Common_Term
+глумак	Named_Entity
+gogue	Specific_Term
+grackle	Specific_Term
+гран-при	Specific_Term
+движения в выездке на гран-при	Specific_Term
+гран-при по фристайлу под музыку	Specific_Term
+движение на уровне гран-при	Specific_Term
+гонщик гран-при	Specific_Term
+специальный приз гран-при	Specific_Term
+Великобритания	Named_Entity
+ферма Грингейт	Named_Entity
+гризоне	Named_Entity
+уход за собой	Specific_Term
+основные манеры	Specific_Term
+фундаментальная работа	Specific_Term
+gr?f	Named_Entity
+защита внешней ноги	Specific_Term
+гериньер	Named_Entity
+каталка	Named_Entity
+Густав	Named_Entity
+Густав Штайнбрехт	Named_Entity
+гимнастика	OOD_Term
+гимнастические залы	OOD_Term
+гимнастический	Common_Term
+гимнастически	Common_Term
+заниматься гимнастикой	Specific_Term
+гимнастизированный	Common_Term
+гимнастика	Common_Term
+h	Specific_Term
+habanero cws	Named_Entity
+взлом	Specific_Term
+взлом	Specific_Term
+половина 10-метрового круга	Specific_Term
+полукровки	Specific_Term
+полустанок	Specific_Term
+половинные остановки	Specific_Term
+половина прохода	Specific_Term
+полушаги	Specific_Term
+вполоборота на корточках	Specific_Term
+половина 10-метрового круга	Specific_Term
+полустанок	Specific_Term
+полустанки	Specific_Term
+полупроход	Specific_Term
+полупроходы	Specific_Term
+полупереход	Specific_Term
+полупируэт	Specific_Term
+полукресло	Specific_Term
+полувольт	Specific_Term
+зал славы	Named_Entity
+остановка	Common_Term
+недоуздок	Specific_Term
+остановка	Common_Term
+остановки	Common_Term
+остановка–прогулка	Specific_Term
+рука	Common_Term
+вспомогательные средства для рук	Specific_Term
+ручной галоп	Specific_Term
+обработчик	Common_Term
+обработчики	Common_Term
+руки	Common_Term
+ганноверский	Specific_Term
+ганноверский	Specific_Term
+жгут проводов	Specific_Term
+гонки на упряжке	OOD_Term
+Харрисон	Named_Entity
+Гарри	Named_Entity
+Гарри Болдт	Named_Entity
+бедра	Specific_Term
+задние лапы-в	Specific_Term
+высшая школа	Specific_Term
+прыжки в высшую школу	Specific_Term
+высшая школа	Specific_Term
+сено	Common_Term
+сетки для сена	Common_Term
+голова	Common_Term
+уклонение головы	Specific_Term
+заголовок	OOD_Term
+направление и крен	OOD_Term
+Хизер	Named_Entity
+Хизер Коллинз	Named_Entity
+каблук	Common_Term
+хилер	OOD_Term
+каблуки	Common_Term
+шлем	Common_Term
+шлемы	Common_Term
+стадо	Common_Term
+Эстер	Named_Entity
+средняя школа	Specific_Term
+выездка в старшей школе	Specific_Term
+Хильда	Named_Entity
+Хильда Гурни	Named_Entity
+задний конец	Specific_Term
+задние лапы	Common_Term
+задняя лапа	Common_Term
+заднее копыто	Common_Term
+задние копыта	Common_Term
+задняя нога	Common_Term
+задние лапы	Common_Term
+задние конечности	Common_Term
+задние конечности	Specific_Term
+задний конец	Specific_Term
+задняя лапа	Common_Term
+задние лапы	Common_Term
+задние конечности	Common_Term
+задние конечности	Specific_Term
+Хиннеманн	Named_Entity
+бедро	Common_Term
+тазобедренные суставы	Common_Term
+бедра	Common_Term
+скакательный сустав	Specific_Term
+скакательные суставы	Specific_Term
+хольгер	Named_Entity
+Хольгер Шмезер	Named_Entity
+голштинец	Specific_Term
+Гонконг	Named_Entity
+гонконгский жокей-клуб	Named_Entity
+почетный преподаватель	Named_Entity
+копыто	Common_Term
+полироль для копыт	Specific_Term
+копыта	Common_Term
+копыта	Common_Term
+рог	Specific_Term
+лошадь	Common_Term
+породы лошадей	Common_Term
+верховая езда	Common_Term
+конное шоу	Specific_Term
+выставки лошадей	Specific_Term
+дрессировка лошадей	Common_Term
+верховая езда	Common_Term
+верховая езда	Common_Term
+лошадиный мяч	OOD_Term
+всадник	Common_Term
+искусство верховой езды	Specific_Term
+лошади	Common_Term
+hotshot af	Named_Entity
+хойя	Named_Entity
+хойос	Named_Entity
+Хубертус	Named_Entity
+Хубертус Шмидт	Named_Entity
+гуманное общество Соединенных Штатов	Named_Entity
+охотничье место	Specific_Term
+охотник	OOD_Term
+шаги охотника	OOD_Term
+охотник расхаживает взад-вперед	OOD_Term
+охотник под седлом	OOD_Term
+охотники	OOD_Term
+охотничья шапка	Specific_Term
+я	Specific_Term
+ледниковый период	Named_Entity
+Иллинойс	Named_Entity
+импульс	Specific_Term
+под рукой	Specific_Term
+разведение вручную	Specific_Term
+независимые вспомогательные средства	Specific_Term
+независимое место	Specific_Term
+катание в помещении	Common_Term
+инфанта	Named_Entity
+внутренняя часть задней лапы	Specific_Term
+внутренняя часть ноги	Specific_Term
+внутри	Specific_Term
+внутри СПИДа	Specific_Term
+внутренний глаз	Specific_Term
+внутренняя часть передней лапы	Specific_Term
+внутренняя сторона передней штанины	Specific_Term
+внутренняя рука	Specific_Term
+внутренняя сторона задней лапы	Specific_Term
+внутренняя сторона задней ноги	Specific_Term
+внутренняя сторона бедра	Specific_Term
+внутренняя часть ноги	Specific_Term
+внутренние ножки	Specific_Term
+внутренняя уздечка	Specific_Term
+внутренняя часть седалищной кости	Specific_Term
+внутренняя сторона плеча	Specific_Term
+внутреннее стремя	Specific_Term
+внутренняя сторона бедра	Specific_Term
+инструктор	Common_Term
+инструкторы	Common_Term
+посредник	Specific_Term
+промежуточный тест ii	Specific_Term
+промежуточное звено i	Specific_Term
+промежуточное звено ii	Specific_Term
+промежуточный a	Specific_Term
+промежуточный уровень b	Specific_Term
+промежуточный i	Specific_Term
+промежуточный уровень ii	Specific_Term
+международная федерация конного спорта	Named_Entity
+международная федерация конного спорта	Named_Entity
+в контакт	Specific_Term
+вводный уровень	Specific_Term
+нерегулярность	Specific_Term
+ишой	Named_Entity
+Джейкоб	Named_Entity
+Джейкоб Лунд	Named_Entity
+Джеймс	Named_Entity
+Джеймс Филлис	Named_Entity
+челюсть	Common_Term
+Джен	Named_Entity
+Джен Вановер	Named_Entity
+Херес-де-ла-Фронтера	Named_Entity
+жокей	Specific_Term
+жокейский клуб	Named_Entity
+Джоди	Named_Entity
+Джоди Крессман	Named_Entity
+бег трусцой	Specific_Term
+бег трусцой	Specific_Term
+Иоганн	Named_Entity
+Иоганн Хиннеман	Named_Entity
+совместное	Common_Term
+суставы	Common_Term
+джолиет	Named_Entity
+рыцарский турнир	OOD_Term
+судья	Common_Term
+оцененный	Common_Term
+судьи	Common_Term
+судейство	Common_Term
+прыжок	Common_Term
+прыгнул	Common_Term
+перемычка	Specific_Term
+прыгуны	Common_Term
+прыжки	Common_Term
+позиция для прыжка	Specific_Term
+прыжки	Common_Term
+k	Specific_Term
+кала	Named_Entity
+кала ишой	Named_Entity
+камила	Named_Entity
+камила Дюпон	Named_Entity
+Кэтрин	Named_Entity
+Кэтрин Шелтон	Named_Entity
+острый	Named_Entity
+Кентукки	Named_Entity
+керидо	Named_Entity
+удар ногой	Common_Term
+выгнали	Common_Term
+удар ногой	Common_Term
+удары ногами	Common_Term
+Ким	Named_Entity
+Ким Ф. Миллер	Named_Entity
+кимбервиксы	Specific_Term
+носовые повязки kineton	Specific_Term
+колено	Common_Term
+блокада колена	Specific_Term
+колени	Common_Term
+Кристина	Named_Entity
+Кристина Харрисон	Named_Entity
+kwpn	Specific_Term
+Кира	Named_Entity
+Кира Кырклунд	Named_Entity
+Кыргызстан	Named_Entity
+кырклунд	Named_Entity
+кур	Specific_Term
+l	Specific_Term
+большой круг	Specific_Term
+лариат	OOD_Term
+Лас-Вегас	Named_Entity
+боковой баланс	Specific_Term
+боковой изгиб	Specific_Term
+боковые упражнения	Specific_Term
+боковое движение	Specific_Term
+боковые перемещения	Specific_Term
+боковое расслабление	Specific_Term
+параллельная работа	Specific_Term
+Лаура	Named_Entity
+Лаура ромфх	Named_Entity
+le trec	OOD_Term
+ведущий	Specific_Term
+ведущая нога	Specific_Term
+ведущая линия	Specific_Term
+свинцовая веревка	Specific_Term
+ведущий	Specific_Term
+ведущие	Specific_Term
+левый спид	Specific_Term
+сгибание левой руки	Specific_Term
+левая задняя нога	Common_Term
+левый задний палец	Common_Term
+левый ведущий	Specific_Term
+левая нога	Common_Term
+левая вожжа	Common_Term
+нога	Common_Term
+помощь ногам	Specific_Term
+вспомогательные средства для ног	Specific_Term
+урожайность ножки	Specific_Term
+нога уступает право	Specific_Term
+податливость ножки	Specific_Term
+урожайность ножек	Specific_Term
+выход ножки	Specific_Term
+податливость ног	Specific_Term
+леголас	Named_Entity
+ноги	Common_Term
+удлинить	Specific_Term
+удлиненный	Specific_Term
+удлиненная рысь	Specific_Term
+удлинение	Specific_Term
+удлинения	Specific_Term
+удлиняет	Specific_Term
+письмо	Specific_Term
+письма	Specific_Term
+леваде	Specific_Term
+левады	Specific_Term
+Лексингтон	Named_Entity
+свет в руке	Specific_Term
+светлее	Specific_Term
+легкость	Specific_Term
+Линда	Named_Entity
+Линда Теллингтон-Джонс	Named_Entity
+маршрут путешествия	Specific_Term
+липиццан	Specific_Term
+липиццанер	Specific_Term
+липиццанеры	Specific_Term
+губы	Common_Term
+Лиссабон	Named_Entity
+опорно-двигательный аппарат	Specific_Term
+поясница	Common_Term
+Лондон	Named_Entity
+одинокий	Named_Entity
+одинокий риттер	Named_Entity
+длинные строки	Specific_Term
+длинная уздечка	Specific_Term
+длинные поводья	Specific_Term
+длинная сторона	Specific_Term
+длинные стороны	Specific_Term
+длинная подкладка	Specific_Term
+длинная сторона	Specific_Term
+длинный	Specific_Term
+долгожданный	Specific_Term
+долголетие	Specific_Term
+продольная релаксация	Specific_Term
+длинная сторона	Specific_Term
+цикл	Specific_Term
+циклы	Specific_Term
+ослабить узду	Specific_Term
+трензель со свободным кольцом	Specific_Term
+раскованность	Specific_Term
+прыжок	Specific_Term
+losgelassenheit	Specific_Term
+Людовик xiii	Named_Entity
+нижняя часть спины	Common_Term
+голень	Common_Term
+голени	Common_Term
+Лугано	Named_Entity
+Лунд	Named_Entity
+лузитано	Specific_Term
+m	Specific_Term
+грива	Common_Term
+гривы	Common_Term
+теплокровные кленовые деревья	Named_Entity
+кобыла	Common_Term
+мариалва	Named_Entity
+Мэриан	Named_Entity
+Мариан Мендес	Named_Entity
+мартингейлы	Specific_Term
+Мэриленд	Named_Entity
+ферма первого выбора в Мэриленде	Named_Entity
+Массачусетс	Named_Entity
+мастер верховой езды	Specific_Term
+Максимилиан	Named_Entity
+Максимилиан Вейротер	Named_Entity
+средний галоп	Specific_Term
+средние аллюры	Specific_Term
+средняя рысь	Specific_Term
+средняя ходьба	Specific_Term
+средняя рысь	Specific_Term
+Мендес	Named_Entity
+Менорка	Named_Entity
+Меноркин	Specific_Term
+мексиканская высшая школа райдеров домек	Named_Entity
+Мейер	Named_Entity
+mezair	Specific_Term
+слюда	Named_Entity
+Микаэла	Named_Entity
+Микаэла Дюпюи	Named_Entity
+Мидлтаун	Named_Entity
+мидранд	Named_Entity
+военный	Specific_Term
+Миллер	Named_Entity
+современная выездка	Specific_Term
+Молли	Named_Entity
+Молли о'Брайен	Named_Entity
+момент приостановления	Specific_Term
+месье	Named_Entity
+морганы	Specific_Term
+Мортен	Named_Entity
+Мортен Томсен	Named_Entity
+монтировать	Common_Term
+смонтированный	Common_Term
+смонтированные игры	OOD_Term
+рот	Common_Term
+рты	Common_Term
+двигаться в боковом направлении	Specific_Term
+движение	Specific_Term
+движения	Specific_Term
+мышцы	Common_Term
+мышцы	Common_Term
+мускулистый	Common_Term
+мускулатура	Common_Term
+муйбридж	Named_Entity
+намордник	Common_Term
+mw angelika	Named_Entity
+Нэрн-Вертман	Named_Entity
+национальная электронная система наблюдения за травмами	Named_Entity
+шея	Common_Term
+поводья для шеи	Specific_Term
+обуздание шеи	Specific_Term
+шейный ремешок	Specific_Term
+шеи	Common_Term
+Нил	Named_Entity
+нил Ишой	Named_Entity
+neiss	Named_Entity
+новое брейнтри	Named_Entity
+новый Южный Уэльс	Named_Entity
+Нью-Йорк	Named_Entity
+Новая Зеландия	Named_Entity
+Ньюкасл	Named_Entity
+защипывающая вытачка	Named_Entity
+Северная Америка	Named_Entity
+чемпионаты Северной Америки	Named_Entity
+нос	Common_Term
+носовая повязка	Specific_Term
+носовые повязки	Specific_Term
+нуно	Named_Entity
+нуну Оливейра	Named_Entity
+О'Брайен	Named_Entity
+o-mok-see	OOD_Term
+о-мок-видит	OOD_Term
+послушание	Common_Term
+послушный	Common_Term
+Ольденбург	Specific_Term
+Оливейра	Named_Entity
+олимпийские игры	Named_Entity
+олимпийские игры	Named_Entity
+Омаха	Named_Entity
+о верховой езде	Named_Entity
+о СПИДе	Specific_Term
+на бите	Specific_Term
+по правильной диагонали	Specific_Term
+удар справа	Specific_Term
+одноразовый темпис	Specific_Term
+один-темпи	Specific_Term
+изменение скорости полета на один темп	Specific_Term
+one-tempis	Specific_Term
+oneseys	Specific_Term
+оперантное обусловливание	Specific_Term
+Отто	Named_Entity
+Отто Мейер	Named_Entity
+снаружи	Specific_Term
+внешняя помощь	Specific_Term
+внешний спид	Specific_Term
+внешняя сторона передней лапы	Specific_Term
+внешняя передняя нога	Specific_Term
+внешняя сторона	Specific_Term
+внешняя сторона задней ноги	Specific_Term
+внешняя нога	Specific_Term
+внешние ножки	Specific_Term
+внешняя сдержанность	Specific_Term
+внешнее плечо	Specific_Term
+внешняя сторона поводка	Specific_Term
+через заборы	OOD_Term
+переступить через себя	Specific_Term
+отследить заново	Specific_Term
+овертреки	Specific_Term
+p	Specific_Term
+расхаживание	Specific_Term
+блокнот	Specific_Term
+паддок	Specific_Term
+ботинки для паддока	Specific_Term
+прокладки	Specific_Term
+игры pan am	Named_Entity
+панамериканские игры	Named_Entity
+пара-конный спорт	Specific_Term
+параэквестрийский	Specific_Term
+паралимпийские игры	Named_Entity
+парковая рысь	OOD_Term
+пасо фино	Specific_Term
+отрывок	Specific_Term
+пастбище	Common_Term
+пато	OOD_Term
+Пол	Named_Entity
+Пол Беласик	Named_Entity
+фрагмент Пелхэма	Specific_Term
+пелхамс	Specific_Term
+тазовые кости	Common_Term
+таз	Common_Term
+написание	OOD_Term
+Пенсильвания	Named_Entity
+люди за этичное обращение с животными	Named_Entity
+период приостановления	Specific_Term
+песаде	Specific_Term
+Питерс	Named_Entity
+Пиаффе	Specific_Term
+раздраженный	Specific_Term
+пиаффинг	Specific_Term
+Пьер	Named_Entity
+пьер Пирар	Named_Entity
+пирард	Named_Entity
+пируэт	Specific_Term
+пируэт влево	Specific_Term
+пируэт вправо	Specific_Term
+пируэты	Specific_Term
+пируэт	Specific_Term
+обычная пещера	Specific_Term
+заплетенный	Common_Term
+увеселительное вождение	OOD_Term
+поконо-даунс	Named_Entity
+Подгайский	Named_Entity
+изгиб столба	OOD_Term
+опрос	Specific_Term
+полокросс	OOD_Term
+навершие	Specific_Term
+пони	Common_Term
+пони	Common_Term
+пони-клубы	Specific_Term
+Португалия	Named_Entity
+португальская школа конного искусства	Named_Entity
+сообщение	Specific_Term
+публикация	Specific_Term
+проводка рысью	Specific_Term
+сообщения	Specific_Term
+похвала	Common_Term
+хваленый	Common_Term
+премия Святого Георгия	Specific_Term
+проприоцепция	Specific_Term
+проприоцепторы	Specific_Term
+насос	Specific_Term
+чистая походка	Specific_Term
+толкающая сила	Specific_Term
+четверть лошади	Specific_Term
+четвертные линии	Specific_Term
+четвертные баллы	Specific_Term
+четверть оборота	Specific_Term
+четверть оборота на корточках	Specific_Term
+кварталы	Specific_Term
+келуз	Named_Entity
+квирт	Specific_Term
+r	Specific_Term
+Рэйчел	Named_Entity
+Рэйчел Эрлих	Named_Entity
+бегущая рысь	OOD_Term
+железнодорожный транспорт	Common_Term
+Равель	Named_Entity
+воспитание	Common_Term
+тылы	Common_Term
+встает на дыбы	Common_Term
+восстановление баланса	Common_Term
+повторное подключение	Specific_Term
+любительская верховая езда	Specific_Term
+повторно заблокирован	Specific_Term
+регулярность	Specific_Term
+обуздать	Common_Term
+сдерживающая помощь	Specific_Term
+сдерживающие средства	Specific_Term
+восстановить контакт	Specific_Term
+сдерживание	Specific_Term
+обуздание	OOD_Term
+вожжи	Common_Term
+rejoneo	OOD_Term
+расслабьтесь	Common_Term
+расслабление	Common_Term
+расслабленный	Common_Term
+расслабляет	Common_Term
+арендаторы	Specific_Term
+обучение реагированию	Named_Entity
+вознаграждение	Common_Term
+вознагражденный	Common_Term
+награждение	Common_Term
+рейнландец	Specific_Term
+ритм	Common_Term
+ритмичный	Common_Term
+ритмичная походка	Specific_Term
+ритмично	Common_Term
+грудная клетка	Common_Term
+ребра	Common_Term
+оседланный	Common_Term
+поездка	Common_Term
+ездить верхом и привязывать	OOD_Term
+ассоциация езды и галстука	Named_Entity
+всадник	Common_Term
+выступление гонщика	Specific_Term
+гонщики	Common_Term
+аттракционы	Common_Term
+езда верхом	Common_Term
+средства для верховой езды	Specific_Term
+езда верхом	Specific_Term
+ботинок для верховой езды	Common_Term
+залы для верховой езды	Specific_Term
+шлемы для верховой езды	Common_Term
+верховая езда на лошади	Common_Term
+верховая езда на лошадях	Common_Term
+инструкция по верховой езде	Common_Term
+мастера верховой езды	Specific_Term
+школа верховой езды	Common_Term
+стиль езды	Common_Term
+техника верховой езды	Specific_Term
+техника верховой езды	Common_Term
+тесты на езду верхом	Common_Term
+правый галоп	Specific_Term
+правый галоп впереди	Specific_Term
+правая задняя лапа	Common_Term
+правая задняя нога	Common_Term
+правильное руководство	Specific_Term
+правая нога	Common_Term
+правая вожжа	Common_Term
+кольцо	Specific_Term
+Рио	Named_Entity
+повышается	Specific_Term
+растущий	Specific_Term
+ускоряющаяся рысь	Specific_Term
+дорожная походка	OOD_Term
+дорожная рысь	OOD_Term
+родстер	OOD_Term
+робишон	Named_Entity
+ехал	Common_Term
+родео	Common_Term
+родео	Common_Term
+Родригес	Named_Entity
+rollkur	Specific_Term
+ромал	Specific_Term
+romfh	Named_Entity
+привязка канатом	OOD_Term
+Розамунда	Named_Entity
+Рози	Named_Entity
+круглый	Specific_Term
+закругленная спинка	Specific_Term
+королевская андалузская школа конного искусства	Named_Entity
+королевская канадская конная полиция	Named_Entity
+королевский монетный двор	Named_Entity
+управление вожжами	Specific_Term
+руй д'Андраде	Named_Entity
+риттер	Named_Entity
+s	Specific_Term
+s судья	Specific_Term
+седло	Common_Term
+клапан седла	Specific_Term
+рог седла	Specific_Term
+накладка для седла	Specific_Term
+седельные накладки	Specific_Term
+седловидное сиденье	Specific_Term
+верховые лошади	Specific_Term
+седла	Common_Term
+защитные планки	Specific_Term
+слюна	Common_Term
+слюноотделение	Common_Term
+salomon	Named_Entity
+Саломон де ла Броу	Named_Entity
+Сара	Named_Entity
+Сомюр	Named_Entity
+соте д'Эколь	Specific_Term
+шмезер	Named_Entity
+Шмидт	Named_Entity
+школа	Common_Term
+школьные прыжки	Specific_Term
+школьное обучение	Common_Term
+школьное шоу	Specific_Term
+школьное обучение показывает	Specific_Term
+школы	Common_Term
+швунг	Specific_Term
+писец	Specific_Term
+описанный	Specific_Term
+переписывание	Specific_Term
+место	Specific_Term
+помощь при сидении	Specific_Term
+вспомогательные средства для сидения	Specific_Term
+сиденье и руки	Specific_Term
+седалищная кость	Specific_Term
+кости сиденья	Specific_Term
+Себастьян к	Named_Entity
+второй уровень	Specific_Term
+второй трек	Specific_Term
+самостоятельная перевозка	Specific_Term
+змеевидный	Specific_Term
+серпантины	Specific_Term
+shadbelly	Specific_Term
+черенки	Specific_Term
+Шеннон	Named_Entity
+Шеннон Дуэк	Named_Entity
+Шелтон	Named_Entity
+обувь	Common_Term
+короткая сторона	Specific_Term
+короткие стороны	Specific_Term
+сокращенный	Specific_Term
+сокращение	Specific_Term
+сокращает	Specific_Term
+плечо	Common_Term
+лопатки	Common_Term
+передняя часть плеча	Specific_Term
+свобода плеч	Specific_Term
+плечо в	Specific_Term
+плечо-передняя часть	Specific_Term
+плечо-в	Specific_Term
+плечи	Common_Term
+показать	Specific_Term
+показывать на скорости	OOD_Term
+показать поклон	Specific_Term
+показать основания	Specific_Term
+показать взлом	OOD_Term
+показать охотника	OOD_Term
+конкур	Specific_Term
+показать кольцо	Specific_Term
+выставочные площадки	Specific_Term
+показывает	Specific_Term
+боковой повод	Specific_Term
+боковые поводья	Specific_Term
+боком	Common_Term
+боковое движение	Common_Term
+Силькеборг	Named_Entity
+простые изменения	Specific_Term
+сидеть	Specific_Term
+сидит	Specific_Term
+сидя	Specific_Term
+бег трусцой сидя	Specific_Term
+умение владеть оружием	OOD_Term
+скиннер	Named_Entity
+медленные повороты	Specific_Term
+малая арена	Specific_Term
+небольшая экскурсия	Specific_Term
+трензель	Specific_Term
+трензельный наконечник	Specific_Term
+биты для защелкивания	Specific_Term
+общество творческого анахронизма	Named_Entity
+мягкие руки	Specific_Term
+сортировка	Specific_Term
+Южная Африка	Named_Entity
+Испания	Named_Entity
+испанская школа верховой езды	Named_Entity
+позвоночник	Common_Term
+спортивные лошади	Common_Term
+подстегнуть	Common_Term
+подстегивает	Common_Term
+квадрат	Specific_Term
+конюшни	Common_Term
+остановка	Common_Term
+жеребец	Common_Term
+жеребцы	Common_Term
+стойла	Common_Term
+стандартная арена	Specific_Term
+стандартизированный	Specific_Term
+стойло стоя	Specific_Term
+Стэнли	Named_Entity
+погоня за шпилем	OOD_Term
+бег с препятствиями	OOD_Term
+бег с препятствиями	OOD_Term
+Штеффен	Named_Entity
+Штеффен Питерс	Named_Entity
+Стейнбрехт	Named_Entity
+шаг	Common_Term
+шаг под	Specific_Term
+пошаговый	Common_Term
+шаги	Common_Term
+грудина	Common_Term
+колючка	Named_Entity
+задушить	Specific_Term
+стремя	Specific_Term
+стремена	Specific_Term
+желудок	Common_Term
+прямая	Specific_Term
+сразу же	Specific_Term
+выпрямить	Specific_Term
+выпрямленный	Specific_Term
+выпрямление	Specific_Term
+средства для выпрямления	Specific_Term
+выпрямляет	Specific_Term
+прямолинейность	Specific_Term
+ремни	Common_Term
+солома	Common_Term
+тюки соломы	Common_Term
+растягивание	Common_Term
+растянутый	Common_Term
+растягивается	Common_Term
+растяжение	Common_Term
+шаг	Common_Term
+успехи	Common_Term
+представление	Specific_Term
+угрюмый	OOD_Term
+летние олимпийские игры	Named_Entity
+гибкий	Common_Term
+гибкость	Common_Term
+податливый	Common_Term
+surcingle	Specific_Term
+Сьюзан	Named_Entity
+Сьюзан Дж. Стикл	Named_Entity
+Сюзанна	Named_Entity
+Сюзанна фон Дитце	Named_Entity
+приостановление	Specific_Term
+шведская стандартная порода	Specific_Term
+качели	Specific_Term
+раскачивание	Specific_Term
+раскачивание через заднюю часть	Specific_Term
+Сидней	Named_Entity
+Сиднор	Named_Entity
+привязка	Specific_Term
+тактичность	Specific_Term
+тактичный	Specific_Term
+хвост	Common_Term
+повязки на хвост	Specific_Term
+такт	Specific_Term
+командная привязка	OOD_Term
+Теллингтон-Джонс	Named_Entity
+телурико	Named_Entity
+темпи	Specific_Term
+изменения темпа	Specific_Term
+темпис	Specific_Term
+темп	Common_Term
+Теннесси	Named_Entity
+Теннесси Уокер	Specific_Term
+теннессийская прогулочная лошадь	Specific_Term
+привязка палатки	OOD_Term
+Терри	Named_Entity
+Терри Чиотти Галло	Named_Entity
+тест	Specific_Term
+тесты	Specific_Term
+Техас	Named_Entity
+тескоко	Named_Entity
+наблюдатель	Named_Entity
+правила верховой езды	Named_Entity
+бедро	Common_Term
+бедра	Common_Term
+третий уровень	Specific_Term
+третий трек	Specific_Term
+третьи треки	Specific_Term
+Томсен	Named_Entity
+чистокровный	Specific_Term
+чистокровные лошади	Specific_Term
+трехударный	Specific_Term
+серпантин с тремя петлями	Specific_Term
+через	Specific_Term
+сквозность	Specific_Term
+направленность	Specific_Term
+толкающий	Specific_Term
+толчки	Specific_Term
+большие пальцы	Common_Term
+палец ноги	Common_Term
+пальцы ног	Common_Term
+язык	Common_Term
+линия верха	Specific_Term
+отслеживать	Specific_Term
+отслеживание	Specific_Term
+треки	Specific_Term
+книги о Трафальгарской площади	Named_Entity
+трейлер	Specific_Term
+трейлеринг	Specific_Term
+трейлеры	Specific_Term
+поезд	Common_Term
+обучаемость	Common_Term
+обученный	Common_Term
+тренер	Common_Term
+тренеры	Common_Term
+обучение	Common_Term
+уровень подготовки	Specific_Term
+учебная пирамида	Specific_Term
+шкала обучения	Specific_Term
+переведенные	Common_Term
+переходный период	Specific_Term
+переходы	Specific_Term
+трауриг	Named_Entity
+Трэверс	Specific_Term
+Тристан	Named_Entity
+Тристан Такер	Named_Entity
+троха	Specific_Term
+рысь	Common_Term
+расширения рыси	Specific_Term
+удлинение рыси	Specific_Term
+удлинение рыси	Specific_Term
+рысь	Common_Term
+рысью	Common_Term
+бег трусцой	Common_Term
+переходы от рыси к галопу	Specific_Term
+рысь–галоп–рысь	Specific_Term
+переходы от рыси к галопу	Specific_Term
+рысь–остановка–рысь	Specific_Term
+переход от рыси к ходьбе	Specific_Term
+истинный галоп	Specific_Term
+Такер	Named_Entity
+подворачивание задних конечностей	Specific_Term
+включите удар справа	Specific_Term
+повернитесь на корточки	Specific_Term
+удар справа	Specific_Term
+вспомогательные средства для превращения	Specific_Term
+включает удар справа	Specific_Term
+садится на корточки	Specific_Term
+витой провод	Specific_Term
+два временных интервала	Specific_Term
+двухтактный	Specific_Term
+диагональная походка в два такта	Specific_Term
+двухтактная квадратная рысь	Specific_Term
+двухточечный	Specific_Term
+двухдорожечный	Specific_Term
+США.	Named_Entity
+федерация выездки США	Named_Entity
+удон	Named_Entity
+Великобритания	Named_Entity
+несбалансированный	Common_Term
+не собрано	Specific_Term
+под седлом	Specific_Term
+подмышка	Common_Term
+подбрюшье	Common_Term
+Соединенное Королевство	Named_Entity
+Соединенные Штаты	Named_Entity
+министерство сельского хозяйства Соединенных Штатов	Named_Entity
+федерация выездки Соединенных Штатов	Named_Entity
+федерация конного спорта Соединенных Штатов	Named_Entity
+ассоциация рысаков Соединенных Штатов	Named_Entity
+размонтированный	Common_Term
+upendo	Named_Entity
+подъем в гору	Specific_Term
+баланс в гору	Specific_Term
+тенденция к подъему	Specific_Term
+плечи	Common_Term
+верхняя часть ноги	Common_Term
+верхний отдел грудного отдела позвоночника	OOD_Term
+выездка на высшем уровне	Specific_Term
+восходящий переход	Specific_Term
+восходящие переходы	Specific_Term
+движение вверх	Specific_Term
+сша	Named_Entity
+США	Named_Entity
+usdf	Named_Entity
+usea	Named_Entity
+чемпионат usea	Named_Entity
+полезность	Named_Entity
+чемпионаты usef/usea	Named_Entity
+использование	Named_Entity
+uta	Named_Entity
+ута Граф	Named_Entity
+v	Specific_Term
+Вановер	Named_Entity
+прыгун с трамплина	OOD_Term
+прыжки с парашютом	OOD_Term
+Верден	Named_Entity
+версаммлунг	Specific_Term
+ветпакет	Named_Entity
+Вена	Named_Entity
+да здравствует жизнь	Named_Entity
+volte	Specific_Term
+вольты	Specific_Term
+фон Дитце	Named_Entity
+фон Нейндорф	Named_Entity
+фон Нейман-Козел	Named_Entity
+прогулка	Common_Term
+прогулочный пируэт	Specific_Term
+ходячие пируэты	Specific_Term
+ходьба галопом	Specific_Term
+переход от ходьбы к галопу	Specific_Term
+ходьба	Common_Term
+прогулки	Common_Term
+ходьба–галопом–прогулочный	Specific_Term
+прогулка–остановка	Specific_Term
+стена	Common_Term
+разминка	Common_Term
+теплокровный	Specific_Term
+теплокровные лошади	Specific_Term
+теплокровные	Specific_Term
+Уоррен	Named_Entity
+уотерфорды	Specific_Term
+средства для похудения	Specific_Term
+несущий вес	Common_Term
+западный	Specific_Term
+западное удовольствие	OOD_Term
+западная езда	Specific_Term
+западный мир	Named_Entity
+вейротер	Named_Entity
+хлыст	Common_Term
+хлысты	Common_Term
+Уайт-о'Коннор	Named_Entity
+Уильям	Named_Entity
+Уильям Кавендиш	Named_Entity
+зимний снег	Named_Entity
+холка	Specific_Term
+древесина	Named_Entity
+работа на местах	Specific_Term
+рабочие сессии	Common_Term
+рабочие наборы	Common_Term
+рабочий галоп	Specific_Term
+рабочий темп	Specific_Term
+рабочая рысь	Specific_Term
+чемпионаты мира	Named_Entity
+всемирные игры по конному спорту	Named_Entity
+обертывания	Specific_Term
+запястье	Common_Term
+x	Specific_Term
+Ксенофонт	Named_Entity
+годовалый ребенок	Common_Term
+годовалые	Common_Term
+выход	Specific_Term
+получение	Specific_Term
+программа по выращиванию молодых лошадей	Named_Entity
+молодые гонщики	Specific_Term
+youtube	Named_Entity
+зодесса	Named_Entity
+?-пируэт	Specific_Term

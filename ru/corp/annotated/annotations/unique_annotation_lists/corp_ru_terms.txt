@@ -1,0 +1,927 @@
+abb	OOD_Term
+подстрекательство	Common_Term
+про	OOD_Term
+злоупотребление	Common_Term
+злоупотребление должностными полномочиями	Specific_Term
+злоупотребление служебным положением	Common_Term
+злоупотребление властью	Common_Term
+аксессуары	Common_Term
+аксессуар	Common_Term
+сообщники	Common_Term
+подотчетность	Common_Term
+подотчетный	Common_Term
+бухгалтеры	Common_Term
+бухгалтерский учет	Common_Term
+нарушения в бухгалтерском учете	Common_Term
+бухгалтерские правонарушения	Common_Term
+стандарты бухгалтерского учета	Specific_Term
+учетные записи	Common_Term
+законодательство	Specific_Term
+акт коррупции	Common_Term
+гранты на действия	Specific_Term
+план действий	Specific_Term
+активная коррупция	Specific_Term
+составление бюджета на основе мероприятий	OOD_Term
+управление, основанное на деятельности	OOD_Term
+акты взяточничества	Common_Term
+коррупционные деяния	Common_Term
+дополнительные десятые доли	Specific_Term
+вынесение судебного решения	Common_Term
+вынесение судебного решения	Common_Term
+администрирование	Common_Term
+административные органы	Common_Term
+административный	Common_Term
+административный контрольный совет	Specific_Term
+административный потенциал	Specific_Term
+расследования административного мошенничества	Specific_Term
+административные расследования	Common_Term
+административно-уголовное законодательство	Common_Term
+преимущество	Common_Term
+преимущества	Common_Term
+консультативный комитет	Specific_Term
+консультативный комитет по вопросам поведения членов	Specific_Term
+отягчающие обстоятельства	Specific_Term
+оказание помощи	Common_Term
+утверждения	Common_Term
+годовые отчеты	Specific_Term
+борьба со взяточничеством	Common_Term
+конвенция о борьбе со взяточничеством	Specific_Term
+законы о борьбе со взяточничеством	Common_Term
+борьба с коррупцией	Common_Term
+антикоррупционные органы	Common_Term
+органы по борьбе с коррупцией	Common_Term
+антикоррупционная культура	Common_Term
+инструменты борьбы с коррупцией	Specific_Term
+антикоррупционные законы	Common_Term
+правовая база по борьбе с коррупцией	Specific_Term
+антикоррупционное законодательство	Common_Term
+антикоррупционные меры	Common_Term
+антикоррупционная сеть	Specific_Term
+антикоррупционная политика	Common_Term
+антикоррупционная политика	Common_Term
+антикоррупционные реформы	Common_Term
+отчет о борьбе с коррупцией	Specific_Term
+отчеты о борьбе с коррупцией	Specific_Term
+антикоррупционные службы	Common_Term
+антикоррупционные стандарты	Common_Term
+антикоррупционная стратегия	Common_Term
+борьба с мошенничеством	Common_Term
+система борьбы с мошенничеством	Specific_Term
+политика борьбы с мошенничеством	Common_Term
+стратегия борьбы с мошенничеством	Common_Term
+системы борьбы с отмыванием денег	Common_Term
+апелляция	Common_Term
+процедуры обжалования	Common_Term
+ассигнования	Specific_Term
+арест	Common_Term
+ордер на арест	Common_Term
+механизм оценки	Common_Term
+актив	Specific_Term
+возвращение активов	Specific_Term
+активы	Specific_Term
+аудит	Specific_Term
+комитет по аудиту	Specific_Term
+мандат комитета по аудиту	Specific_Term
+схемы аудита	Specific_Term
+аудит	Specific_Term
+стандарты аудита	Specific_Term
+аудитор	Specific_Term
+аудиторы	Specific_Term
+аудиты	Specific_Term
+правило aut dedere aut judicare	Specific_Term
+органы власти	Common_Term
+авторитет	Common_Term
+банк	Common_Term
+законы о банковской тайне	Specific_Term
+банковское дело	Common_Term
+банки	Common_Term
+основа для определения налога	Specific_Term
+уголовный кодекс Бельгии	Specific_Term
+торги	Specific_Term
+черные списки	Common_Term
+черный список	Common_Term
+внесение в черный список	Common_Term
+черные списки	Common_Term
+шантаж	Common_Term
+совет директоров	Common_Term
+корпоративные органы	Specific_Term
+добросовестная	Specific_Term
+добросовестные третьи стороны	Specific_Term
+нарушение	Common_Term
+нарушение установленной законом обязанности	Specific_Term
+нарушение служебных обязанностей	Specific_Term
+нарушено	Common_Term
+нарушения	Common_Term
+взятка	Common_Term
+дача взятки	Common_Term
+получение взятки	Common_Term
+дача взятки	Common_Term
+подкупленный	Common_Term
+получатель взятки	Common_Term
+взяточник	Common_Term
+взяточничество	Common_Term
+дела о взяточничестве	Common_Term
+взятки	Common_Term
+дача взятки	Common_Term
+бюджет	Common_Term
+бюджетные статьи	Specific_Term
+бюджетный	Common_Term
+составление бюджета	Common_Term
+бремя доказывания	Common_Term
+бюрократизация	Common_Term
+бизнес	Common_Term
+деловое сообщество	Common_Term
+деловые контакты	Common_Term
+деловые интересы	Common_Term
+деловая практика	Common_Term
+деловые отношения	Common_Term
+деловая тайна	Common_Term
+деловые операции	Common_Term
+деловой мир	Common_Term
+предприятия	Common_Term
+рынок капитала	Specific_Term
+прецедентное право	Specific_Term
+случаи коррупции	Common_Term
+гражданский	Common_Term
+гражданское право	Common_Term
+государственные служащие	Common_Term
+государственная служба	Common_Term
+гражданское общество	Common_Term
+требования о возмещении ущерба	Common_Term
+закрыто, никаких дальнейших действий не предпринято	Specific_Term
+совместное финансирование	Common_Term
+кодекс поведения	Common_Term
+кодекс этики	Common_Term
+кодекс надлежащего административного поведения	Common_Term
+кодексы поведения	Common_Term
+политика сплочения	Specific_Term
+сбор доказательств	Specific_Term
+сговор	Specific_Term
+сговор	Specific_Term
+борьба с коррупцией	Common_Term
+борьба с коррупцией	Common_Term
+коммерция	Common_Term
+коммерческий	Common_Term
+коммерческий спор	Specific_Term
+комиссионные	Common_Term
+общий рынок	Specific_Term
+компании	Common_Term
+компания	Common_Term
+компенсация за ущерб	Common_Term
+возмещение ущерба	Specific_Term
+конкуренция	Common_Term
+соответствие требованиям	Common_Term
+отчеты о соблюдении требований	Specific_Term
+компромисс	Common_Term
+концессии	Common_Term
+условия найма	Specific_Term
+конфиденциальный	Common_Term
+конфиденциальность	Common_Term
+конфисковать	Common_Term
+конфискация	Common_Term
+конфискация доходов от коррупции	Common_Term
+конфискация преступных активов	Specific_Term
+конфискация доходов от преступной деятельности	Specific_Term
+конфискации	Common_Term
+конфликт интересов	Common_Term
+конфликт интересов	Common_Term
+конфликт интересов	Common_Term
+консолидированные счета	Specific_Term
+заговор	Common_Term
+конституционный	Common_Term
+конституционные нормы	Common_Term
+контракт	Common_Term
+заключение контракта	Common_Term
+органы-заказчики	Specific_Term
+организация-заказчик	Specific_Term
+подрядчик	Common_Term
+подрядчики	Common_Term
+контракты	Common_Term
+осужденный	Common_Term
+осужденный	Common_Term
+убежденность	Common_Term
+убеждения	Common_Term
+механизм сотрудничества и проверки	Specific_Term
+корпоративный	Common_Term
+корпоративная ответственность	Specific_Term
+корпоративный налогоплательщик	Specific_Term
+коррупция	Common_Term
+коррумпированный	Common_Term
+коррупционная деятельность	Common_Term
+коррупционные деяния	Common_Term
+коррупционное поведение	Common_Term
+коррупционная деловая практика	Common_Term
+коррупционная практика	Common_Term
+коррупция	Common_Term
+дело о коррупции	Common_Term
+дела о коррупции	Common_Term
+коррупционные правонарушения	Common_Term
+индекс восприятия коррупции	Specific_Term
+протокол о коррупции	Specific_Term
+коррупционные риски	Common_Term
+коррупционные скандалы	Common_Term
+стоимость	Common_Term
+затраты	Common_Term
+затраты на транзакции	Common_Term
+количество случаев коррупции	Specific_Term
+суд	Common_Term
+суд первой инстанции	Specific_Term
+суд справедливости	Specific_Term
+суды	Common_Term
+индекс потребительских цен	Specific_Term
+вычтите что-нибудь из платежей	Common_Term
+кредитное учреждение	Common_Term
+кредитные учреждения	Common_Term
+преступление	Common_Term
+криминальные хроники	Common_Term
+преступления	Common_Term
+уголовное дело	Common_Term
+преступные злоупотребления	Common_Term
+преступное деяние	Common_Term
+преступные деяния	Common_Term
+преступные активы	Specific_Term
+преступное поведение	Common_Term
+уголовный кодекс	Common_Term
+преступный сговор	Specific_Term
+уголовные расследования	Common_Term
+криминалистическая экспертиза	Common_Term
+группа криминалистической экспертизы и связи	Specific_Term
+уголовные финансовые расследования	Common_Term
+уголовные расследования	Common_Term
+уголовное правосудие	Common_Term
+уголовное право	Common_Term
+правоохранительная деятельность в области уголовного права	Common_Term
+рамки уголовного права	Specific_Term
+уголовно-правовое законодательство	Common_Term
+уголовная ответственность	Common_Term
+уголовное преступление	Common_Term
+уголовные преступления	Common_Term
+преступная организация	Common_Term
+уголовные наказания	Common_Term
+уголовное судопроизводство	Specific_Term
+уголовное преследование	Common_Term
+уголовные санкции	Common_Term
+криминализация	Common_Term
+криминализировать	Common_Term
+криминализирует	Common_Term
+криминализация	Common_Term
+преступность	Common_Term
+уголовно наказуемый	Common_Term
+активы, приобретенные преступным путем	Specific_Term
+уголовная ответственность	Common_Term
+активы, запятнанные преступным путем	Specific_Term
+преступники	Common_Term
+сквозные элементы	Specific_Term
+виновное поведение	Common_Term
+культура коррупции	Common_Term
+наказание в виде лишения свободы	Common_Term
+приговоры к лишению свободы	Common_Term
+таможня	Common_Term
+таможенная пошлина	Common_Term
+cvm	Specific_Term
+защита данных	Common_Term
+защита данных	Common_Term
+решение	Specific_Term
+решения	Specific_Term
+декларирование финансовых интересов	Specific_Term
+вычитается	Common_Term
+возможность вычета	Common_Term
+окончательное суждение	Specific_Term
+деонтология	Specific_Term
+правительственные департаменты	Common_Term
+лишение свободы	Common_Term
+неисполнение	Common_Term
+помощь в целях развития	Common_Term
+прямое возвращение активов	Specific_Term
+прямое всеобщее избирательное право	Specific_Term
+директива	Specific_Term
+директивы	Specific_Term
+выплаты	Common_Term
+дисциплинарные органы	Common_Term
+дисциплинарные правила	Common_Term
+дисциплинарные санкции	Common_Term
+незаинтересованность	Specific_Term
+спор	Common_Term
+споры	Common_Term
+искажение конкуренции	Specific_Term
+перенаправление	Common_Term
+двойная преступность	Specific_Term
+двойная проверка	Specific_Term
+проект бюджета	Specific_Term
+обязанности	Common_Term
+обязанность	Common_Term
+долг верности	Specific_Term
+экономический	Common_Term
+экономические преступления	Common_Term
+экономические преступления	Common_Term
+экономический ущерб	Common_Term
+экономика	Common_Term
+экономика	Common_Term
+расходы на выборы	Common_Term
+выборы	Common_Term
+избирательные кампании	Common_Term
+растрата	Common_Term
+растрата	Specific_Term
+организация работодателей	Common_Term
+правоприменение	Common_Term
+предприятия	Common_Term
+справедливый	Common_Term
+этический	Common_Term
+этичное поведение	Common_Term
+этичное предпринимательство	Specific_Term
+этически	Common_Term
+этика	Common_Term
+комитет по этике	Specific_Term
+европейский ордер на арест	Specific_Term
+механизмы оценки	Common_Term
+доказательства	Common_Term
+доказательственная ценность	Common_Term
+ex officio	OOD_Term
+основания для исключения	Specific_Term
+исполнительный совет	Specific_Term
+расходы	Common_Term
+статья(ы) бюджета расходов	Specific_Term
+статьи бюджета расходов	Specific_Term
+расходы	Common_Term
+расходы	Common_Term
+эксплуатация	Common_Term
+эксплуатируемый	Common_Term
+экспортные кредиты	Specific_Term
+внешний финансовый контроль	Common_Term
+внешняя гарантия качества	Specific_Term
+вымогательство	Common_Term
+экстрадиция	Common_Term
+честная конкуренция	Specific_Term
+фаворитизм	Common_Term
+фаворитизм	Common_Term
+федеральная гражданская служба	Specific_Term
+федеральная полиция по уголовным расследованиям	Specific_Term
+федеральный департамент	Specific_Term
+департамент федерального правительства	Specific_Term
+департаменты федерального правительства	Specific_Term
+борьба с коррупцией	Common_Term
+борьба с мошенничеством	Common_Term
+борьба с коррупцией	Common_Term
+борьба с коррупцией	Common_Term
+борьба с коррупцией	Common_Term
+финансы	Common_Term
+финансируемый	Common_Term
+финансы	Common_Term
+финансовый	Common_Term
+финансовая выгода	Common_Term
+финансовые затраты	Common_Term
+финансовые преступления	Common_Term
+финансовые преступления	Common_Term
+финансовый кризис	Common_Term
+финансовые рамки	Specific_Term
+финансовые учреждения	Common_Term
+финансовая разведка	Specific_Term
+подразделение финансовой разведки	Specific_Term
+подразделения финансовой разведки	Specific_Term
+финансовые интересы	Common_Term
+финансовые расследования	Common_Term
+финансовые нарушения	Common_Term
+финансовый менеджмент	Common_Term
+финансовые правонарушения	Common_Term
+финансовая политика	Common_Term
+финансовый прокурор	Specific_Term
+финансовая отчетность	Specific_Term
+финансовая отчетность	Common_Term
+финансовая система	Specific_Term
+финансовые операции	Common_Term
+финансирование	Common_Term
+финансирование избирательных кампаний	Common_Term
+финансирование политических партий	Common_Term
+прекрасно	Common_Term
+штрафы	Common_Term
+финансовый	Common_Term
+налоговое исключение	Specific_Term
+механизм последующей деятельности	Common_Term
+валютные рынки	Specific_Term
+рамочное решение	Specific_Term
+рамочные решения	Specific_Term
+рамки надлежащей практики	Specific_Term
+рамки правовой ссылки	Specific_Term
+рамочное регулирование	Specific_Term
+мошенничество	Common_Term
+расследования мошенничества	Common_Term
+лица, совершающие мошенничество	Common_Term
+мошеннический	Common_Term
+мошенническое действие	Common_Term
+мошеннические действия	Common_Term
+мошеннические действия	Common_Term
+свободная торговля	Common_Term
+соглашения о свободной торговле	Specific_Term
+свобода проведения торгов	Specific_Term
+замораживание	Specific_Term
+фундаментальные этические обязательства	Specific_Term
+финансирование	Common_Term
+фонды	Common_Term
+g-20	Specific_Term
+выигрыш	Common_Term
+выгоды	Common_Term
+ввп	Common_Term
+генеральная ассамблея	Common_Term
+генеральный совет	Specific_Term
+генеральные советы	Specific_Term
+обобщенная система предпочтений	Specific_Term
+обобщенная система предпочтений	Specific_Term
+подарки	Common_Term
+благое управление	Specific_Term
+благое управление	Specific_Term
+товары	Common_Term
+управление	Common_Term
+совет управляющих	Specific_Term
+правительство	Common_Term
+государственные контракты	Common_Term
+государственные закупки	Common_Term
+правительства	Common_Term
+грант	Common_Term
+чаевые	Specific_Term
+Зеленая книга	Specific_Term
+серые зоны	Common_Term
+соглашение о штаб-квартире	Specific_Term
+скрытый	Common_Term
+внутренние дела	Common_Term
+МСФО	Specific_Term
+незаконный	Common_Term
+незаконная деятельность	Common_Term
+незаконная деятельность	Common_Term
+незаконный	Common_Term
+незаконный	Common_Term
+незаконное обогащение	Specific_Term
+незаконное финансирование	Common_Term
+незаконные доходы	Common_Term
+незаконно	Common_Term
+недвижимый	Specific_Term
+недвижимое имущество	Common_Term
+иммунитеты	Common_Term
+иммунитет	Common_Term
+беспристрастность	Common_Term
+беспристрастно	Common_Term
+тюремное заключение	Common_Term
+ненадлежащее влияние	Specific_Term
+внутренняя коррупция	Specific_Term
+доход	Common_Term
+закон о подоходном налоге	Specific_Term
+компрометирующий	Common_Term
+инкриминируемые деяния	Common_Term
+независимость судебной власти	Specific_Term
+косвенная финансовая выгода	Common_Term
+нарушение	Common_Term
+подстрекательство	Common_Term
+подстрекательство	Common_Term
+подстрекатель	Specific_Term
+подстрекатели	Common_Term
+инструменты	Specific_Term
+целое число	Common_Term
+целостность	Common_Term
+политика добросовестности	Specific_Term
+стандарты добросовестности	Common_Term
+системы обеспечения целостности	Specific_Term
+межправительственный	Common_Term
+посредники	Common_Term
+посредник	Common_Term
+внутренние процедуры обжалования	Common_Term
+внутренний аудит	Specific_Term
+внутреннее расследование	Specific_Term
+внутренние расследования	Specific_Term
+внутренний рынок	Specific_Term
+международные стандарты бухгалтерского учета	Specific_Term
+международные стандарты финансовой отчетности	Specific_Term
+международное мошенничество	Common_Term
+международный рынок	Common_Term
+международные стандарты аудита	Specific_Term
+юрисдикция для толкования	Specific_Term
+инвестированный	Common_Term
+полномочия по расследованию	Common_Term
+тайна следствия	Common_Term
+инвестирование	Common_Term
+инвестиции	Common_Term
+уровни инвестиций	Specific_Term
+неприкосновенность	Common_Term
+нарушения	Common_Term
+isa	Specific_Term
+совместные действия	Specific_Term
+совместные наблюдательные группы	Specific_Term
+совместное предприятие	OOD_Term
+судья	Common_Term
+судебное решение	Common_Term
+судьи	Common_Term
+судебный	Common_Term
+судебная помощь	Specific_Term
+судебные органы	Common_Term
+судебная власть	Common_Term
+судебный контроль	Specific_Term
+судебное разбирательство	Common_Term
+судебное средство правовой защиты	Common_Term
+судебный надзор	Specific_Term
+судебный приказ о ликвидации	Specific_Term
+судебная система	Common_Term
+юрисдикция	Common_Term
+правила юрисдикции	Specific_Term
+юрисдикции	Common_Term
+правосудие	Common_Term
+отмывание денег	Common_Term
+отмывание доходов	Common_Term
+отмывание доходов, полученных преступным путем	Common_Term
+закон	Common_Term
+правоохранительные органы	Common_Term
+сотрудники правоохранительных органов	Common_Term
+принципы права	Common_Term
+законопослушное общество	Common_Term
+законный	Common_Term
+законно	Common_Term
+законно предоставляемые услуги	Specific_Term
+законы	Common_Term
+юристы	Common_Term
+юридический	Common_Term
+судебный иск	Common_Term
+правовые акты	Specific_Term
+правовая сфера	Common_Term
+юридическая помощь	Common_Term
+правовые основы	Specific_Term
+правовая основа	Specific_Term
+юридические компетенции	Common_Term
+правовой контекст	Common_Term
+юридическое определение	Common_Term
+юридическая сила	Common_Term
+правовая база	Common_Term
+правовой документ	Specific_Term
+правовые документы	Specific_Term
+юридические обязательства	Common_Term
+юридическое лицо	Specific_Term
+юридические лица	Specific_Term
+юридическая привилегия	Specific_Term
+судебное разбирательство	Common_Term
+правовой статус	Common_Term
+юридически	Common_Term
+законодательство	Common_Term
+законодательство о коррупции	Common_Term
+законодательный	Common_Term
+законодательная финансовая база	Specific_Term
+законодательное предложение	Common_Term
+законодатель	Common_Term
+легитимность	Common_Term
+законная экономика	Specific_Term
+законно	Common_Term
+взимается	Common_Term
+ответственность	Common_Term
+ответственный	Common_Term
+лицензирование	Common_Term
+законный	Common_Term
+законная экономика	Specific_Term
+лоббирование	Specific_Term
+магистратура	Common_Term
+магистраты	Common_Term
+злоупотребления служебным положением	Common_Term
+мандат	Common_Term
+обязательный	Common_Term
+мандаты	Common_Term
+рынок	Common_Term
+рыночные условия	Common_Term
+рыночные процедуры	Specific_Term
+рынки сбыта	Common_Term
+договорные матчи	Common_Term
+посредническая группа	Specific_Term
+меморандум о взаимопонимании	Specific_Term
+незаконное присвоение	Common_Term
+неправомерное поведение	Common_Term
+мелкое правонарушение	Common_Term
+мелкие правонарушения	Common_Term
+бесхозяйственность	Common_Term
+способ действия	Specific_Term
+решения по денежно-кредитной политике	Specific_Term
+деньги	Common_Term
+отмывание денег	Common_Term
+отмывание денег	Common_Term
+механизм мониторинга	Common_Term
+механизмы мониторинга	Common_Term
+стандарты мониторинга	Common_Term
+монополии	Common_Term
+подвижный	Specific_Term
+взаимная помощь	Specific_Term
+взаимная судебная помощь	Specific_Term
+взаимная правовая помощь	Specific_Term
+физическое лицо	Specific_Term
+физические лица	Specific_Term
+нет бис в правиле idem	Specific_Term
+политика соседства	Specific_Term
+неправительственная организация	Common_Term
+НПО	Common_Term
+неправительственные организации	Common_Term
+внедоговорная ответственность	Specific_Term
+неуголовные штрафы	Specific_Term
+неправительственная организация	Common_Term
+непрозрачный	Specific_Term
+нотариусы	Common_Term
+объективно	Common_Term
+воспрепятствование отправлению правосудия	Specific_Term
+неофициально	Specific_Term
+внебюджетный учет	Specific_Term
+правонарушение	Common_Term
+правонарушения	Common_Term
+коррупционные правонарушения	Common_Term
+нарушитель	Common_Term
+нарушители	Common_Term
+должностные лица	Common_Term
+официальный	Common_Term
+официальные лица	Common_Term
+инспекционные группы на местах	Specific_Term
+непрозрачность	Common_Term
+открытые рынки	Common_Term
+организованная и трансграничная коррупция	Specific_Term
+организованная преступность	Common_Term
+организованные преступные группировки	Common_Term
+организованная финансовая преступность	Common_Term
+организованное мошенничество	Common_Term
+организованное международное мошенничество	Common_Term
+организованная преступность	Common_Term
+пакт молчания	Common_Term
+оплачено	Common_Term
+финансирование партий	Common_Term
+пассивный подкуп	Specific_Term
+пассивная коррупция	Specific_Term
+пассивная трансграничная коррупция	Specific_Term
+оплатить	Common_Term
+оплата	Common_Term
+оплата	Common_Term
+платежи	Common_Term
+уголовный кодекс	Common_Term
+уголовное законодательство	Common_Term
+наложение штрафа	Common_Term
+наказывает	Common_Term
+штрафные санкции	Common_Term
+штраф	Common_Term
+наказание в виде тюремного заключения	Common_Term
+преступники	Common_Term
+личный интерес	Common_Term
+персональная юридическая помощь	Common_Term
+мелкая коррупция	Specific_Term
+полиция	Common_Term
+сотрудники полиции	Common_Term
+политика	Common_Term
+политика	Common_Term
+политика борьбы с коррупцией	Common_Term
+область политики	Common_Term
+области политики	Common_Term
+политический	Common_Term
+политическое соглашение	Common_Term
+политическая коррупция	Common_Term
+политические коррупционные скандалы	Common_Term
+политические партии	Common_Term
+политическая партия	Common_Term
+финансирование политических партий	Common_Term
+политические скандалы	Common_Term
+политики	Common_Term
+основные правонарушения	Specific_Term
+предварительные решения	Specific_Term
+цена	Common_Term
+примат верховенства права	Specific_Term
+главный	Specific_Term
+принципы поведения	Common_Term
+частный	Common_Term
+частный подкуп	Specific_Term
+коррупция в частном секторе	Specific_Term
+личная выгода	Common_Term
+частные выгоды	Common_Term
+частная собственность	Common_Term
+частный сектор	Common_Term
+коррупция в частном секторе	Specific_Term
+частный сектор	Common_Term
+частно-общественный диалог	Specific_Term
+частный сектор	Common_Term
+коррупция между частными лицами	Specific_Term
+приватизация	Common_Term
+процедурные гарантии	Specific_Term
+поступления	Common_Term
+доходы от преступной деятельности	Common_Term
+закупки	Common_Term
+процедуры закупок	Common_Term
+профессиональное поведение	Common_Term
+профессиональная этика	Common_Term
+профессиональная честность	Common_Term
+профессиональный проступок	Common_Term
+профессиональная тайна	Common_Term
+запрет	Common_Term
+доказательство	Common_Term
+преследовать в судебном порядке	Common_Term
+возбуждено уголовное дело	Common_Term
+судебное преследование	Common_Term
+органы прокуратуры	Common_Term
+судебное преследование	Common_Term
+судебные преследования	Common_Term
+прокурор	Common_Term
+прокуроры	Common_Term
+защита в соответствии с уголовным законодательством	Common_Term
+пруденциальный надзор	Specific_Term
+публичный	Common_Term
+система государственного учета	Common_Term
+государственное управление	Common_Term
+государственное управление	Common_Term
+связи с общественностью	Common_Term
+государственные агенты	Common_Term
+государственные органы	Common_Term
+общественные блага	Common_Term
+государственные органы	Common_Term
+государственный подкуп	Specific_Term
+государственные контракты	Common_Term
+государственные расходы	Common_Term
+государственные финансы	Common_Term
+государственное учреждение	Common_Term
+государственные учреждения	Common_Term
+общественный интерес	Common_Term
+публичные приглашения к участию в тендере	Common_Term
+государственные деньги	Common_Term
+государственная должность	Common_Term
+государственный служащий	Common_Term
+государственные служащие	Common_Term
+государственная политика	Common_Term
+государственные закупки	Common_Term
+контракты на государственные закупки	Common_Term
+рынок государственных закупок	Common_Term
+политика государственных закупок	Common_Term
+процедуры государственных закупок	Common_Term
+общественная собственность	Common_Term
+государственный обвинитель	Common_Term
+государственная прокуратура	Common_Term
+публичная отчетность	Common_Term
+государственный сектор	Common_Term
+государственный сектор	Common_Term
+государственные служащие	Common_Term
+государственная служба	Common_Term
+поставщик государственных услуг	Common_Term
+государственные услуги	Common_Term
+публичный тендер	Common_Term
+общественные работы	Common_Term
+государственный сектор	Common_Term
+органы государственного сектора	Common_Term
+государственная служба	Common_Term
+наказуемо	Common_Term
+наказуемое правонарушение	Common_Term
+наказан	Common_Term
+наказывает	Common_Term
+наказание	Common_Term
+наказание	Common_Term
+карательный	Common_Term
+директор по закупкам	Common_Term
+докладчик	Specific_Term
+вернуть	Common_Term
+распознавания	Common_Term
+возвращение активов, приобретенных преступным путем	Specific_Term
+регистрация для передачи права собственности	Specific_Term
+регулирование	Specific_Term
+правила	Common_Term
+нормативная база	Common_Term
+возмещение расходов	Common_Term
+меры по удалению	Specific_Term
+извлечение инструментов	Specific_Term
+изъятие инструментов и выручки	Specific_Term
+оплаченный	Common_Term
+вознаграждение	Common_Term
+возмещение ущерба	Specific_Term
+отменить	Specific_Term
+отменено	Specific_Term
+отмена	Specific_Term
+отчет	Common_Term
+сообщается	Common_Term
+отчетность	Common_Term
+механизм отчетности	Common_Term
+механизм отчетности	Common_Term
+репрессии	Common_Term
+разрешение	Specific_Term
+реституция	Specific_Term
+возмещение неправомерного обогащения	Specific_Term
+возмездие	Common_Term
+возврат активов	Specific_Term
+выручка	Common_Term
+механизм обзора	Common_Term
+награда	Common_Term
+правильно	Common_Term
+право хранить молчание	Common_Term
+право голоса	Common_Term
+права	Common_Term
+королевский указ	Specific_Term
+королевские указы	Specific_Term
+правило	Common_Term
+верховенство закона	Common_Term
+правила	Common_Term
+правила поведения	Common_Term
+правила процедуры	Specific_Term
+правила процедуры	Specific_Term
+постановления	Common_Term
+зарплата	Common_Term
+введение санкций	Common_Term
+санкции	Common_Term
+захват	Common_Term
+изъятие	Common_Term
+судороги	Common_Term
+самоочищающийся	Specific_Term
+режимы саморегулирования	Specific_Term
+предложение	Common_Term
+приговорен	Common_Term
+предложения	Common_Term
+серьезные правонарушения	Common_Term
+значительный контролируемый	Specific_Term
+единый рынок	Specific_Term
+единый надзорный механизм	Specific_Term
+слякотные деньги	Common_Term
+малые и средние предприятия	Common_Term
+малый и средний бизнес	Common_Term
+малые и средние предприятия	Common_Term
+социальная ответственность	Common_Term
+общества	Common_Term
+общество	Common_Term
+расходы	Common_Term
+ssm	Specific_Term
+положения о персонале	Specific_Term
+правила о персонале	Specific_Term
+стандарты поведения	Common_Term
+стандарты бухгалтерского учета	Specific_Term
+государственный орган	Common_Term
+государственные контракты	Common_Term
+устав	Specific_Term
+установленный законом	Specific_Term
+обязательный аудит	Specific_Term
+обязательный аудитор	Specific_Term
+обязательные аудиторы	Specific_Term
+обязательный аудит	Specific_Term
+уставной комитет	Specific_Term
+законодательное разрешение	Specific_Term
+фондовые биржи	Common_Term
+фондовые рынки	Common_Term
+субподряды	Common_Term
+субсидии	Common_Term
+субсидия	Common_Term
+законы о субсидиях	Common_Term
+расходы на проживание	Common_Term
+избирательное право	Common_Term
+правила надзора	Common_Term
+наблюдательный совет	Specific_Term
+бестактно	Specific_Term
+налог	Common_Term
+налоговое администрирование	Common_Term
+налоговые консультанты	Common_Term
+возможность вычета налогов	Common_Term
+налоговое законодательство	Common_Term
+налоговые правонарушения	Common_Term
+налоговые платежи	Common_Term
+налоги	Common_Term
+налогоплательщик	Common_Term
+налогоплательщики	Common_Term
+тендер	Common_Term
+участник тендера	Specific_Term
+участники тендера	Specific_Term
+термин	Common_Term
+срок полномочий	Common_Term
+расторжение контракта	Common_Term
+финансирование терроризма	Specific_Term
+третьи лица	Common_Term
+третья сторона	Common_Term
+сторонний	Common_Term
+торговля	Common_Term
+торговые ассоциации	Common_Term
+торговая организация	Common_Term
+торговая политика	Common_Term
+торговые отношения	Common_Term
+профсоюз	Common_Term
+торговля	Common_Term
+торговля влиянием	Specific_Term
+транзакции	Common_Term
+трансграничная коррупция	Specific_Term
+дела о трансграничной коррупции	Specific_Term
+передача производства	Specific_Term
+транснациональное организованное мошенничество	Specific_Term
+прозрачность	Common_Term
+прозрачный	Common_Term
+транспонировать	Specific_Term
+транспонированный	Specific_Term
+транспозиция	Specific_Term
+незадекларированные пожертвования	Specific_Term
+неправомерное преимущество	Specific_Term
+неоправданные преимущества	Specific_Term
+неоплачиваемый	Common_Term
+узуфрукт	Specific_Term
+жертва	Common_Term
+жертвы	Common_Term
+голосовать	Common_Term
+права голоса	Common_Term
+голосование	Common_Term
+свобода голосования	Specific_Term
+право голоса	Common_Term
+уязвимость к мошенничеству	Common_Term
+отказ от ответственности	Specific_Term
+отказ от применимого иммунитета	Specific_Term
+отказ от иммунитета	Specific_Term
+ордер	Common_Term
+подача сигнала в свисток	Common_Term
+информаторы	Common_Term
+информирование общественности	Common_Term
+белые списки	Common_Term
+белая бумага	Specific_Term
+завершение работы	Specific_Term
+свидетель	Common_Term
+свидетели	Common_Term
+мировая экономика	Common_Term
+правонарушения	Common_Term
+неправомерное удержание	Specific_Term

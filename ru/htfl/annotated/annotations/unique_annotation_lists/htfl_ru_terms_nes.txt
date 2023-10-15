@@ -1,0 +1,2581 @@
+(123) i-мета-йодобензилгуанидин	Specific_Term
+(123)i-mibg	Specific_Term
+1-алкил-2-ацетил-sn-глицеролхолинфосфотрансфераза	Specific_Term
+сапр 2-го судна	Specific_Term
+двухсторонний анализ anova	OOD_Term
+сапр 3-го судна	Specific_Term
+тест на 6-минутную ходьбу	Specific_Term
+тест на 6-минутную ходьбу	Specific_Term
+6-минутная прогулка по коридору	Specific_Term
+расстояние в 6 минутах ходьбы	Specific_Term
+тест на 6-минутную ходьбу	Specific_Term
+расстояние в 6 минутах ходьбы	Specific_Term
+в 6 минутах ходьбы	Specific_Term
+6 МВт	Specific_Term
+6 МВт	Specific_Term
+8-fluo-camp	Specific_Term
+aa	Named_Entity
+aac	Specific_Term
+aas	Named_Entity
+abcc2	Specific_Term
+классификация abcd	Specific_Term
+брюшная полость	Common_Term
+сужение брюшной аорты	Specific_Term
+удаление	Specific_Term
+абсорбциометрия	Specific_Term
+acc	Named_Entity
+белки-считыватели ацетиллизина	Specific_Term
+ингибирование ацетилхолинэстеразы	Specific_Term
+ингибитор ацетилхолинэстеразы	Specific_Term
+acf	Specific_Term
+acp	Named_Entity
+acr	Specific_Term
+acs	Specific_Term
+актиновый цитоскелет	Specific_Term
+острый	Common_Term
+хирургия неотложной помощи	Specific_Term
+острый коронарный синдром	Specific_Term
+острые коронарные синдромы	Specific_Term
+острая одышка	Specific_Term
+острая сердечная недостаточность	Common_Term
+острая сн	Common_Term
+острая ишемическая правожелудочковая недостаточность	Specific_Term
+острое повреждение почек	Common_Term
+острый инфаркт миокарда	Specific_Term
+острая правожелудочковая недостаточность	Specific_Term
+острая недостаточность ПЖ	Specific_Term
+адениновые нуклеотиды	Specific_Term
+аденозин	Specific_Term
+аденовирусный	Specific_Term
+аденовирус	Specific_Term
+аденилилциклаза	Specific_Term
+адипокины	Specific_Term
+адипонектин	Specific_Term
+жировая ткань	Specific_Term
+скорректированное соотношение шансов	OOD_Term
+вспомогательное средство	Specific_Term
+поступление	Common_Term
+приемные комиссии	Common_Term
+адренергический	Specific_Term
+адреномедуллин	Specific_Term
+неблагоприятное событие	Specific_Term
+неблагоприятные события	Specific_Term
+неблагоприятный исход	Specific_Term
+неблагоприятные исходы	Specific_Term
+этиология	Specific_Term
+af	Specific_Term
+удаление автофокусировки	Specific_Term
+афроамериканцы	Named_Entity
+последующая загрузка	Specific_Term
+ага	Named_Entity
+ahf	Common_Term
+искусственный интеллект	Specific_Term
+akt?сигнализация класса o-1 раздвижной коробки	Specific_Term
+Альберта	Named_Entity
+альбумин	Specific_Term
+альдактон	Specific_Term
+альдостерон	Specific_Term
+антагонизм альдостерона	Specific_Term
+антагонист альдостерона	Specific_Term
+блокада альдостерона	Specific_Term
+рецептор альдостерона	Specific_Term
+антагонисты рецепторов альдостерона	Specific_Term
+алендронат	Specific_Term
+госпитализации по всем причинам	Common_Term
+госпитализация по любой причине	Common_Term
+госпитализации по всем причинам	Common_Term
+смертность от всех причин	Common_Term
+реадмиссия по всем основаниям	Common_Term
+повторная госпитализация по всем причинам	Common_Term
+аллогенный	Specific_Term
+аллопуринол	Specific_Term
+alphalisa	Named_Entity
+амбулаторный	Specific_Term
+американский колледж кардиологии	Named_Entity
+американский колледж врачей	Named_Entity
+американская кардиологическая ассоциация	Named_Entity
+ами	Specific_Term
+амино-концевой натрийуретический пептид pro-b-типа	Specific_Term
+амилоидоз	Specific_Term
+анаболические	Specific_Term
+анаэробный метаболизм	Specific_Term
+анаэробный порог	Specific_Term
+ананд	Named_Entity
+анастомоз	Specific_Term
+анемия	Specific_Term
+анемичный	Specific_Term
+под наркозом	Common_Term
+ang ii	Specific_Term
+инфузия ang ii	Specific_Term
+соль Анджели	Specific_Term
+ангия	Specific_Term
+стенокардия	Specific_Term
+ангиогенез	Specific_Term
+ангиография	Specific_Term
+ангиопластика	Specific_Term
+ангиотензин	Specific_Term
+ангиотензинпревращающий фермент	Specific_Term
+ингибитор ангиотензинпревращающего фермента	Specific_Term
+ингибиторы ангиотензинпревращающего фермента	Specific_Term
+ангиотензин ii	Specific_Term
+инфузия ангиотензина ii	Specific_Term
+блокатор рецепторов ангиотензина ii	Specific_Term
+антагонист рецепторов ангиотензина	Specific_Term
+блокаторы рецепторов ангиотензина	Specific_Term
+ингибитор неприлизина рецептора ангиотензина	Specific_Term
+блокаторы рецепторов ангиотензина	Specific_Term
+ангиотензинпревращающий фермент	Specific_Term
+ингибитор ангиотензинпревращающего фермента	Specific_Term
+ингибиторы ангиотензинпревращающего фермента	Specific_Term
+блокатор рецепторов ангиотензина	Specific_Term
+блокаторы рецепторов ангиотензина	Specific_Term
+ингибиторы неприлизина рецепторов ангиотензина	Specific_Term
+лодыжечно-плечевой индекс	Specific_Term
+дела ветеранов Анн-Арбора	Named_Entity
+кольцевая ms	Specific_Term
+ануп шах	Named_Entity
+антагомир	Specific_Term
+антагонизм	Specific_Term
+антагонист	Specific_Term
+антагонисты	Specific_Term
+передняя створка	Specific_Term
+антрациклин	Specific_Term
+кардиотоксичность, вызванная антрациклином	Specific_Term
+антрациклины	Specific_Term
+противовоспалительные	Common_Term
+противоопухолевое средство	Specific_Term
+антиоксидантная защита	Specific_Term
+антиадренергический	Specific_Term
+антиаритмическое средство	Specific_Term
+антиаритмические препараты	Specific_Term
+антитела	Common_Term
+антикоагулянты	Specific_Term
+антикоагулянтные препараты	Specific_Term
+антигипергликемические средства	Specific_Term
+антигипергликемические препараты	Specific_Term
+антигипертензивные препараты	Specific_Term
+антитромбоцитарные средства	Specific_Term
+антитромбоцитарные препараты	Specific_Term
+антитромбоцитарные препараты	Specific_Term
+стимуляция при тахикардии	Specific_Term
+противоопухолевое средство	Common_Term
+aor	OOD_Term
+аортальный	Common_Term
+аортальная недостаточность	Specific_Term
+давление в аорте	Specific_Term
+аортальный клапан	Common_Term
+недостаточность аортального клапана	Specific_Term
+аортокавальный свищ	Specific_Term
+вершина	Specific_Term
+апоптоз	Specific_Term
+апоптотические клетки	Specific_Term
+апоптотический сигнальный путь	Specific_Term
+область под кривой	OOD_Term
+область под кривой рабочих характеристик приемника	OOD_Term
+arg16/gln27	Specific_Term
+arg76	Specific_Term
+аргинин-вазопрессин	Specific_Term
+aric	Named_Entity
+манжета на руке	Common_Term
+Арни	Specific_Term
+ингибиторы arni	Specific_Term
+аритмия	Specific_Term
+аритмии	Specific_Term
+артериальная	Common_Term
+эластичность артерий	Specific_Term
+артериальное давление	Specific_Term
+артериальная тонометрия	Specific_Term
+артерии	Common_Term
+артерия	Common_Term
+тонометрия артерий	Specific_Term
+артрит	Common_Term
+астронавт	Named_Entity
+бессимптомный	Common_Term
+в	Specific_Term
+at1	Specific_Term
+рецепторы at1	Specific_Term
+атеросклероз	Specific_Term
+риск атеросклероза в сообществах	Named_Entity
+атеросклеротический	Specific_Term
+атеросклеротическая ИБС	Specific_Term
+спс	Specific_Term
+atpase	Specific_Term
+предсердный	Specific_Term
+эксплантаты предсердий	Specific_Term
+фибрилляция предсердий	Specific_Term
+предсердный натрийуретический пептид	Specific_Term
+стимуляция предсердий	Specific_Term
+предсердные тахиаритмии	Specific_Term
+атриовентрикулярный	Specific_Term
+атриовентрикулярная задержка	Specific_Term
+атриум	Specific_Term
+атропин	Specific_Term
+истощение	Specific_Term
+auc	OOD_Term
+aucs	OOD_Term
+аускультация	Specific_Term
+аутологичный	Specific_Term
+автономный баланс	Specific_Term
+вегетативный дисбаланс	Specific_Term
+вегетативный дисбаланс	Specific_Term
+вегетативная нервная система	Specific_Term
+avd	Specific_Term
+avp	Specific_Term
+натрийуретические пептиды группы в	Specific_Term
+натрийуретический пептид в-типа	Specific_Term
+натрийуретические пептиды в-типа	Specific_Term
+np типа b	Specific_Term
+барорефлекс	Specific_Term
+терапия активации барорефлекса	Specific_Term
+чувствительность к барорефлексу	Specific_Term
+препятствия для оценки упражнений	Named_Entity
+базальная частота сердечных сокращений	Specific_Term
+исходный уровень	Specific_Term
+базовая спираль-петля-спираль	Specific_Term
+летучая мышь	Specific_Term
+bax	Specific_Term
+bb	Specific_Term
+bcl-2	Specific_Term
+bcl2	Specific_Term
+инвентаризация депрессии Бека	Named_Entity
+доброкачественные опухоли	Common_Term
+ставка	Specific_Term
+бета-блокада	Specific_Term
+бета-блокаторы	Specific_Term
+блокаторы бета-рецепторов	Specific_Term
+бета-адренергический рецептор	Specific_Term
+бета-адренергические реакции	Specific_Term
+бета-блокатор	Specific_Term
+бета-адреноблокаторы	Specific_Term
+бета1-адренергический рецептор	Specific_Term
+ставки	Specific_Term
+бхлх	Specific_Term
+биологический фенотип	Specific_Term
+биомаркер	Specific_Term
+биомаркеры	Specific_Term
+биомедицинский	Common_Term
+биопротезирование аортального клапана	Specific_Term
+замена биопротезного клапана	Specific_Term
+биопсия	Common_Term
+биопсия	Common_Term
+биосинтетические ферменты	Specific_Term
+бисопролол	Specific_Term
+бисфофонаты	Specific_Term
+бисфосфонат	Specific_Term
+бисфосфонаты	Specific_Term
+двухжелудочковый	Specific_Term
+бивентрикулярная дисфункция	Specific_Term
+бивентрикулярная стимуляция	Specific_Term
+бивентрикулярная поддержка	Specific_Term
+bivp	Specific_Term
+кровотечение	Common_Term
+кровь	Common_Term
+клетка крови	Common_Term
+кровоток	Common_Term
+уровень глюкозы в крови	Specific_Term
+кровяное давление	Common_Term
+переливание крови	Common_Term
+азот мочевины в крови	Specific_Term
+кровоток	Common_Term
+имт	Common_Term
+bnp	Specific_Term
+индекс массы тела	Common_Term
+болюсный	Specific_Term
+костный морфогенетический белок 4	Specific_Term
+стент с узким местом	Specific_Term
+стентирование узкого места	Specific_Term
+bp	Specific_Term
+bpm	Specific_Term
+систолическое давление в плече	Specific_Term
+брадиаритмии	Specific_Term
+брадикардия	Specific_Term
+брадикардия	Specific_Term
+мозг	Common_Term
+мозговой натрийуретический пептид	Specific_Term
+brd4	Specific_Term
+рак молочной железы	Common_Term
+дыхание	Common_Term
+одышка	Common_Term
+переход к трансплантации	Specific_Term
+бромодомен	Specific_Term
+бромодоменовые белки	Specific_Term
+белок 4, содержащий бромодомен	Specific_Term
+bte	Named_Entity
+btt	Specific_Term
+блок ветвления пакета	Specific_Term
+морфология ветвей пучка	Specific_Term
+блок bundle-ветвления	Specific_Term
+обход	Common_Term
+статистика c	OOD_Term
+статистика c	OOD_Term
+терминалы c	Specific_Term
+c'd	Specific_Term
+c-индекс	OOD_Term
+c-kit+ ячейка	Specific_Term
+c-kit+ ячейки	Specific_Term
+c-kit+ предшественники	Specific_Term
+c-статистика	OOD_Term
+c-окончательно	Specific_Term
+Калифорния(2+)	Specific_Term
+обработка ca(2+)	Specific_Term
+чувствительность ca(2+)	Specific_Term
+ca2(+)	Specific_Term
+ca2+	Specific_Term
+АКШ	Specific_Term
+кахектическая сердечная недостаточность	Specific_Term
+кахексия	Specific_Term
+сапр	Specific_Term
+кальциневрин	Specific_Term
+агенты, повышающие чувствительность к кальцию	Specific_Term
+Калифорния	Named_Entity
+Калифорния	Named_Entity
+калретикулин	Specific_Term
+лагерь	Specific_Term
+гидролиз цАМФ	Specific_Term
+сигнализация лагеря	Specific_Term
+сотрудничество с Кэмпбеллом	Named_Entity
+Канада	Named_Entity
+канадское сердечно-сосудистое общество	Named_Entity
+кандесартан	Specific_Term
+кандесартан при сердечной недостаточности оценка снижения смертности и заболеваемости	Named_Entity
+капилляр	Specific_Term
+карцинома	Specific_Term
+сердечный	Common_Term
+амилоидоз сердца	Specific_Term
+сердечный ангиогенез	Specific_Term
+апоптоз сердца	Specific_Term
+остановка сердца	Common_Term
+сердечная кахексия	Specific_Term
+катетеризация сердца	Specific_Term
+сердечный хроматин	Specific_Term
+сердечная смерть	Specific_Term
+сердечные смерти	Specific_Term
+сердечный дефибриллятор	Specific_Term
+сердечные заболевания	Specific_Term
+сердечная дисфункция	Specific_Term
+экспрессия генов сердечного энергетического метаболизма	Specific_Term
+сердечный приступ	Specific_Term
+сердечные события	Specific_Term
+сердечная недостаточность	Specific_Term
+фиброз сердца	Specific_Term
+наполнение сердца	Specific_Term
+давление наполнения сердца	Specific_Term
+функция сердца	Common_Term
+функции сердца	Common_Term
+рост сердца	Common_Term
+гипертрофия сердца	Specific_Term
+сердечный индекс	Specific_Term
+сердечная травма	Specific_Term
+зацикливание сердца	Specific_Term
+магнитный резонанс сердца	Specific_Term
+магнитно-резонансная томография сердца	Specific_Term
+постконтрастное время t1 магнитного резонанса сердца	Specific_Term
+экспрессия метаболических генов сердца	Specific_Term
+сердечная мрнк	Specific_Term
+шумы в сердце	Specific_Term
+сердечный выброс	Specific_Term
+повышенная экспрессия в сердце	Specific_Term
+сердечная плазматическая мембрана	Specific_Term
+функция предшественника сердца	Specific_Term
+кардиологическая реабилитация	Specific_Term
+ремоделирование сердца	Specific_Term
+ремоделирование сердца	Specific_Term
+сердечная ресинхронизирующая терапия	Specific_Term
+сердечный натрий	Specific_Term
+сердечный стресс	Specific_Term
+сердечная симпатическая активность	Specific_Term
+пересадка сердца	Specific_Term
+трансплантация сердца	Specific_Term
+трансплантация сердца	Specific_Term
+сердечный тропонин т	Specific_Term
+экспрессия vegf в сердце	Specific_Term
+объем сердца	Specific_Term
+перегрузка сердечного объема	Specific_Term
+промывание сердца	Specific_Term
+сердечная ресинхронизирующая терапия	Specific_Term
+кардиогенный	Specific_Term
+кардиогенный шок	Specific_Term
+кардиография	Specific_Term
+кардиологи	Common_Term
+кардиология	Common_Term
+консенсусный отчет по кардиологии и сердечно-сосудистой хирургии	Named_Entity
+кардиомиопатия	Specific_Term
+кардиомиоцит	Specific_Term
+биоэнергетика кардиомиоцитов	Specific_Term
+кардиомиоциты	Specific_Term
+кардиомиопатический	Specific_Term
+кардиомиопатии	Specific_Term
+кардиомиопатия	Specific_Term
+кардиопротекция	Specific_Term
+кардиопротективное	Specific_Term
+кардиопротекторная сигнализация	Specific_Term
+сердечно-легочная	Specific_Term
+искусственное кровообращение	Specific_Term
+сердечно-легочный тест с физической нагрузкой	Specific_Term
+сердечно-легочное тестирование с физической нагрузкой	Specific_Term
+сердечно-легочная реанимация	Specific_Term
+кардиореспираторная подготовка	Specific_Term
+кардиотоксичность	Specific_Term
+сердечно-сосудистая система	Common_Term
+смерть от сердечно-сосудистых заболеваний	Specific_Term
+сердечно-сосудистые заболевания	Common_Term
+сердечно-сосудистые заболевания	Common_Term
+сердечно-сосудистое событие	Specific_Term
+сердечно-сосудистые события	Specific_Term
+сердечно-сосудистая функция	Specific_Term
+сердечно-сосудистая заболеваемость	Specific_Term
+смертность от сердечно-сосудистых заболеваний	Specific_Term
+сердечно-сосудистые исходы при атеросклеротических поражениях почек	Named_Entity
+сердечно-сосудистый резерв	Specific_Term
+кардиоверсии	Specific_Term
+кардиовертерные дефибрилляторы	Specific_Term
+кардиовертер-дефибриллятор	Specific_Term
+кардиовертер-дефибрилляторное устройство	Specific_Term
+сонная артерия	Specific_Term
+толщина интима-медиа сонной артерии	Specific_Term
+карведилол	Specific_Term
+показатель летальности	Specific_Term
+каспаза	Specific_Term
+каспаза 3	Specific_Term
+каспаза-3	Specific_Term
+катаболический	Specific_Term
+катаболические изоферменты	Specific_Term
+катехоламин	Specific_Term
+катехоламины	Specific_Term
+катетер	Specific_Term
+катетерная абляция	Specific_Term
+катетеризация	Specific_Term
+катетеризация	Specific_Term
+cav1.2	Specific_Term
+cav1.3	Specific_Term
+cc	Specific_Term
+клетки cd133+	Specific_Term
+cd34+vegfr2+ клетки	Specific_Term
+Себальос	Named_Entity
+ячейка	Common_Term
+гены клеточной адгезии	Specific_Term
+гибель клеток	Specific_Term
+старение клеток	Specific_Term
+клеточная терапия	Specific_Term
+ячейки	Common_Term
+клеточная дисфункция	Specific_Term
+клеточный метаболизм	Specific_Term
+клеточная пластичность	Specific_Term
+центры предоставления услуг medicare и medicaid	Named_Entity
+центральное кровяное давление	Specific_Term
+центральное конечное систолическое давление	Specific_Term
+центральная гликозилированная область	Specific_Term
+центральное венозное давление	Specific_Term
+центр обзоров и распространения информации	Named_Entity
+центробежный проточный насос	Specific_Term
+centrimag	Named_Entity
+церебральный	Specific_Term
+цереброваскулярный	Specific_Term
+cf	Specific_Term
+cfa	OOD_Term
+cfi	OOD_Term
+cgmp	Specific_Term
+синтез цгмф	Specific_Term
+ch	Specific_Term
+болезнь Шагаса	Specific_Term
+палата	Specific_Term
+камерный паттерн	Specific_Term
+очарование	Named_Entity
+оценка cha?ds?vasc	Specific_Term
+хелатирование	Specific_Term
+химиотерапия	Common_Term
+грудь	Common_Term
+швейцарский франк	Common_Term
+chf-nyha-ii	Specific_Term
+chf-nyha-iii	Specific_Term
+chf-nyha-iiib	Specific_Term
+Китай	Named_Entity
+холестерин	Common_Term
+отбивная	Specific_Term
+разрывы хордовых	Specific_Term
+хроматин	Specific_Term
+гиперацетилирование хроматина	Specific_Term
+структура хроматина	Specific_Term
+субпротеом хроматина	Specific_Term
+субпротеомы хроматина	Specific_Term
+белки, ассоциированные с хроматином	Specific_Term
+хронический	Common_Term
+хронический акф	Specific_Term
+хроническая прогрессирующая сердечная недостаточность	Specific_Term
+хроническая декомпенсированная сердечная недостаточность	Specific_Term
+хроническая терминальная стадия сердечной недостаточности	Specific_Term
+хроническая сердечная недостаточность	Common_Term
+хроническая сн	Common_Term
+хроническая ГЛПС	Specific_Term
+хроническое заболевание почек	Specific_Term
+хроническая ишемия миокарда	Specific_Term
+хроническая обструктивная болезнь легких	Specific_Term
+хроническая органная недостаточность	Common_Term
+хроническая лаг	Specific_Term
+хроническая легочная артериальная гипертензия	Specific_Term
+хроническая почечная недостаточность	Specific_Term
+хроническая систолическая сердечная недостаточность	Specific_Term
+хроническая тромбоэмболическая легочная гипертензия	Specific_Term
+хронотропная реакция	Specific_Term
+ci	OOD_Term
+Чиаральди	Named_Entity
+чиналь	Named_Entity
+циркулирующие клетки-предшественники	Specific_Term
+распространение	Common_Term
+система кровообращения	Common_Term
+устройство для улучшения кровообращения	Specific_Term
+поддержка кровообращения	Specific_Term
+деформация по окружности	Specific_Term
+огибающая артерия	Specific_Term
+СНГ	OOD_Term
+цитратный цикл	Specific_Term
+город надежды	Named_Entity
+ХБП	Specific_Term
+clcnka	Specific_Term
+клиника	Common_Term
+клинический	Common_Term
+руководство по клинической практике	Specific_Term
+рекомендации по клинической практике	Specific_Term
+клинически	Common_Term
+клиницист	Common_Term
+клиницисты	Common_Term
+клиники	Common_Term
+кластерный анализ	OOD_Term
+cms	Named_Entity
+совместное	Specific_Term
+сопутствующие заболевания	Specific_Term
+сопутствующая заболеваемость	Specific_Term
+сопутствующий первичный результат	Specific_Term
+свертываемость	Specific_Term
+Кокрейн	Named_Entity
+кокрейновская эффективная практика и систематика организации медицинской помощи	Named_Entity
+кокрановская библиотека	Named_Entity
+когортные исследования	OOD_Term
+когортное исследование	OOD_Term
+коллаген	Specific_Term
+сшивание коллагена	Specific_Term
+отложение коллагена	Specific_Term
+сопутствующий рост	Specific_Term
+Коллинз	Named_Entity
+комбинированная конечная точка	Specific_Term
+сопутствующее заболевание	Specific_Term
+сопутствующие заболевания	Specific_Term
+сопутствующая патология	Specific_Term
+компенсированный hfpef	Specific_Term
+компенсированная гипертрофия лж	Specific_Term
+компенсаторная гипертрофия	Specific_Term
+соответствие требованиям	Specific_Term
+осложнение	Common_Term
+осложнения	Common_Term
+комбинированный конечная точка	Specific_Term
+составная конечная точка	Specific_Term
+сложный первичный результат	Specific_Term
+концентрическая гипертрофия	Specific_Term
+концентрическая гипертрофия левого желудочка	Specific_Term
+концентрическая реконструкция	Specific_Term
+условие	Common_Term
+условия	Common_Term
+доверительный интервал	OOD_Term
+доверительные интервалы	OOD_Term
+подтверждающий факторный анализ	OOD_Term
+врожденный	Common_Term
+застойная сердечная недостаточность	Specific_Term
+застойная сн	Specific_Term
+Коннектикут	Named_Entity
+консультация	Common_Term
+консультации	Common_Term
+одновременная контрольная группа	OOD_Term
+уравнение непрерывности	OOD_Term
+непрерывный поток	Specific_Term
+непрерывноволновая допплеровская эхокардиография	Specific_Term
+lvads с непрерывным потоком	Specific_Term
+сократительный	Specific_Term
+эффективность сокращения	Specific_Term
+сократительная функция	Specific_Term
+сократительная реакция	Specific_Term
+сократительная способность	Specific_Term
+заключение контракта	Specific_Term
+лонгитюдное исследование центра Купера	Named_Entity
+ХОБЛ	Specific_Term
+взаимоприемлемые конечные точки	Specific_Term
+сопутствующий результат	Specific_Term
+коралловый	Named_Entity
+коронарная	Specific_Term
+коронарография	Specific_Term
+коронарные артерии	Specific_Term
+коронарная артерия	Specific_Term
+аортокоронарное шунтирование	Specific_Term
+аортокоронарное шунтирование	Specific_Term
+операция аортокоронарного шунтирования	Specific_Term
+показатели кальция в коронарных артериях	Specific_Term
+ишемическая болезнь сердца	Specific_Term
+перевязка коронарной артерии	Specific_Term
+ишемическая болезнь сердца	Specific_Term
+ишемическая болезнь сердца	Specific_Term
+коронарные вмешательства	Specific_Term
+СН, вызванная коронарной микроэмболизацией	Specific_Term
+коронарная окклюзия	Specific_Term
+коронарная перфузия	Specific_Term
+коронарная реваскуляризация	Specific_Term
+соотносить	OOD_Term
+коррелированный	OOD_Term
+коррелирует	OOD_Term
+корреляция	OOD_Term
+коэффициент корреляции	OOD_Term
+корреляции	OOD_Term
+ковариантный	OOD_Term
+ковариационная корректировка	OOD_Term
+ковариаты	OOD_Term
+модели опасности кокса	OOD_Term
+модель Кокса	OOD_Term
+моделирование Кокса	OOD_Term
+модели Кокса	OOD_Term
+анализ пропорциональной опасности кокса	OOD_Term
+модели пропорциональной опасности Кокса	OOD_Term
+анализ пропорциональных опасностей Кокса	OOD_Term
+модели пропорциональных опасностей Кокса	OOD_Term
+регрессионное моделирование пропорциональных рисков Кокса	OOD_Term
+регрессия Кокса	OOD_Term
+регрессионный анализ Кокса	OOD_Term
+регрессионные модели Кокса	OOD_Term
+модели опасности, пропорциональные коксу	OOD_Term
+cpcs	Specific_Term
+cpet	Specific_Term
+cpg	Named_Entity
+cpgs	Named_Entity
+искусственное дыхание	Specific_Term
+cr	Specific_Term
+креатин	Specific_Term
+креатинин	Specific_Term
+ОФД	Specific_Term
+cri	OOD_Term
+? Кронбаха	OOD_Term
+перекрестный разговор	Specific_Term
+перекрестный разговор	Specific_Term
+перекрестное исследование	OOD_Term
+элт	Specific_Term
+crt-d	Specific_Term
+cs	Specific_Term
+ctnt	Specific_Term
+лечебный	Common_Term
+резюме	Common_Term
+сердечно-сосудистые заболевания	Specific_Term
+cxl-1020	Specific_Term
+cxl-1051	Specific_Term
+циклаза	Specific_Term
+циклический аденозинмонофосфат	Specific_Term
+циклический гуанозинмонофосфат	Specific_Term
+цистатин с	Specific_Term
+цитохром с	Specific_Term
+цитоскейп	Named_Entity
+динамика актина цитоскелета	Specific_Term
+цитоскелет	Specific_Term
+цитотоксический	Specific_Term
+Чешская республика	Named_Entity
+калифорния	Specific_Term
+закрытие лавсановой нашивкой	Specific_Term
+датский регистр по диализу	Named_Entity
+dapc	Specific_Term
+белок dapc	Specific_Term
+тире	Named_Entity
+dash/srd	Named_Entity
+Дэвид	OOD_Term
+dcm	Specific_Term
+dd	Specific_Term
+смерть	Common_Term
+смертельные случаи	Common_Term
+декомпенсированная сердечная недостаточность	Specific_Term
+декомпенсированная сн	Specific_Term
+декомпенсированная систолическая сердечная недостаточность	Specific_Term
+декомпенсация	Specific_Term
+дефибрилляция	Common_Term
+дефибриллятор	Common_Term
+дефибрилляторы	Common_Term
+индекс дефицита	Specific_Term
+дегенеративная митральная регургитация	Specific_Term
+дегенеративный митральный клапан	Specific_Term
+дегенеративный мр	Specific_Term
+degs	Specific_Term
+денервация	Specific_Term
+Дания	Named_Entity
+описательная статистика	OOD_Term
+целевая терапия	Specific_Term
+дханд	Specific_Term
+диабет	Common_Term
+сахарный диабет	Specific_Term
+диабетический	Common_Term
+диагностированный	Common_Term
+диагнозы	Common_Term
+диагностика	Common_Term
+диагностический	Common_Term
+диализ	Specific_Term
+диастола	Specific_Term
+диастолический	Specific_Term
+диастолическое кровяное давление	Specific_Term
+диастолическая дисфункция	Specific_Term
+диастолическая недостаточность	Specific_Term
+формализм диастолического наполнения	Specific_Term
+время диастолического наполнения	Specific_Term
+диастолическая функция	Specific_Term
+диастолическая скорость в митральном кольце	Specific_Term
+диастолическая скорость движения митрального кольца	Specific_Term
+диастолические движения митральной створки	Specific_Term
+привязка диастолического митрального клапана	Specific_Term
+диастолические шумы	Specific_Term
+диастолическая жесткость	Specific_Term
+диастолическое ограничение	Specific_Term
+диетические подходы к борьбе с гипертонией	Named_Entity
+дифференциальный анализ	OOD_Term
+дифференциальный эффект	OOD_Term
+дифференциально экспрессируемые гены	Specific_Term
+расширение	Common_Term
+расширенный	Common_Term
+дилатационная кардиомиопатия	Specific_Term
+расширение левого желудочка	Specific_Term
+расширение	Common_Term
+дипептидилпептидаза-4	Specific_Term
+выписка	Common_Term
+выписан	Common_Term
+выбросы	Common_Term
+болезнь	Common_Term
+оценка риска заболевания	Specific_Term
+больной	Common_Term
+болезни	Common_Term
+мочегонное средство	Specific_Term
+мочегонные средства	Specific_Term
+днк	Common_Term
+фрагментация днк	Specific_Term
+dnx	Specific_Term
+добутамин	Specific_Term
+врачи	Common_Term
+Додсон	Named_Entity
+доноры	Common_Term
+дофамин	Specific_Term
+доплеровский	Specific_Term
+допплеровская эхокардиография	Specific_Term
+допплеровская скорость митрального притока	Specific_Term
+ультразвуковая допплерография	Specific_Term
+двойная слепота	OOD_Term
+пониженный уровень регулирования	Specific_Term
+понижающее регулирование	Specific_Term
+нисходящая сигнализация	Specific_Term
+нисходящая сигнализация	Specific_Term
+доксорубицин	Specific_Term
+переносчик оттока доксорубицина	Specific_Term
+кардиотоксичность, индуцированная доксорубицином	Specific_Term
+dpp-4	Specific_Term
+ингибиторы dpp-4	Specific_Term
+трансмиссия	Specific_Term
+drs	Specific_Term
+наркотик	Common_Term
+медикаментозное лечение	Common_Term
+наркотики	Common_Term
+dt	Specific_Term
+двухэнергетическая рентгеновская абсорбциометрия	Specific_Term
+двойная рентгеновская абсорбциометрия	Specific_Term
+двухэнергетическая рентгеновская абсорбциометрия	Specific_Term
+индекс статуса активности герцога	Named_Entity
+dxa	Specific_Term
+дисфункция	Common_Term
+дислипидемия	Specific_Term
+одышка	Specific_Term
+диссинхронная сердечная недостаточность	Specific_Term
+диссинхронная сердечная недостаточность	Specific_Term
+диссинхронный ВЧ	Specific_Term
+диссинхронная несостоятельность	Specific_Term
+белковый комплекс, ассоциированный с дистрофином	Specific_Term
+электронная волна	Specific_Term
+e/e'	Specific_Term
+советник	Specific_Term
+исследование раннего лечения фибрилляции предсердий для профилактики инсульта	Named_Entity
+колониеобразующие единицы раннего роста	Specific_Term
+восток	Named_Entity
+ес	Specific_Term
+эксцентрическая гипертрофия	Specific_Term
+ecct	Specific_Term
+экг	Specific_Term
+ЭКГ	Specific_Term
+систолическое давление легочной артерии, определяемое по эхо-сигналу	Specific_Term
+эхо-доплеровское исследование	Specific_Term
+эхо-допплеровская кардиография	Specific_Term
+эхокардиограммы	Specific_Term
+эхокардиографический	Specific_Term
+эхокардиография	Specific_Term
+ecmo	Specific_Term
+ecs	Specific_Term
+изд	Common_Term
+отек	Specific_Term
+анастомоз от края до края	Specific_Term
+ЭЦП	Common_Term
+жизненные науки Эдвардса	Named_Entity
+ees	Specific_Term
+ef	Specific_Term
+эффекторные молекулы	Specific_Term
+egfr	Specific_Term
+эх	Specific_Term
+карцинома Эрлиха	Specific_Term
+фракция выброса	Specific_Term
+фракции выброса	Specific_Term
+электрокардиограмма	Specific_Term
+электрокардиографы	Specific_Term
+электрокардиографический	Specific_Term
+электрокардиографические q-волны	Specific_Term
+электролиты	Specific_Term
+электромеханическая задержка	Specific_Term
+электронная микроскопия	Specific_Term
+embase	Named_Entity
+эмболэктомия	Specific_Term
+эмболия	Specific_Term
+эмболизировать	Specific_Term
+emd	Specific_Term
+отделение неотложной помощи	Common_Term
+отделение неотложной помощи	Common_Term
+акцент-hf	Named_Entity
+конечная точка	Specific_Term
+конечные точки	Specific_Term
+терминальная стадия сердечной недостаточности	Specific_Term
+конечное диастолическое давление	Specific_Term
+конечное диастолическое давление	Specific_Term
+конечный диастолический объем	Specific_Term
+индекс конечного диастолического объема	Specific_Term
+конечная точка	Specific_Term
+терминальная стадия сердечной недостаточности	Specific_Term
+конечная стадия ВЧ	Specific_Term
+терминальная стадия почечной недостаточности	Specific_Term
+конечная систола	Specific_Term
+конечное систолическое	Specific_Term
+конечная систолическая эластичность	Specific_Term
+конечный систолический объем	Specific_Term
+эндопептидаза	Specific_Term
+ингибиторы эндопептидазы	Specific_Term
+эндоплазматический ретикулум	Specific_Term
+эндотелиальный	Specific_Term
+эндотелиальная клетка	Specific_Term
+эндотелиальная дисфункция	Specific_Term
+функция эндотелия	Specific_Term
+активация эндотелиальной no-синтазы	Specific_Term
+эндотелин	Specific_Term
+конечная точка	Specific_Term
+конечные точки	Specific_Term
+энергетический метаболизм	Specific_Term
+метаболизм энергетических субстратов	Specific_Term
+энос-сер(1177)	Specific_Term
+enos-thr(495)	Specific_Term
+фермент	Specific_Term
+ферменты	Specific_Term
+eo-кое	Specific_Term
+eo-cfu	Specific_Term
+eov	Specific_Term
+Эфес	Named_Entity
+эпикатехин	Specific_Term
+какао, богатое эпикатехином	Specific_Term
+эпидемия	Common_Term
+эпидемиология	Specific_Term
+эпифлуоресцентная микроскопия	Specific_Term
+эпигенетический	Specific_Term
+адреналин	Specific_Term
+эпителиальный	Specific_Term
+эплеренон	Specific_Term
+исследование эффективности и выживаемости эплеренона при сердечной недостаточности после перенесенного инфаркта миокарда	Named_Entity
+erc	Specific_Term
+erk1/2	Specific_Term
+эритропоэз	Specific_Term
+средство, стимулирующее эритропоэз	Specific_Term
+средства, стимулирующие эритропоэз	Specific_Term
+esc	Named_Entity
+эсмолол	Specific_Term
+ТПН	Specific_Term
+предполагаемая скорость клубочковой фильтрации	Specific_Term
+этические раунды	Named_Entity
+этидронат	Specific_Term
+этиологический	Specific_Term
+этиологии	Specific_Term
+этиология	Specific_Term
+Европа	Named_Entity
+европейское общество кардиологов	Named_Entity
+эвтаназия	Common_Term
+центры практики, основанные на фактических данных	Named_Entity
+основанный на фактических данных	Specific_Term
+возбуждение-сокращение	Specific_Term
+способность осуществлять	Specific_Term
+нетерпимость к физическим упражнениям	Specific_Term
+упражнение на колебательную вентиляцию легких	Specific_Term
+реабилитация физическими упражнениями	Specific_Term
+проявляйте терпимость к физическим нагрузкам	Specific_Term
+pasp, вызванный физическими упражнениями	Specific_Term
+систолическое давление в легочной артерии, вызванное физической нагрузкой	Specific_Term
+эксплант	Specific_Term
+эксплицированный	Specific_Term
+экспланты	Specific_Term
+исследовательский факторный анализ	OOD_Term
+выражение	Specific_Term
+выражения	Specific_Term
+расширенные критерии трансплантации сердца	Specific_Term
+расширенные критерии трансплантации сердца	Specific_Term
+экстракорпоральная мембранная оксигенация	Specific_Term
+внеклеточный	Specific_Term
+анализатор внеклеточного потока	Specific_Term
+внеклеточный матрикс	Specific_Term
+экстракорпоральное жизнеобеспечение	Specific_Term
+экстракорпоральная мембранная оксигенация	Specific_Term
+экстракорпоральная поддержка	Specific_Term
+экстубированный	Specific_Term
+обезжиренная масса	Specific_Term
+жировая масса	Specific_Term
+обезжиренная масса	Specific_Term
+жирные кислоты	Common_Term
+fes	Specific_Term
+ffm	Specific_Term
+фибрилляция	Specific_Term
+фиброз	Specific_Term
+давление наполнения	Specific_Term
+давление наполнения	Specific_Term
+расширение, опосредованное потоком	Specific_Term
+перегрузка жидкостью	Specific_Term
+задержка жидкости	Common_Term
+резонансная передача энергии флуоресценции	Specific_Term
+fm	Specific_Term
+последующая деятельность	Common_Term
+последующая деятельность	Common_Term
+продолжительность последующего наблюдения	Common_Term
+последующая деятельность	Common_Term
+последующие меры	Common_Term
+фонтан	Specific_Term
+циркуляция фонтана	Specific_Term
+сбой фонтана	Specific_Term
+пассивный	Specific_Term
+частичный резерв потока	Specific_Term
+фракционное укорочение	Specific_Term
+хрупкий	Specific_Term
+хрупкость	Specific_Term
+Фрамингем	Named_Entity
+фремингемское исследование сердца	Named_Entity
+свободная стена cs	Specific_Term
+свободная стена rs	Specific_Term
+полностью магнитно-левитируемые хронические ЛЖ с центробежным потоком	Specific_Term
+полностью магнитно-левитируемая система помощи левому желудочку	Specific_Term
+полностью левитируемые с помощью магнитного поля lvas	Specific_Term
+функциональный потенциал	Specific_Term
+функциональный класс	Specific_Term
+функциональная электрическая стимуляция	Specific_Term
+анализ функционального обогащения	OOD_Term
+функциональный митральный стеноз	Specific_Term
+функциональная ms	Specific_Term
+функциональный статус	Specific_Term
+фуросемид	Specific_Term
+сцепление g-белка	Specific_Term
+рецептор, связанный с g-белком	Specific_Term
+рецепторы, связанные с g-белком	Specific_Term
+хелат гадолиния	Specific_Term
+хелат гадолиния-контрастное вещество	Specific_Term
+желудочно-кишечный тракт	Specific_Term
+желудочно-кишечное кровотечение	Specific_Term
+gata4	Specific_Term
+gdmt	Specific_Term
+драгоценный камень/кир	Specific_Term
+ген	Common_Term
+экспрессия генов	Specific_Term
+сводный анализ экспрессии генов	Named_Entity
+профиль экспрессии генов	Specific_Term
+экспрессия генов	Specific_Term
+генная индукция	Specific_Term
+общая анестезия	Common_Term
+гены	Common_Term
+генетический	Common_Term
+геномный	Specific_Term
+геномное перепрограммирование	Specific_Term
+генотип	Specific_Term
+генотипированный	Specific_Term
+ознакомьтесь с руководством - реестр сердечной недостаточности	Named_Entity
+ознакомьтесь с рекомендациями - сердечная недостаточность	Named_Entity
+индекс жабр	Named_Entity
+глобальная экспрессия генов	Specific_Term
+глобальная продольная систолическая деформация левого желудочка.	Specific_Term
+скорость клубочковой фильтрации	Specific_Term
+gls	Specific_Term
+глюкокортикоиды	Specific_Term
+глюкокортикоиды	Specific_Term
+глюконеогенез	Specific_Term
+глюкоза	Common_Term
+окисление глюкозы	Specific_Term
+gly16/glu27	Specific_Term
+gly4	Specific_Term
+gly7	Specific_Term
+гликолиз	Specific_Term
+оценка	Named_Entity
+голосистолический шум 4/6 степени	Specific_Term
+ранжирование оценки рекомендаций, разработка и оценивание	Named_Entity
+gse9128	Named_Entity
+gtpase	Specific_Term
+гуанилатциклаза	Specific_Term
+медикаментозная терапия, ориентированная на рекомендации	Specific_Term
+кишечник	Common_Term
+h-dko	Specific_Term
+батарея habc	Named_Entity
+кроветворный	Specific_Term
+трансплантация гемопоэтических клеток	Specific_Term
+гемодинамический	Specific_Term
+рука 2	Specific_Term
+гаплотип	Specific_Term
+харт	Named_Entity
+коэффициент опасности	Specific_Term
+коэффициенты опасности	Specific_Term
+hct	Specific_Term
+лпвп	Specific_Term
+здравоохранение	Common_Term
+модель hf health abc	Named_Entity
+модель риска СН health abc	Named_Entity
+азбука здоровья - короткая батарея физической работоспособности	Named_Entity
+программа health buddy	Named_Entity
+здравоохранение	Common_Term
+здравоохранение	Common_Term
+качество жизни, связанное со здоровьем	Specific_Term
+здравоохранение	Common_Term
+коды системы кодирования общих процедур здравоохранения	Named_Entity
+healthstar	Named_Entity
+здоровый	Common_Term
+сердце	Common_Term
+сердечная недостаточность	Common_Term
+сердцебиение	Common_Term
+блокада сердца	Specific_Term
+расширение сердца	Specific_Term
+сердечные заболевания	Common_Term
+сердечная недостаточность	Common_Term
+сердечная недостаточность - контролируемое исследование, изучающее результаты физических тренировок	Named_Entity
+исследование приверженности к лечению сердечной недостаточности и удержания	Named_Entity
+сердечная недостаточность и снижение фракции выброса	Specific_Term
+индекс тяжести состояния пациента с сердечной недостаточностью	Named_Entity
+обследование на сердечную недостаточность	Named_Entity
+сердечная недостаточность со сниженной фракцией выброса	Specific_Term
+сердечная недостаточность с сохраненной фракцией выброса	Specific_Term
+сердечная недостаточность с сохраненной фракцией выброса левого желудочка	Specific_Term
+сердечная недостаточность со сниженной фракцией выброса	Specific_Term
+сердечная недостаточность: контролируемое исследование, изучающее результаты физических тренировок	Named_Entity
+клиника сердечной деятельности	Named_Entity
+сердечное железо	Specific_Term
+магнитно-резонансная томография сердца	Specific_Term
+масса сердца	Common_Term
+сердечная мышца	Common_Term
+частота сердечных сокращений	Common_Term
+снижение частоты сердечных сокращений	Specific_Term
+вариабельность сердечного ритма	Specific_Term
+звук сердца	Specific_Term
+пересадка сердца	Common_Term
+трансплантация сердца	Common_Term
+трансплантация сердца	Common_Term
+двойной нокаут генов irs1 и irs2, специфичных для сердца	Specific_Term
+родственная душа	Named_Entity
+вторая половинка сердца	Named_Entity
+сердца	Common_Term
+сердечное программное обеспечение	Named_Entity
+hek	Specific_Term
+гемосовместимость	Specific_Term
+гемодинамика	Specific_Term
+гемодинамический фенотип	Specific_Term
+гемодинамически	Specific_Term
+гемодинамика	Specific_Term
+гемоглобин	Specific_Term
+гемолиз	Specific_Term
+гемостаз	Specific_Term
+Генри	Named_Entity
+печеночный	Specific_Term
+наследственный	Common_Term
+гетерохроматический хроматин	Specific_Term
+вч	Common_Term
+высокочастотный индекс	Specific_Term
+hf с сохраненным ef	Specific_Term
+ВЧ с сохраненной фракцией выброса	Specific_Term
+вч с пониженной эффективностью	Specific_Term
+ВЧ с уменьшенной долей выброса	Specific_Term
+вч-действие	Named_Entity
+hf-ссылка	Specific_Term
+hfpef	Specific_Term
+hfpsi	Named_Entity
+hfref	Specific_Term
+hgb	Specific_Term
+hh	OOD_Term
+hhd	Specific_Term
+липопротеин высокой плотности	Specific_Term
+hipsc-cms	Specific_Term
+гистологический	Specific_Term
+гистологически	Specific_Term
+ацетилтрансферазы гистонов	Specific_Term
+гистондеацетилазы	Specific_Term
+хм	Named_Entity
+hm ii	Named_Entity
+hno	Specific_Term
+донор hno	Specific_Term
+Хоган	Named_Entity
+голосистолический шум	Specific_Term
+гомозиготный	Specific_Term
+больница	Common_Term
+больничная шкала тревоги и депрессии	Named_Entity
+сравнение больниц	Named_Entity
+доставка из больницы на дом	Named_Entity
+госпитализация	Common_Term
+госпитализации	Common_Term
+госпитализация	Common_Term
+госпитализации	Common_Term
+госпитализирован	Common_Term
+больницы	Common_Term
+отдел кадров	Specific_Term
+сокращение персонала	Specific_Term
+вариабельность ЧСС	Specific_Term
+hrqol	Specific_Term
+ВСР	Specific_Term
+hscrp	Specific_Term
+эмбриональная почка человека	Specific_Term
+кардиомиоциты, полученные из индуцированных плюрипотентных стволовых клеток человека	Specific_Term
+контакт человека с человеком	OOD_Term
+"интерфейс ""человек-машина"""	OOD_Term
+Венгрия	Named_Entity
+hvad	Named_Entity
+гиперинсулинемия	Specific_Term
+гиперкалиемия	Specific_Term
+гиперлипидемия	Specific_Term
+гипертония	Specific_Term
+гипертоническая болезнь	Specific_Term
+гипертоническая болезнь сердца	Specific_Term
+гипертоническая сердечная недостаточность	Specific_Term
+гипертоническая сердечная недостаточность с сохраненной фракцией выброса	Specific_Term
+гипертензивный hfpef	Specific_Term
+гипертоническая дисфункция лж	Specific_Term
+гипертрофированный	Specific_Term
+гипертрофированный	Specific_Term
+гипертрофия	Specific_Term
+гипоальбуминемия	Specific_Term
+гипокалиемия	Specific_Term
+гипонатриемия	Specific_Term
+артериальная гипотензия	Specific_Term
+гипотермическая остановка кровообращения	Specific_Term
+гипоксия	Specific_Term
+ic	Specific_Term
+icc	OOD_Term
+МКБ	Specific_Term
+потрясения от МКБ	Specific_Term
+icds	Specific_Term
+отделение интенсивной терапии	Common_Term
+идиопатический	Specific_Term
+идиопатическая дилатационная кардиомиопатия	Specific_Term
+идиопатическая дилатационная кардиомиопатия	Specific_Term
+ie	Specific_Term
+ies	Specific_Term
+ингибирование if-канала	Specific_Term
+il6	Specific_Term
+иммуноанализы	Specific_Term
+иммуноблоттинг	Specific_Term
+иммунодетекция	Specific_Term
+иммуногистохимия	Specific_Term
+иммунопреципитация	Specific_Term
+иммунореактивный	Specific_Term
+имплантат	Common_Term
+имплантируемый	Common_Term
+имплантируемые устройства для лечения сердечной аритмии	Specific_Term
+имплантируемый сердечный дефибриллятор	Specific_Term
+имплантируемый кардиовертер-дефибриллятор	Specific_Term
+имплантируемые кардиовертеры-дефибрилляторы	Specific_Term
+имплантируемый кардиовертер-дефибриллятор	Specific_Term
+имплантируемые кардиовертеры-дефибрилляторы	Specific_Term
+имплантируемые дефибрилляторы	Specific_Term
+имплантация	Common_Term
+имплантации	Common_Term
+имплантированный	Common_Term
+имплантаты	Common_Term
+in vitro	Specific_Term
+in vivo	Specific_Term
+коронарная перфузия in vivo	Specific_Term
+распространенность	Common_Term
+пошаговый тест на челночную ходьбу	Specific_Term
+инфаркт	Common_Term
+перенесенный инфаркт	Common_Term
+инфаркт	Common_Term
+инфекция	Common_Term
+нижняя полая вена	Specific_Term
+воспаление	Common_Term
+подстрекательский	Common_Term
+вливание	Common_Term
+вливания	Common_Term
+анализ путей изобретательности	Specific_Term
+негоспитальный	Common_Term
+введенный	Common_Term
+инъекции	Common_Term
+неоперабельный	Common_Term
+инотропы	Specific_Term
+инотропный	Specific_Term
+инотропный эффект	Specific_Term
+стационарный	Common_Term
+незначительно	OOD_Term
+инсулин	Common_Term
+субстраты рецептора инсулина 1	Specific_Term
+резистентность к инсулину	Specific_Term
+инсулинорезистентность	Specific_Term
+комплексное улучшение дискриминации	OOD_Term
+интенсивная терапия	Common_Term
+отделение интенсивной терапии	Common_Term
+намерение лечить	Specific_Term
+анализ терминов взаимодействия	OOD_Term
+межведомственный реестр для механической поддержки кровообращения	Named_Entity
+межотраслевой	Specific_Term
+межпредсердный шунт	Specific_Term
+межпредсердное шунтирование	Specific_Term
+рецептор интерлейкина	Specific_Term
+intermacs	Named_Entity
+международная классификация болезней	Named_Entity
+"рабочая группа международного фонда ""Правое сердце"""	Named_Entity
+терапевты	Common_Term
+межквартильный диапазон	OOD_Term
+межжелудочковый	Specific_Term
+межжелудочковая задержка	Specific_Term
+межжелудочковая перегородка	Specific_Term
+кишечная	Common_Term
+дисфункция кишечника	Common_Term
+внутриклеточная	Specific_Term
+коэффициент внутриклассовой корреляции	OOD_Term
+внутримышечное введение добавок тестостерона	Specific_Term
+внутривенное введение	Specific_Term
+внутривенный болюс	Specific_Term
+внутривенно	Specific_Term
+интубированный	Specific_Term
+интубация	Specific_Term
+интубации	Specific_Term
+инвазивный	Common_Term
+инвазивная оценка гемодинамики	Specific_Term
+инвазивные оценки гемодинамики	Specific_Term
+агрессивно	Common_Term
+обратная корреляция	OOD_Term
+ионные каналопатии	Specific_Term
+гомеостаз железа	Specific_Term
+irs1	Specific_Term
+irs2	Specific_Term
+Ирвин	Named_Entity
+ишемия	Specific_Term
+ишемия	Specific_Term
+ишемический	Specific_Term
+ишемическая кардиомиопатия	Specific_Term
+ишемические нарушения мозгового кровообращения	Specific_Term
+ишемические события	Specific_Term
+ишемическая сердечная недостаточность	Specific_Term
+ишемическая СН	Specific_Term
+ишемическая митральная регургитация	Specific_Term
+ишемическая мрт	Specific_Term
+ишемически-гипертоническая кардиомиопатия	Specific_Term
+изоэлектрическая фокусировка	Specific_Term
+изоформы	Specific_Term
+изолированное аортокоронарное шунтирование	Specific_Term
+изопреналин	Specific_Term
+изопротеренол	Specific_Term
+Израиль	Named_Entity
+Италия	Named_Entity
+ивабрадин	Specific_Term
+ivc	Specific_Term
+окклюзия ivc	Specific_Term
+Япония	Named_Entity
+свидетель Иеговы	Named_Entity
+институт Джоанны Бриггс	Named_Entity
+научно обоснованная практика института Джоанны Бриггс	Named_Entity
+jq1	Specific_Term
+яремная вена	Specific_Term
+давление в яремной вене	Specific_Term
+ген почечного хлоридного канала ka	Specific_Term
+kaiser permanente	Named_Entity
+Канзас-Сити	Named_Entity
+опросник по кардиомиопатии в Канзас-Сити	Named_Entity
+анализ Каплана-Мейера	OOD_Term
+кривые Каплана-Мейера	OOD_Term
+коэффициент каппа	OOD_Term
+коэффициенты каппа	OOD_Term
+kccq	Named_Entity
+kcl-ki	Specific_Term
+почка	Common_Term
+заболевание почек	Common_Term
+почечная недостаточность	Specific_Term
+почечная инфекция	Common_Term
+класс killip	Specific_Term
+киназа	Specific_Term
+киназа-2	Specific_Term
+киназы	Specific_Term
+kv4.3	Specific_Term
+l-dko	Specific_Term
+ток ca2(+) l-типа	Specific_Term
+токи ca2+ l-типа	Specific_Term
+канал l-типа	Specific_Term
+токи l-типа	Specific_Term
+l-образные каналы ca с регулируемым напряжением (2+)	Specific_Term
+Лос-Анджелес	Named_Entity
+лактат	Specific_Term
+парень	Specific_Term
+Латинская Америка	Named_Entity
+lbbb	Specific_Term
+lcx	Specific_Term
+lcz696	Specific_Term
+лпнп-холестерин	Specific_Term
+брошюра	Specific_Term
+сухая масса тела	Specific_Term
+мышечная масса	Specific_Term
+количественная оценка постной массы	Specific_Term
+левая передняя нисходящая артерия	Specific_Term
+окклюзия левой передней нисходящей коронарной артерии	Specific_Term
+левое предсердие	Specific_Term
+область левого предсердия	Specific_Term
+давление в левом предсердии	Specific_Term
+левое предсердие	Specific_Term
+блок ветви левого пучка	Specific_Term
+шаблон блока ветвей левого пучка	Specific_Term
+левый пучок-блок ветвей	Specific_Term
+поворот сердца влево	Specific_Term
+левая легочная артерия	Specific_Term
+левый желудочек	Specific_Term
+конечное диастолическое давление в левом желудочке	Specific_Term
+левый желудочек	Specific_Term
+вспомогательное устройство для левого желудочка	Specific_Term
+вспомогательные устройства для левого желудочка	Specific_Term
+система помощи левому желудочку	Specific_Term
+основание левого желудочка	Specific_Term
+дд левого желудочка	Specific_Term
+конечный диастолический диаметр левого желудочка	Specific_Term
+диастолическая функция левого желудочка	Specific_Term
+дилатация левого желудочка	Specific_Term
+дисфункция левого желудочка	Specific_Term
+диссинхрония левого желудочка	Specific_Term
+фракция выброса левого желудочка	Specific_Term
+фракции выброса левого желудочка	Specific_Term
+время выброса левого желудочка	Specific_Term
+конечное диастолическое давление в левом желудочке	Specific_Term
+наполнение левого желудочка	Specific_Term
+давление наполнения левого желудочка	Specific_Term
+функция левого желудочка	Specific_Term
+гипертрофия левого желудочка	Specific_Term
+систолическая дисфункция левого желудочка	Specific_Term
+повреждение	Common_Term
+повреждения	Common_Term
+leu3	Specific_Term
+лейкоциты	Specific_Term
+ожидаемая продолжительность жизни	Common_Term
+отношение правдоподобия	OOD_Term
+линейные смешанные модели	OOD_Term
+линейные модели	OOD_Term
+липидный	Specific_Term
+липолиз	Specific_Term
+липопротеин	Specific_Term
+липопротеин-ассоциированная фосфолипаза а2	Specific_Term
+печень	Common_Term
+заболевание печени	Common_Term
+двойной нокаут irs1 и irs2, специфичных для печени	Specific_Term
+логарифмический ранг	OOD_Term
+логарифмическое ранговое тестирование	OOD_Term
+логистическая регрессия	OOD_Term
+локомат	Named_Entity
+функция длинной оси	Specific_Term
+продольный	OOD_Term
+продольное укорачивание волокна rv	Specific_Term
+петлевые диуретики	Specific_Term
+lp-pla2	Specific_Term
+легкие	Common_Term
+лузитропический	Specific_Term
+lv	Specific_Term
+вспомогательное устройство низкого давления	Specific_Term
+имплантация вспомогательного устройства для ЛЖ	Specific_Term
+имплантация вспомогательного устройства для ЛЖ	Specific_Term
+соответствие требованиям lv	Specific_Term
+сократительная функция лж	Specific_Term
+сократительная способность лж	Specific_Term
+диастолическая дисфункция лж	Specific_Term
+диастолическая жесткость лж	Specific_Term
+дилатация левого желудочка	Specific_Term
+дисфункция левого желудочка	Specific_Term
+lv ef	Specific_Term
+фракция выброса левого желудочка	Specific_Term
+конечный диастолический размер лж	Specific_Term
+конечное диастолическое давление в ЛЖ	Specific_Term
+конечный диастолический объем ЛЖ	Specific_Term
+конечный систолический объем ЛЖ	Specific_Term
+фиброз левого желудочка	Specific_Term
+давление наполнения НН	Specific_Term
+давление наполнения НН	Specific_Term
+фракционное укорочение левого желудочка	Specific_Term
+функция lv	Specific_Term
+гипертрофия левого желудочка	Specific_Term
+внутренний диаметр нч	Specific_Term
+масса левого желудочка	Specific_Term
+задняя стенка левого желудочка	Specific_Term
+расслабление левого желудочка	Specific_Term
+ремоделирование левого желудочка	Specific_Term
+обратное ремоделирование левого желудочка	Specific_Term
+деформация левого желудочка	Specific_Term
+скорость деформации левого желудочка	Specific_Term
+lvad	Specific_Term
+терапия lvad	Specific_Term
+lvads	Specific_Term
+lvas	Specific_Term
+lvef	Specific_Term
+lvet	Specific_Term
+ГЛЖ	Specific_Term
+лизо-paf ацетилтрансфераза	Specific_Term
+лизо-паф-ат	Specific_Term
+макрофаги	Specific_Term
+madit-crt	Named_Entity
+магнит	Named_Entity
+магнитно-резонансная ангиография	Specific_Term
+магнитно-резонансная спектроскопия	Specific_Term
+Майзель	Named_Entity
+малоновый диальдегид	Specific_Term
+млекопитающее с поддержкой	Specific_Term
+mapk	Specific_Term
+масс-спектрометрический анализ	Specific_Term
+масс-спектрометрия	Specific_Term
+массивная эмболия	Specific_Term
+индекс максимальной мощности желудочков	Specific_Term
+максимальное потребление кислорода	Specific_Term
+mdc	OOD_Term
+механическая поддержка сердца	Specific_Term
+механическая поддержка кровообращения	Specific_Term
+medicaid	Named_Entity
+медицинский	Common_Term
+история болезни	Common_Term
+краткое исследование медицинских результатов	Named_Entity
+медикаментозная терапия	Common_Term
+медицинское лечение	Common_Term
+с медицинской точки зрения	Common_Term
+medicare	Named_Entity
+система мониторинга безопасности пациентов medicare	Named_Entity
+медикаментозное лечение	Common_Term
+лекарства	Common_Term
+медицина	Common_Term
+лекарственные средства	Common_Term
+medline	Named_Entity
+бвса	Specific_Term
+удаление mena	Specific_Term
+выражение mena	Specific_Term
+чрезмерное выражение mena	Specific_Term
+мезенхимальный	Specific_Term
+мессенджерная рнк	Specific_Term
+метаанализ	OOD_Term
+метаанализ	OOD_Term
+метаанализ	OOD_Term
+метаболический	Common_Term
+метаболические упражнения	Specific_Term
+метаболические пути	Specific_Term
+метаболизм	Common_Term
+метотрексат	Specific_Term
+метилатропин	Specific_Term
+метопролол	Specific_Term
+метопролола сукцинат	Specific_Term
+метс	Specific_Term
+mi	Specific_Term
+Мичиган	Named_Entity
+микрочип	Specific_Term
+микроэмболизация	Specific_Term
+микрорнк	Specific_Term
+срединный сосочек	Specific_Term
+среднерегиональный проект proanp	Specific_Term
+легкая сердечная недостаточность	Specific_Term
+умеренная вч	Specific_Term
+антагонисты минералокортикоидных рецепторов	Specific_Term
+минимальное обнаруживаемое изменение	OOD_Term
+Миннесота	Named_Entity
+опросник для людей, живущих с сердечной недостаточностью в Миннесоте	Named_Entity
+качество жизни в Миннесоте	Named_Entity
+мир-25	Specific_Term
+микрорнк	Specific_Term
+неправильный	Specific_Term
+ошибочный диагноз	Common_Term
+митохондриальный	Specific_Term
+активность митохондриального комплекса v	Specific_Term
+митохондриальная дисфункция	Specific_Term
+производство энергии митохондриями	Specific_Term
+функция митохондрий	Specific_Term
+митохондриальное окисление	Specific_Term
+окислительный метаболизм митохондрий	Specific_Term
+способность митохондрий к окислительному фосфорилированию	Specific_Term
+митохондриальный протеом	Specific_Term
+митохондриальное дыхание	Specific_Term
+структура митохондрий	Specific_Term
+пептид, нацеленный на митохондрии	Specific_Term
+пептиды, нацеленные на митохондрии	Specific_Term
+активируемая митогеном протеинкиназа	Specific_Term
+митральный	Specific_Term
+митральная кольцевая скорость	Specific_Term
+скорости в митральном кольце	Specific_Term
+скорость прохождения митрального кольца	Specific_Term
+поток наполнения митрального клапана	Specific_Term
+движения митральной створки	Specific_Term
+митральная регургитация	Specific_Term
+митральный стеноз	Specific_Term
+митральный клапан	Specific_Term
+область митрального клапана	Specific_Term
+открытие митрального клапана	Specific_Term
+пластика митрального клапана	Specific_Term
+смешанные линейные модели	OOD_Term
+смешанные модели	OOD_Term
+исследование смешанными методами	OOD_Term
+анкета mlhf	Named_Entity
+молекулярная дисфункция	Specific_Term
+молекулярные пути	Specific_Term
+молекулярные каркасы	Specific_Term
+моноклональные антитела	Specific_Term
+моноциты	Specific_Term
+мономерные g-белки	Specific_Term
+заболевания	Specific_Term
+заболеваемость	Specific_Term
+основанный на морфолино	Specific_Term
+смертность	Common_Term
+mpsms	Named_Entity
+мистер	Specific_Term
+mr-proadm	Specific_Term
+mr-proanp	Specific_Term
+МРТ	Specific_Term
+МРТ-сканер	Specific_Term
+мрнк	Specific_Term
+сращивание мрнк	Specific_Term
+сплайсинг мрнк	Specific_Term
+МРНК	Specific_Term
+госпожа	Specific_Term
+многоцентровое исследование по имплантации автоматического дефибриллятора - сердечная ресинхронизирующая терапия	Named_Entity
+многоцентровая имплантация автоматического дефибриллятора с сердечной ресинхронизирующей терапией	Named_Entity
+многоорганный сбой	Specific_Term
+множественная миелома	Specific_Term
+мультисистемное заболевание	Specific_Term
+многовариантная корректировка	OOD_Term
+многофакторный анализ	OOD_Term
+многовариантный логистический анализ	OOD_Term
+многомерные модели	OOD_Term
+многофакторная регрессия	OOD_Term
+скорректированные по нескольким параметрам коэффициенты опасности	OOD_Term
+многомерный анализ	OOD_Term
+многомерный анализ	OOD_Term
+многомерная модель Кокса	OOD_Term
+многомерное регрессионное моделирование пропорциональных рисков Кокса	OOD_Term
+многомерный регрессионный анализ Кокса	OOD_Term
+многомерный логистический регрессионный анализ	OOD_Term
+многомерная модель	OOD_Term
+многомерные модели	OOD_Term
+многомерная регрессия	OOD_Term
+скорректированное по нескольким параметрам соотношение шансов	OOD_Term
+мышиный	OOD_Term
+Мерфи	Named_Entity
+мышцы	Common_Term
+аэробная способность мышц	Specific_Term
+мышцы	Common_Term
+мускулистый	Common_Term
+mva	Specific_Term
+инфаркт миокарда	Specific_Term
+ангиогенез миокарда	Specific_Term
+коллаген миокарда	Specific_Term
+ДД миокарда	Specific_Term
+диастолическая дисфункция миокарда	Specific_Term
+внеклеточный матрикс миокарда	Specific_Term
+фиброз миокарда	Specific_Term
+функция миокарда	Specific_Term
+инфаркт миокарда	Specific_Term
+инсулинорезистентность миокарда	Specific_Term
+ишемия миокарда	Specific_Term
+ишемия миокарда	Specific_Term
+события, связанные с ишемией миокарда	Specific_Term
+потребление кислорода миокардом	Specific_Term
+перфузия миокарда	Specific_Term
+ремоделирование миокарда	Specific_Term
+t1 миокарда	Specific_Term
+ткань миокарда	Specific_Term
+ткани миокарда	Specific_Term
+вымывание миокарда	Specific_Term
+миокардит	Specific_Term
+миокард	Specific_Term
+миоктии	Specific_Term
+миоцит	Specific_Term
+деполяризация миоцитов	Specific_Term
+дифференцировка миоцитов	Specific_Term
+гипертрофия миоцитов	Specific_Term
+гиперэкспрессия mena, специфичная для миоцитов	Specific_Term
+миоциты	Specific_Term
+динамика миоволокон	Specific_Term
+укорочение миоволокон	Specific_Term
+регенерация миофибриллы	Specific_Term
+миофибриллярный	Specific_Term
+миофиламент	Specific_Term
+миозин	Specific_Term
+миксома	Specific_Term
+миксомы	Specific_Term
+n-концевой натрийуретический пептид pro-b-типа	Specific_Term
+n-концевые натрийуретические пептиды pro-b-типа	Specific_Term
+n-терминальный pro-b-тип np	Specific_Term
+n-концевой промозговой натрийуретический пептид	Specific_Term
+n-концевой натрийуретический пептид промозгового типа	Specific_Term
+n-терминальный probnp	Specific_Term
+n2bus	Specific_Term
+канал na+	Specific_Term
+?-субъединица na+ канала	Specific_Term
+каналы na+	Specific_Term
+nad(p)h-оксидаза	Specific_Term
+nanog	Specific_Term
+наномолярный	OOD_Term
+узкий комплекс qrs	Specific_Term
+национальный реестр сердечно-сосудистых заболеваний, реестр инноваций в практике и клинического совершенства	Named_Entity
+натремия	Specific_Term
+натрийуретический	Specific_Term
+натрийуретический пептид	Specific_Term
+натрийуретические пептиды	Specific_Term
+naviaux	Named_Entity
+nbdmard	Specific_Term
+nbdmards	Specific_Term
+вершина ncdr	Named_Entity
+модели отрицательной биномиальной регрессии	OOD_Term
+неоангиогенез	Specific_Term
+нефрэктомия	Specific_Term
+нефропатия	Specific_Term
+неприлизин	Specific_Term
+ингибирование неприлизина	Specific_Term
+ингибитор неприлизина	Specific_Term
+ингибиторы неприлизина	Specific_Term
+несиритид	Specific_Term
+чистое улучшение при реклассификации	OOD_Term
+чистая реклассификация - улучшение	OOD_Term
+нервно-гормональный	Specific_Term
+нервно-гормональная система	Specific_Term
+нейрогормональный	Specific_Term
+нейрогормональная стимуляция	Specific_Term
+нейрогормональные системы	Specific_Term
+нейрогормонально	Specific_Term
+нейрогормон	Specific_Term
+нейрогормоны	Specific_Term
+нейрогуморальный	Specific_Term
+нейрогуморальные блокаторы	Specific_Term
+неврологический	Common_Term
+нейронные стрессоры	Specific_Term
+Нью-Джерси	Named_Entity
+Нью-Йорк	Named_Entity
+нью-йоркская ассоциация кардиологов	Named_Entity
+занятие ассоциации кардиологов Нью-Йорка	Specific_Term
+класс i Нью-йоркской ассоциации кардиологов	Specific_Term
+класс ii Нью-йоркской ассоциации кардиологов	Specific_Term
+класс iii Нью-йоркской ассоциации кардиологов	Specific_Term
+занятия нью-йоркской ассоциации кардиологов	Specific_Term
+классификация Нью-йоркской ассоциации кардиологов	Specific_Term
+функциональный класс Нью-йоркской ассоциации кардиологов	Specific_Term
+Новая Зеландия	Named_Entity
+nf-kb	Specific_Term
+nfat	Specific_Term
+Национальная служба здравоохранения	Named_Entity
+никорандил	Specific_Term
+оксид азота	Specific_Term
+нитрит	Specific_Term
+нитроксил	Specific_Term
+нет	Specific_Term
+noc	Named_Entity
+узловатость	Specific_Term
+небиологический противоревматический препарат, модифицирующий заболевание	Specific_Term
+некашектическая ХСН	Specific_Term
+нерасширенный левый желудочек	Specific_Term
+неинвазивно	Common_Term
+неишемическая сердечная недостаточность	Specific_Term
+некардиоваскулярный	Common_Term
+недиабет	Common_Term
+недиабетический	Common_Term
+неинвазивный	Common_Term
+неишемический	Specific_Term
+неишемические кардиомиопатии	Specific_Term
+немитохондриальный	Specific_Term
+немитохондриальный белок	Specific_Term
+без указания	Common_Term
+неселективный ?-блокатор	Specific_Term
+незначительный	OOD_Term
+нетерминальные эпитопы	Specific_Term
+лица, не принимающие трастузумаб	Specific_Term
+норадреналин	Specific_Term
+Северная Америка	Named_Entity
+северная Калифорния	Named_Entity
+незначительный	OOD_Term
+np	Specific_Term
+nps	Specific_Term
+nri	OOD_Term
+nris	OOD_Term
+nt-pro bnp	Specific_Term
+nt-probnp	Specific_Term
+ядерный фактор активированных т-клеток	Specific_Term
+ядерный фактор-kb	Specific_Term
+нуклеолин	Specific_Term
+медсестра	Common_Term
+практикующая медсестра	Common_Term
+медсестры	Common_Term
+уход за больными	Common_Term
+классификация результатов сестринского дела	Named_Entity
+nyha	Named_Entity
+класс nyha	Specific_Term
+класс iii по nyha	Specific_Term
+класс iiib по nyha	Specific_Term
+классификация nyha	Specific_Term
+функциональный класс nyha	Specific_Term
+функциональный класс ii по nyha	Specific_Term
+функциональный класс iii по nyha	Specific_Term
+функциональный класс iv по nyha	Specific_Term
+nyha-ii	Specific_Term
+nyha-iii	Specific_Term
+nyha-iiib	Specific_Term
+ожирение	Common_Term
+ожирение	Common_Term
+наблюдательные когортные исследования	OOD_Term
+наблюдательное когортное исследование	OOD_Term
+соотношение шансов	OOD_Term
+соотношение шансов	OOD_Term
+отек	Specific_Term
+oht	Specific_Term
+округ Олмстед	Named_Entity
+Онтарио	Named_Entity
+инициатива по расчету стоимости кейсов в провинции Онтарио	Named_Entity
+операция	Common_Term
+операции	Common_Term
+оперативный	Common_Term
+или	OOD_Term
+устный	Common_Term
+устно	Common_Term
+орган	Common_Term
+органная недостаточность	Common_Term
+органический	Common_Term
+ортотопическая трансплантация сердца	Specific_Term
+скопа	Named_Entity
+остеомедуллярная биопсия	Specific_Term
+остеопороз	Specific_Term
+амбулаторное лечение	Common_Term
+результат	Common_Term
+результаты	Common_Term
+амбулаторное лечение	Common_Term
+амбулаторные пациенты	Common_Term
+окислительный стресс	Specific_Term
+p	OOD_Term
+значение p	OOD_Term
+значения p	OOD_Term
+p-значение	OOD_Term
+стр.arg83gly	Specific_Term
+выпадение p3	Specific_Term
+p38	Specific_Term
+p38alpha	Specific_Term
+p38a	Specific_Term
+p70s6k	Specific_Term
+p70s6k-ser(411)	Specific_Term
+кардиостимулятор	Common_Term
+кардиостимуляторы	Common_Term
+ХСН, вызванная кардиостимуляцией	Specific_Term
+дилатационная кардиомиопатия, вызванная электрокардиостимуляцией	Specific_Term
+paco2	Specific_Term
+блокнот	Specific_Term
+paf	Specific_Term
+paf-ацетилгидролаза	Specific_Term
+paf-ah	Specific_Term
+paf-cpt	Specific_Term
+пау	Specific_Term
+смягчение последствий	Specific_Term
+паллиативный	Common_Term
+паллиативная помощь	Common_Term
+сосочковые мышцы	Specific_Term
+парадигма-hf	Named_Entity
+парасимпатический	Specific_Term
+парасимпатическая активность	Specific_Term
+парасимпатический контроль	Specific_Term
+парасимпатическая нейротрансмиссия	Specific_Term
+парасимпатический тонус	Specific_Term
+парциальное давление co2 в конце прилива	Specific_Term
+pasp	Specific_Term
+патобиология	Specific_Term
+патогенез	Specific_Term
+патологический	Specific_Term
+патология	Specific_Term
+патофизиологический	Specific_Term
+патофизиологический	Specific_Term
+патофизиологически	Specific_Term
+патофизиология	Specific_Term
+пациент	Common_Term
+пациенты	Common_Term
+нехватка	OOD_Term
+pb	Specific_Term
+pcwp	Specific_Term
+pd	Specific_Term
+pde	Specific_Term
+pde2	Specific_Term
+ингибирование pde2	Specific_Term
+переведенный	Specific_Term
+пиковая ранняя диастолическая скорость митрального кольца	Specific_Term
+пиковая ранняя диастолическая скорость митрального кровотока	Specific_Term
+пиковый уровень o2	Specific_Term
+пиковое потребление кислорода	Specific_Term
+пиковое потребление кислорода	Specific_Term
+пиковая сила четырехглавой мышцы	Specific_Term
+пиковый респираторный коэффициент	Specific_Term
+пиковый vo2	Specific_Term
+пиковая скорость работы	Specific_Term
+детский родничок	Specific_Term
+pef	Specific_Term
+пептид	Specific_Term
+пептиды	Specific_Term
+оценка воспринимаемой социальной поддержки	Named_Entity
+чрескожный	Specific_Term
+чрескожное коронарное вмешательство	Specific_Term
+перфузия	Specific_Term
+периодическое дыхание	Specific_Term
+периоперационный	Specific_Term
+заболевания периферических артерий	Specific_Term
+заболевание периферических артерий	Specific_Term
+периферический отек	Specific_Term
+периферическая мышца	Specific_Term
+периферический мышечный насос	Specific_Term
+периферические мышцы	Specific_Term
+периферический отек	Specific_Term
+заболевание периферических сосудов	Specific_Term
+перитонеальный диализ	Specific_Term
+привилегия	Specific_Term
+Перкинс	Named_Entity
+petco2	Specific_Term
+певк	Specific_Term
+pf	Specific_Term
+ph	Specific_Term
+фармацевтически	Common_Term
+фармацевтические препараты	Common_Term
+фармакологический	Common_Term
+фармакологический	Common_Term
+фенотип	Specific_Term
+фенотипы	Specific_Term
+фенилэфрин	Specific_Term
+гипертрофия, опосредованная фенилэфрином	Specific_Term
+фосфокреатин	Specific_Term
+фосфодиэстераза-2	Specific_Term
+фосфоламбан	Specific_Term
+фосфомимический	Specific_Term
+фосфорилирование	Specific_Term
+физический	Common_Term
+физический осмотр	Common_Term
+физиотерапия	Common_Term
+врач	Common_Term
+врачи	Common_Term
+физиотерапевтический ринг 30	Named_Entity
+физиологический	Common_Term
+физиологический	Common_Term
+физиология	Common_Term
+пиоглитазон	Specific_Term
+pka	Specific_Term
+pkc-?ii	Specific_Term
+pkc-?ii-ser(660)	Specific_Term
+плацебо	Common_Term
+плазма	Specific_Term
+натрийуретический пептид в-типа плазмы	Specific_Term
+катехоламины плазмы	Specific_Term
+транслокация через плазматическую мембрану	Specific_Term
+плазменный n-концевой натрийуретический пептид pro-b-типа	Specific_Term
+норадреналин в плазме крови	Specific_Term
+плазменные НПВ	Specific_Term
+фактор, активирующий тромбоциты	Specific_Term
+Плезантон	Named_Entity
+маркер плюрипотентности	Specific_Term
+маркеры плюрипотентности	Specific_Term
+пна	Common_Term
+пневмония	Common_Term
+poc	Specific_Term
+пункт оказания медицинской помощи	Specific_Term
+пункт оказания медицинской помощи	Specific_Term
+pol ii	Specific_Term
+полимераза ii	Specific_Term
+полиморфизм	Specific_Term
+полиморфизмы	Specific_Term
+политетрафторэтилен	Specific_Term
+портальная гипертензия	Specific_Term
+позитронно-эмиссионная томография	Specific_Term
+последующий анализ	OOD_Term
+искусственный интеллект после lvad	Specific_Term
+постинфарктный период миокарда	Specific_Term
+постконтрастный t1	Specific_Term
+инфаркт задней стенки	Specific_Term
+ресинтез фосфокреатина после тренировки	Specific_Term
+постишемическая сердечная недостаточность	Specific_Term
+постменопаузальный	Common_Term
+послеоперационный	Common_Term
+послеоперационный период	Common_Term
+постсистолическая функция	Specific_Term
+калий	Specific_Term
+потенциальная предотвратимая реадмиссия	Named_Entity
+спектральный анализ мощности	Specific_Term
+ppr	Named_Entity
+прекапиллярный рн	Specific_Term
+прекапиллярная легочная гипертензия	Specific_Term
+предоперационный	Common_Term
+предписанный	Common_Term
+предписание	Common_Term
+предписание	Common_Term
+сохраненный ef	Specific_Term
+сохраненная фракция выброса	Specific_Term
+сохраненная фракция выброса левого желудочка	Specific_Term
+сохраненные фракции выброса левого желудочка	Specific_Term
+сохраненная фракция выброса левого желудочка	Specific_Term
+сохраненный lvef	Specific_Term
+пролежни	Specific_Term
+соотношение давления и объема	Specific_Term
+давление-перегрузка	Specific_Term
+гипертрофия из-за перегрузки давлением	Specific_Term
+сердечная недостаточность, вызванная перегрузкой давлением	Specific_Term
+распространенность	Common_Term
+основная составная конечная точка	Specific_Term
+основная конечная точка	Specific_Term
+основная конечная точка	Specific_Term
+основной результат	Specific_Term
+основные результаты	Specific_Term
+pro bnp	Specific_Term
+проадреномедуллин	Specific_Term
+натрийуретический пептид pro-b-типа	Specific_Term
+натрийуретические пептиды про-в-типа	Specific_Term
+pro-b-type np	Specific_Term
+промозговой натрийуретический пептид	Specific_Term
+натрийуретический пептид промозгового типа	Specific_Term
+pro2	Specific_Term
+pro6	Specific_Term
+pro75	Specific_Term
+проангиогенный	Specific_Term
+proanp	Specific_Term
+probnp	Specific_Term
+пролекарство	Specific_Term
+прародитель	Specific_Term
+клетки-предшественники	Specific_Term
+прародители	Specific_Term
+прогноз	Common_Term
+прогностический	Common_Term
+прогностически	Common_Term
+выпадение	Specific_Term
+срочно	Named_Entity
+когортное исследование с подтверждением принципа	OOD_Term
+оценка склонности	OOD_Term
+оценка склонности	OOD_Term
+пропранолол	Specific_Term
+перспективный	Specific_Term
+перспективные исследования	Specific_Term
+перспективное исследование	Specific_Term
+перспективно	Specific_Term
+белок	Common_Term
+экспрессия белка	Specific_Term
+протеинкиназа	Specific_Term
+протеинкиназа а	Specific_Term
+протеинкиназа r-подобная er-киназе	Specific_Term
+белок-с	Specific_Term
+белки	Common_Term
+протеолиз	Specific_Term
+протеом	Specific_Term
+протеомный	Specific_Term
+протеомное ремоделирование	Specific_Term
+протеомика	Specific_Term
+псориаз	Specific_Term
+pss	Named_Entity
+психометрический	Specific_Term
+психосоциальный	Common_Term
+psycinfo	Named_Entity
+pubmed	Named_Entity
+легочная	Specific_Term
+легочная артериальная гипертензия	Specific_Term
+давление в легочной артерии	Specific_Term
+систолическое давление в легочной артерии	Specific_Term
+сосудистая сеть легочной артерии	Specific_Term
+легочные артерии	Specific_Term
+легочная артерия	Specific_Term
+систолическое давление в легочной артерии	Specific_Term
+давление клина в легочных капиллярах	Specific_Term
+застой в легких	Specific_Term
+легочная эмболэктомия	Specific_Term
+тромбоэмболия легочной артерии	Specific_Term
+легочная гипертензия	Specific_Term
+легочное сопротивление	Specific_Term
+сопротивление легочных сосудов	Specific_Term
+пульсирующая последующая нагрузка	Specific_Term
+пульсирующие устройства	Specific_Term
+пульс	Common_Term
+пульсовая волна	Specific_Term
+безимпульсная фибрилляция желудочков	Specific_Term
+дисфункция насоса	Common_Term
+тромбоз насоса	Specific_Term
+пвф	Specific_Term
+пиридостигмин	Specific_Term
+q65p	Specific_Term
+q66p	Specific_Term
+качество жизни	Common_Term
+qrs	Specific_Term
+комплекс qrs	Specific_Term
+продолжительность qrs	Specific_Term
+морфология qrs	Specific_Term
+удлинение qrs	Specific_Term
+интервал qt	Specific_Term
+интервалы qt	Specific_Term
+вариабельность qt	Specific_Term
+qtv	Specific_Term
+качество жизни	Common_Term
+качество жизни	Common_Term
+Квебек	Named_Entity
+совет по медицинскому страхованию Квебека	Named_Entity
+r	OOD_Term
+интервал r-r	Specific_Term
+ра	Specific_Term
+raas	Specific_Term
+rac1	Specific_Term
+rac2	Specific_Term
+rad	Specific_Term
+вариант rad	Specific_Term
+тонометрия лучевой артерии	Specific_Term
+радиальная деформация	Specific_Term
+радиологический	Common_Term
+каркасные белки raf-mek1/2-erk1/2	Specific_Term
+сигнальный путь raf-mek1/2-erk1/2	Specific_Term
+плот	Named_Entity
+хрипы	Named_Entity
+ралоксифен	Specific_Term
+Рамирес-Санчес	Named_Entity
+модели со случайными эффектами	OOD_Term
+рандомизированный	OOD_Term
+рандомизированные контролируемые исследования	OOD_Term
+рандомизация	OOD_Term
+рандомизировать	OOD_Term
+рандомизированный	OOD_Term
+рандомизированное исследование по оценке альдактона	Named_Entity
+оценка ранкина	Specific_Term
+ras	Specific_Term
+блокаторы ras	Specific_Term
+ras-блокировщик	Specific_Term
+управление скоростью	Specific_Term
+соотношение ставок	OOD_Term
+контроль скорости	Specific_Term
+РКИ	OOD_Term
+повторная госпитализация	Common_Term
+реадмиссия	Common_Term
+повторные допуски	Common_Term
+рецептор	Specific_Term
+рецепторы	Specific_Term
+красные кровяные тельца	Common_Term
+переливание эритроцитов	Specific_Term
+повторная стернотомия	Specific_Term
+снижение эффективности	Specific_Term
+уменьшенная доля выброса	Specific_Term
+сниженная фракция выброса левого желудочка	Specific_Term
+ссылка	Specific_Term
+рефрактерный кардиогенный шок	Specific_Term
+рефрактерная застойная сердечная недостаточность	Specific_Term
+рефрактерная правожелудочковая недостаточность	Specific_Term
+регрессионный анализ	OOD_Term
+регрессионный анализ	OOD_Term
+линия регрессии	OOD_Term
+регрессионное моделирование	OOD_Term
+регрессионные модели	OOD_Term
+реабилитация	Common_Term
+повторная госпитализация	Common_Term
+относительный риск	Specific_Term
+относительная толщина стенки	Specific_Term
+расслабься-ahf	Named_Entity
+rem	Specific_Term
+rem2	Specific_Term
+реконструкция	Specific_Term
+реконструкция	Specific_Term
+дистанционное ишемическое кондиционирование	Specific_Term
+удаленный мониторинг	Specific_Term
+почечная недостаточность	Specific_Term
+стеноз почечной артерии	Specific_Term
+денервация почек	Specific_Term
+заболевание почек	Specific_Term
+почечный dnx	Specific_Term
+почечная дисфункция	Specific_Term
+функция почек	Specific_Term
+нарушение функции почек	Specific_Term
+оценка стратегий оптимизации функции почек	Named_Entity
+недостаточная перфузия почек	Specific_Term
+ренастур	Named_Entity
+ренин	Specific_Term
+ингибиторы ренина	Specific_Term
+ренин-ангиотензин-альдостероновый путь	Specific_Term
+ренин-ангиотензиновая система	Specific_Term
+блокатор ренин-ангиотензиновой системы	Specific_Term
+ренин-ангиотензин-альдостерон	Specific_Term
+ренин-ангиотензин-альдостерон	Specific_Term
+ренин-ангиотензин-альдостероновая система	Specific_Term
+ингибиторы ренин-ангиотензин-альдостероновой системы	Specific_Term
+повторное открытие	Common_Term
+реперфузия	Specific_Term
+реполяризация	Specific_Term
+сопротивляющийся	Specific_Term
+анализ дыхательных газов	Specific_Term
+гемодинамика в состоянии покоя	Specific_Term
+отдыхающий hr	Common_Term
+напряжение покоя	Specific_Term
+реанимация	Common_Term
+повторная синхронизация	Specific_Term
+ресинхронизация обращает вспять ремоделирование при систолической дисфункции левого желудочка	Named_Entity
+ресинхронизирующая терапия	Specific_Term
+ресинхронизация-дефибрилляция при амбулаторном исследовании сердечной недостаточности	Named_Entity
+retn	Specific_Term
+ретроспективная когорта	OOD_Term
+ретроспективное когортное исследование	OOD_Term
+ретроспективное сопоставимое когортное исследование	OOD_Term
+реваскуляризация	Specific_Term
+обратный	Named_Entity
+обратная реконструкция	Specific_Term
+rgk	Specific_Term
+белок rgk	Specific_Term
+белки rgk	Specific_Term
+ревматический	Common_Term
+ревматическая лихорадка	Specific_Term
+ревматоидный	Specific_Term
+ревматоидный артрит	Specific_Term
+контроль ритма	Specific_Term
+терапия контроля ритма	Specific_Term
+управление ритмом	Specific_Term
+ri	Specific_Term
+правое предсердие	Specific_Term
+миксома правого предсердия	Specific_Term
+давление в правом предсердии	Specific_Term
+правое предсердие	Specific_Term
+правая коронарная артерия	Specific_Term
+правое сердце	Specific_Term
+правостороннее кровообращение сердца	Specific_Term
+недостаточность кровообращения в правых отделах сердца	Specific_Term
+правосторонняя сердечная недостаточность	Specific_Term
+давление наполнения правого отдела сердца	Specific_Term
+правая легочная артерия	Specific_Term
+правый желудочек	Specific_Term
+правый желудочек	Specific_Term
+вспомогательное устройство для правого желудочка	Specific_Term
+вспомогательные устройства для правого желудочка	Specific_Term
+сократительная функция правого желудочка	Specific_Term
+сократительный резерв правого желудочка	Specific_Term
+дисфункция правого желудочка	Specific_Term
+фракция выброса правого желудочка	Specific_Term
+индекс конечной диастолической площади правого желудочка	Specific_Term
+фракционная зона правого желудочка	Specific_Term
+функция правого желудочка	Specific_Term
+электрокардиостимуляция правого желудочка	Specific_Term
+перегрузка давлением в правом желудочке	Specific_Term
+поддержка правого желудочка	Specific_Term
+соединение правого желудочка с легочной артерией	Specific_Term
+правосторонняя катетеризация сердца	Specific_Term
+riia	Specific_Term
+кольцевая аннулопластика	Specific_Term
+стратификация рисков	Specific_Term
+риа	Specific_Term
+фирма	Specific_Term
+rmsea	OOD_Term
+рнк	Specific_Term
+РНК	Specific_Term
+роза	Named_Entity
+роттердамское исследование	Named_Entity
+rr	Specific_Term
+транскрипция ррнк	Specific_Term
+rs	Specific_Term
+синхронность rs	Specific_Term
+rs10927887	Specific_Term
+rtq-пцр	Specific_Term
+rv	Specific_Term
+декомпенсация ПЖ	Specific_Term
+дисфункция ПЖ	Specific_Term
+отказ rv	Specific_Term
+функция rv	Specific_Term
+поддержка rv	Specific_Term
+rvad	Specific_Term
+rvads	Specific_Term
+rvpo	Specific_Term
+rwt	Specific_Term
+s'	Specific_Term
+s12884	Specific_Term
+s1pr1	Specific_Term
+агонист s1pr1	Specific_Term
+s1pr1s	Specific_Term
+s3991	Specific_Term
+sa	Specific_Term
+сакубилтрил	Specific_Term
+saf	Specific_Term
+загрузка соли	Specific_Term
+саркомер	Specific_Term
+саркомерная микроструктура	Specific_Term
+истощение мышц саркопенического диапазона	Specific_Term
+саркоплазматическая ретикулярная	Specific_Term
+саксаглиптин	Specific_Term
+каркасный белок	Specific_Term
+каркасные белки	Specific_Term
+schfi v.6.2	Named_Entity
+scn5a	Specific_Term
+sd	OOD_Term
+sd всех интервалов qt	Specific_Term
+sd интервалов rr	Specific_Term
+sdqt	Specific_Term
+sdrr	Specific_Term
+Сиэтл	Named_Entity
+модель сердечной недостаточности в Сиэтле	Named_Entity
+препараты сульфонилмочевины второго поколения	Specific_Term
+вторичная конечная точка	Specific_Term
+вторичные конечные точки	Specific_Term
+вторичные конечные точки	Specific_Term
+вторичный результат	Specific_Term
+вторичные результаты	Specific_Term
+seer-medicare	Named_Entity
+селективные бета-адреноблокаторы	Specific_Term
+селективный ?-блокатор	Specific_Term
+уверенность в самообслуживании	Named_Entity
+поддержание самообслуживания	Named_Entity
+управление самообслуживанием	Named_Entity
+самостоятельный уход за индексом сердечной недостаточности версии 6.2	Named_Entity
+чувствительность	Specific_Term
+сепсис	Specific_Term
+перегородочный	Specific_Term
+перегородка	Specific_Term
+ser77	Specific_Term
+ser83	Specific_Term
+ser96	Specific_Term
+сывороточный альбумин	Specific_Term
+сывороточный креатинин	Specific_Term
+сывороточный цистатин с	Specific_Term
+уровень калия в сыворотке крови	Specific_Term
+натрий в сыворотке крови	Specific_Term
+тяжелая сердечная недостаточность	Specific_Term
+тяжелая сн	Specific_Term
+тяжелая систолическая сердечная недостаточность	Specific_Term
+тяжелая систолическая СН	Specific_Term
+sh	Specific_Term
+сдвиг	Named_Entity
+шоковая терапия	Specific_Term
+показатель краткосрочного фрактального масштабирования	Specific_Term
+дробовик lc-ms/ms	Specific_Term
+шунт	Specific_Term
+маневрирование	Specific_Term
+шунты	Specific_Term
+тест на челночную ходьбу	Specific_Term
+серповидноклеточная анемия	Specific_Term
+передача сигнала	Specific_Term
+сигнальный путь	Specific_Term
+сигнальные пути	Specific_Term
+сигнальный путь	Specific_Term
+сигнальные пути	Specific_Term
+сигнальные белки	Specific_Term
+сигналосомный комплекс	Specific_Term
+значение	OOD_Term
+значительный	OOD_Term
+значительно	OOD_Term
+синусовый ритм	Specific_Term
+ситаглиптин	Specific_Term
+скелетные мышцы	Specific_Term
+skm	Specific_Term
+smad 2/3	Specific_Term
+snp	Specific_Term
+натрий	Common_Term
+сонографический	Specific_Term
+Южная Дакота	Named_Entity
+корреляции Спирмена	OOD_Term
+специфика	Specific_Term
+эхокардиография с отслеживанием спеклов	Specific_Term
+сфингозин-1-фосфат	Specific_Term
+сфингозин-1-фосфатный рецептор 1	Specific_Term
+спиронолактон	Specific_Term
+спонтанная желудочковая тахикардия	Specific_Term
+спонтанный вт	Specific_Term
+Спрэг-Доули	Named_Entity
+sr	Specific_Term
+sr ca(2+)-насос	Specific_Term
+сс	Specific_Term
+ss20	Specific_Term
+ss31	Specific_Term
+sst2	Specific_Term
+неправильный подъем сегмента st	Specific_Term
+st2	Specific_Term
+стабильная	Common_Term
+стабильная сердечная недостаточность	Specific_Term
+стабильная ВЧ	Specific_Term
+стандартная погрешность измерения	OOD_Term
+ste	Specific_Term
+стволовая клетка	Common_Term
+стеноз	Specific_Term
+физиология стеноза	Specific_Term
+стент	Specific_Term
+стентирование	Specific_Term
+грудина	Specific_Term
+стернотомия	Specific_Term
+напряжение	Specific_Term
+стресс-допплеровская эхокардиография	Specific_Term
+стресс-эхокардиография	Specific_Term
+инсульт	Common_Term
+ударный объем	Specific_Term
+индекс ударного объема	Specific_Term
+штрихи	Common_Term
+структурированная телефонная поддержка	OOD_Term
+sts	OOD_Term
+t-тест стьюдента	OOD_Term
+субклеточный	Specific_Term
+субклинический	Specific_Term
+подпрограмма	Specific_Term
+подпротоколы	Specific_Term
+сублегочный желудочек	Specific_Term
+подклапанный	Specific_Term
+препараты сульфонилмочевины	Specific_Term
+хирурги	Common_Term
+хирургия	Common_Term
+хирургический	Common_Term
+хирургическая паллиативная помощь	Specific_Term
+хирургическим путем	Common_Term
+sv	Specific_Term
+свр	Specific_Term
+Швеция	Named_Entity
+симпатическая	Specific_Term
+симпатическая активность	Specific_Term
+симпатический контроль частоты сердечных сокращений	Specific_Term
+симпатическая нервная система	Specific_Term
+симпатический отток	Specific_Term
+сочувственный тон	Specific_Term
+симпатовагальный баланс	Specific_Term
+симптом	Common_Term
+симптоматический	Common_Term
+симптоматический родничок у взрослого	Specific_Term
+симптоматическая хроническая прогрессирующая сердечная недостаточность	Specific_Term
+симптоматическая систолическая сердечная недостаточность	Specific_Term
+симптомы	Common_Term
+синдром	Common_Term
+синдромы	Common_Term
+системный	Specific_Term
+системное кровяное давление	Specific_Term
+системная гипертензия	Specific_Term
+системное сосудистое сопротивление	Specific_Term
+системная протеомика	Specific_Term
+систола	Specific_Term
+систолическое	Specific_Term
+систолическая сердечная недостаточность	Specific_Term
+систолическое артериальное давление	Specific_Term
+систолическая дисфункция	Specific_Term
+систолическая эластичность	Specific_Term
+систолическая функция	Specific_Term
+систолическая сердечная недостаточность	Specific_Term
+исследование лечения систолической сердечной недостаточности ингибитором if ивабрадином	Named_Entity
+систолическая СН	Specific_Term
+систолическая дисфункция левого желудочка	Specific_Term
+систолическая скорость движения митрального кольца	Specific_Term
+систолическое давление	Specific_Term
+систолическая функция желудочков	Specific_Term
+индекс систолического объема	Specific_Term
+сзето-Шиллер	Specific_Term
+t-балл	OOD_Term
+t1	Specific_Term
+отображение t1	Specific_Term
+время t1	Specific_Term
+t1 раз	Specific_Term
+t1-сопоставление	Specific_Term
+t2*	Specific_Term
+t2d	Specific_Term
+tac	Specific_Term
+тахиаритмии	Specific_Term
+тахикардия	Specific_Term
+тахикардия	Specific_Term
+ВЧ, вызванная тахипакингом	Specific_Term
+tapse	Specific_Term
+тауб	Named_Entity
+телемедицина	Specific_Term
+телемониторинг	Specific_Term
+терминал	Common_Term
+терминальная сердечная недостаточность	Common_Term
+тестостерон	Common_Term
+прием добавок тестостерона	Specific_Term
+терапия тестостероном	Specific_Term
+Техас	Named_Entity
+техасский онкологический регистр–medicare	Named_Entity
+tgf-?	Specific_Term
+рецептор tgf-? типа i	Specific_Term
+передача сигналов tgf-?	Specific_Term
+основная причина талассемии	Specific_Term
+сотрудничество в области эпидемиологии хронической болезни почек	Named_Entity
+датская база данных о сердечной недостаточности	Named_Entity
+the lancet	Named_Entity
+терапевтический	Common_Term
+терапия	Common_Term
+методы лечения	Common_Term
+терапия	Common_Term
+третий звук сердца	Specific_Term
+корпорация thoratec	Named_Entity
+thr197	Specific_Term
+тромбоэмболический	Specific_Term
+тромбоэмболические осложнения	Specific_Term
+тромбоэмболическая легочная гипертензия	Specific_Term
+тромбоэмболия	Specific_Term
+тромбоз	Specific_Term
+тромботический	Specific_Term
+тромботическая обструкция	Specific_Term
+приливное дыхание	Specific_Term
+приурочено к началу и завершению	Specific_Term
+тест по времени запуска и перехода	Specific_Term
+тканевая допплерография	Specific_Term
+tissuefaxs	Named_Entity
+титин	Specific_Term
+гипофосфорилирование титина	Specific_Term
+титрованный	Specific_Term
+тм	Specific_Term
+tm24/7	Specific_Term
+tnf	Specific_Term
+антагонист tnf	Specific_Term
+антагонисты tnf	Specific_Term
+толваптан	Specific_Term
+томографическая ангиография	Specific_Term
+тонометрический	Specific_Term
+тонометрия	Specific_Term
+инструменты для экономического анализа вмешательств по ведению пациентов с сердечной недостаточностью, модель экономической эффективности	Named_Entity
+Торонто	Named_Entity
+полная податливость артерий	Specific_Term
+транскатетер	Specific_Term
+транскатетерная операция на аортальном клапане	Specific_Term
+фактор транскрипции	Specific_Term
+факторы транскрипции	Specific_Term
+снятие транскрипционной паузы	Specific_Term
+пути трансдукции	Specific_Term
+трансформирующий фактор роста-?	Specific_Term
+переливание крови	Common_Term
+переливания крови	Common_Term
+трансгенный	Specific_Term
+переходный рецепторный потенциальный катионный канал m7	Specific_Term
+трансмитральный	Specific_Term
+скорость трансмитрального кровотока	Specific_Term
+трансмитральный поток	Specific_Term
+чреспищеводная эхокардиографическая	Specific_Term
+чреспищеводная эхокардиография	Specific_Term
+трансплантация	Common_Term
+трансплантация	Common_Term
+трансплантации	Common_Term
+трансплантаты	Common_Term
+транссептальный	Specific_Term
+транссептальная катетеризация	Specific_Term
+трансторакальная эхокардиография	Specific_Term
+поперечное сужение аорты	Specific_Term
+трастузумаб	Specific_Term
+треугольная резекция	Specific_Term
+гистологический анализ трихромового синего	Specific_Term
+трехстворчатый	Specific_Term
+трехстворчатая кольцевая плоскость	Specific_Term
+систолическое отклонение плоскости трехстворчатого кольца	Specific_Term
+трехстворчатый клапан	Specific_Term
+тропонин	Specific_Term
+тропонин i	Specific_Term
+тропонин т	Specific_Term
+trpm7	Specific_Term
+tta/tgtetmena	Specific_Term
+буксир	Specific_Term
+испытание на буксир	Specific_Term
+опухоль	Common_Term
+фактор некроза опухоли	Specific_Term
+опухоли	Common_Term
+tunel	Specific_Term
+tunel-позитивные клетки	Specific_Term
+Турция	Named_Entity
+Тоскана	Named_Entity
+сахарный диабет 2 типа	Specific_Term
+регуляторная субъединица типа i	Specific_Term
+мини-страж Управления по контролю за продуктами и лекарствами США	Named_Entity
+Великобритания	Named_Entity
+язвы	Common_Term
+недиагностированный	Common_Term
+развернутый белковый ответ	Specific_Term
+односторонняя денервация почек	Specific_Term
+односторонний почечный dnx	Specific_Term
+нефрэктомия	Specific_Term
+Соединенные Штаты	Named_Entity
+однозначный анализ	OOD_Term
+одномерный анализ	OOD_Term
+университетская сеть здравоохранения	Named_Entity
+университет Коннектикута	Named_Entity
+медицинский центр университета Коннектикута	Named_Entity
+центр сердечной недостаточности университета Коннектикута	Named_Entity
+Мичиганский университет	Named_Entity
+upr	Specific_Term
+обновление	Specific_Term
+обновления	Specific_Term
+инфекция мочевыводящих путей	Common_Term
+сша	Named_Entity
+uti	Common_Term
+vad	Specific_Term
+vads	Specific_Term
+тонус блуждающего нерва	Specific_Term
+валсартан	Specific_Term
+пластика клапана	Specific_Term
+клапанный	Specific_Term
+клапанное заболевание	Specific_Term
+клапанная регургитация	Specific_Term
+сосудистый	Common_Term
+сосудистые заболевания	Specific_Term
+сосудистые заболевания	Specific_Term
+фактор роста эндотелия сосудов	Specific_Term
+блокада фактора роста эндотелия сосудов	Specific_Term
+жесткость сосудов	Specific_Term
+сосудорасширяющее средство	Specific_Term
+сосудорасширяющие средства	Specific_Term
+сосудорасширяющий	Specific_Term
+ингибиторы вазопептидазы	Specific_Term
+вазопрессин	Specific_Term
+антагонист рецепторов вазопрессина	Specific_Term
+антагонист рецепторов вазопрессина 2-го типа	Specific_Term
+vegf	Specific_Term
+экспрессия vegf	Specific_Term
+ингибирование vegf	Specific_Term
+путь vegf	Specific_Term
+рецептор vegf	Specific_Term
+сигнальный путь vegf	Specific_Term
+наклон ven/vco2	Specific_Term
+полая вена	Specific_Term
+расширение вен и артерий	Specific_Term
+венозный	Specific_Term
+венозные тромбоэмболические осложнения	Specific_Term
+венозная тромбоэмболия	Specific_Term
+наклон эффективности вентиляции	Specific_Term
+желудочек	Specific_Term
+желудочки	Specific_Term
+желудочковый	Specific_Term
+потенциал желудочковой активности	Specific_Term
+потенциалы действия желудочков	Specific_Term
+устройство для поддержки желудочков	Specific_Term
+устройства для поддержки желудочков	Specific_Term
+желудочковые кардиомиоциты	Specific_Term
+диастолическая функция желудочков	Specific_Term
+желудочковая дисфункция	Specific_Term
+фибрилляция желудочков	Specific_Term
+функция желудочков	Specific_Term
+масса желудочка	Specific_Term
+миоциты желудочков	Specific_Term
+систолическая СН желудочков	Specific_Term
+желудочковая тахикардия	Specific_Term
+желудочково-артериальная связь	Specific_Term
+желудочково	Specific_Term
+обнаружение границ видео	Specific_Term
+vo	Specific_Term
+vo2	Specific_Term
+vo2 max	Specific_Term
+vo2max	Specific_Term
+перегрузка объемом	Specific_Term
+фактор фон Виллебранда	Specific_Term
+вт	Specific_Term
+vvd	Specific_Term
+жесткость стенки	Specific_Term
+напряжение на стене	Specific_Term
+западная Австралия	Named_Entity
+вестерн-блот	Specific_Term
+западные кляксы	Specific_Term
+широкий комплекс qrs	Specific_Term
+тесты соответствия пар Уилкоксона с подписанным рангом	OOD_Term
+rad дикого типа	Specific_Term
+вистар-Киото	Named_Entity
+инициатива по охране здоровья женщин	Named_Entity
+Всемирная организация здравоохранения	Named_Entity
+рентгеновский снимок	Common_Term
+ксантиноксидаза	Specific_Term
+ингибирование ксантиноксидазы	Specific_Term
+xo	Specific_Term
+ингибирование xo	Specific_Term
+АФК, опосредованные xo	Specific_Term
+Йоркшир	Named_Entity
+z-оценка	OOD_Term
+zsf1	OOD_Term
+самооценка Зунгом показателей депрессии	Named_Entity
+тяжелая цепь ?-миозина	Specific_Term
+?-коэффициент	OOD_Term
+?-адренергический рецептор	Specific_Term
+агонист ?-адренергических рецепторов	Specific_Term
+блокада ?-адренергических рецепторов	Specific_Term
+блокатор ?-адренергических рецепторов	Specific_Term
+терапия блокаторами ?-адренорецепторов	Specific_Term
+блокада ?-адренорецепторов	Specific_Term
+?-ar	Specific_Term
+чувствительность к ?-ar	Specific_Term
+?-блокада	Specific_Term
+?-блокатор	Specific_Term
+?-адреноблокаторы	Specific_Term
+тяжелая цепь ?-миозина	Specific_Term
+?1-адренергический рецептор	Specific_Term
+?1ar	Specific_Term
+?1ars	Specific_Term
+гаплотип ?2-адренергического рецептора	Specific_Term
+?2-рецептор	Specific_Term
+гаплотип ?2-рецептора	Specific_Term
